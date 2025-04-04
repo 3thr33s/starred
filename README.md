@@ -105,8 +105,11 @@
 
 ## JavaScript 
 
+- [eslint/rewrite](https://github.com/eslint/rewrite) - Monorepo for the new version of ESLint
+- [yeoman/generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
+- [TooTallNate/ansi.js](https://github.com/TooTallNate/ansi.js) - Advanced ANSI formatting tool for Node.js
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [rafaelfgx/Blockchain](https://github.com/rafaelfgx/Blockchain) - Blockchain, Wallet, Smart Contracts, Token, NFT, SBT, Solidity.
-- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2025)
@@ -126,6 +129,7 @@
 - [ry/tinyclouds](https://github.com/ry/tinyclouds) - 
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [bmorphism/hypernym-mcp-server](https://github.com/bmorphism/hypernym-mcp-server) - 
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
@@ -176,6 +180,9 @@
 
 ## Others 
 
+- [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
+- [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [dereknguyen269/programing-best-practices](https://github.com/dereknguyen269/programing-best-practices) - A curated list of awesome Programming Best Practices
@@ -222,7 +229,6 @@
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [jasonwebb/morphogenesis-resources](https://github.com/jasonwebb/morphogenesis-resources) - Resources on the topic of digital morphogenesis (creating form with code). Includes links to major articles, code repos, creative projects, books, software, and more.
-- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 - [mmenestret/fp-resources](https://github.com/mmenestret/fp-resources) - Functional programming great resources
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -241,6 +247,7 @@
 
 ## Python 
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [disler/just-prompt](https://github.com/disler/just-prompt) - just-prompt is an MCP server that provides a unified interface to top LLM providers (OpenAI, Anthropic, Google Gemini, Groq, DeepSeek, and Ollama)
 - [sentient-agi/OpenDeepSearch](https://github.com/sentient-agi/OpenDeepSearch) - 
 - [ran-isenberg/aws-lambda-handler-cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) - This repository provides a working, deployable, open source-based, serverless service blueprint with an AWS Lambda function and AWS CDK Python code with all the best practices and a complete CI/CD pip
@@ -276,7 +283,7 @@
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlinin
 - [swarmzero/swarmzero](https://github.com/swarmzero/swarmzero) - SwarmZero's SDK for building AI agents, swarms of agents and much more.
-- [vortezwohl/CEO-Agentic-AI-Framework](https://github.com/vortezwohl/CEO-Agentic-AI-Framework) - An ultra-lightweight agentic AI framework based on the ReAct paradigm.
+- [vortezwohl/CEO-Autonomous-Agent-Framework](https://github.com/vortezwohl/CEO-Autonomous-Agent-Framework) - An ultra-lightweight autonomous agent framework based on the ReAct paradigm.
 - [akiani/aidialer](https://github.com/akiani/aidialer) - A full stack app for interruptible, low-latency and near-human quality AI phone calls built from stitching LLMs, speech understanding tools, text-to-speech models, and Twilio’s phone API.
 - [willwoodward/woodwork-engine](https://github.com/willwoodward/woodwork-engine) - An AI Agent IaC tool that aims to make developing and deploying AI Agents easier.
 - [AlbanPerli/Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - A declarative way to control LLMs.
@@ -304,6 +311,7 @@
 
 ## Rust 
 
+- [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [paradigmxyz/reth](https://github.com/paradigmxyz/reth) - Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
 - [buger/probe](https://github.com/buger/probe) - Probe is an AI-friendly, fully local, semantic code search engine which which works with for large codebases. The final missing building block for next generation of AI coding tools.
@@ -313,7 +321,7 @@
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
-- [Tritwies/omega](https://github.com/Tritwies/omega) - 𝛀: xenomodern collaborative worlding kit & structure-aware agentic editor for the end of time ˢᵘᶜᶜᵉˢˢᵒʳ ᵒᶠ ᶻᵉᵈ
+- [Tritwies/omega](https://github.com/Tritwies/omega) - vibe trade like Jesus w/ 𝛀: xenomodern collaborative worlding kit & structure-aware agentic environment for the end of time ˢᵘᶜᶜᵉˢˢᵒʳ ᵒᶠ ᶻᵉᵈ
 
 ## Shell 
 
@@ -332,6 +340,8 @@
 
 ## TypeScript 
 
+- [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
+- [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
@@ -392,6 +402,7 @@
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.

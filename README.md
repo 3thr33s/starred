@@ -105,6 +105,9 @@
 
 ## JavaScript 
 
+- [TodePond/CellPond](https://github.com/TodePond/CellPond) - surreal cellular automata
+- [TodePond/ScreenPond](https://github.com/TodePond/ScreenPond) - screens in screens in screens
+- [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [eslint/rewrite](https://github.com/eslint/rewrite) - Monorepo for the new version of ESLint
 - [yeoman/generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
 - [TooTallNate/ansi.js](https://github.com/TooTallNate/ansi.js) - Advanced ANSI formatting tool for Node.js
@@ -180,6 +183,7 @@
 
 ## Others 
 
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
@@ -340,6 +344,7 @@
 
 ## TypeScript 
 
+- [JuerGenie/valiload](https://github.com/JuerGenie/valiload) - A simple and lightweight library for overloading functions in TypeScript.
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps

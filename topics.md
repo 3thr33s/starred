@@ -119,6 +119,7 @@
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
@@ -200,7 +201,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Manus AI alternative that run locally. Powered with Deepseek R1. No APIs, No $456 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build lightning-fast Reasoning Agents with memory, knowledge, tools and native multi-modal support.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [dnakov/anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
@@ -309,6 +310,7 @@
 
 ## awesome 
 
+- [Separius/awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
@@ -355,6 +357,7 @@
 
 ## awesome-list 
 
+- [Separius/awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
@@ -468,6 +471,7 @@
 
 ## cli 
 
+- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [microlinkhq/tinyrun](https://github.com/microlinkhq/tinyrun) - CLI for executing multiple commands in parallel with minimal footprint (~2KB).
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
@@ -482,6 +486,7 @@
 
 ## code 
 
+- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [dnakov/anon-kode](https://github.com/dnakov/anon-kode) - koding with any LLMs
@@ -545,6 +550,7 @@
 
 ## css 
 
+- [JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css
 - [hamidelgendy/arto](https://github.com/hamidelgendy/arto) - Arto is a type-safe, flexible class name management library designed for building scalable UIs with variants, states, and advanced conditional styling.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [lvwzhen/tools](https://github.com/lvwzhen/tools) - Tools Online
@@ -720,7 +726,7 @@
 
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build lightning-fast Reasoning Agents with memory, knowledge, tools and native multi-modal support.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [vortezwohl/Autono](https://github.com/vortezwohl/Autono) - A ReAct-Based Highly Robust Autonomous Agent Framework
 
@@ -753,6 +759,7 @@
 
 ## github 
 
+- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub
 - [0l1v3rr/github-readme-tech-stack](https://github.com/0l1v3rr/github-readme-tech-stack) - Show off your favorite technologies by using cards in your GitHub README
 
 ## github-api 
@@ -846,6 +853,7 @@
 
 ## html 
 
+- [repetere/jsonx](https://github.com/repetere/jsonx) - JSONX - Create React Elements, JSX and HTML from JSON
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 204 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [sondr3/radiant](https://github.com/sondr3/radiant) - Blaze your way through HTML using the type-safety of TypeScript
@@ -886,6 +894,8 @@
 
 ## javascript 
 
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
+- [repetere/jsonx](https://github.com/repetere/jsonx) - JSONX - Create React Elements, JSX and HTML from JSON
 - [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -941,6 +951,7 @@
 
 ## json 
 
+- [repetere/jsonx](https://github.com/repetere/jsonx) - JSONX - Create React Elements, JSX and HTML from JSON
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
@@ -1021,6 +1032,7 @@
 
 ## low-code 
 
+- [Liberty-liu/Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - :guide_dog: Powerful lowcode|vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many
 - [aeria-org/aeria](https://github.com/aeria-org/aeria) - A language designed for the web that integrates with TypeScript
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
@@ -1031,6 +1043,8 @@
 
 ## machine-learning 
 
+- [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
+- [aai-institute/pyDVL](https://github.com/aai-institute/pyDVL) - pyDVL is a library of stable implementations of algorithms for data valuation and influence function computation
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1091,6 +1105,8 @@
 
 ## natural-language-processing 
 
+- [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [bilalonur/awesome-llm-os](https://github.com/bilalonur/awesome-llm-os) - A curated list of awesome resources, tools, research papers, and projects related to the concept of Large Language Model Operating Systems (LLM-OS).
 - [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
@@ -1108,6 +1124,7 @@
 
 ## nextjs 
 
+- [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition supp
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -1124,9 +1141,16 @@
 
 ## nlp 
 
+- [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
+- [Separius/awesome-sentence-embedding](https://github.com/Separius/awesome-sentence-embedding) - A curated list of pretrained sentence and word embedding models
+- [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [vortezwohl/Autono](https://github.com/vortezwohl/Autono) - A ReAct-Based Highly Robust Autonomous Agent Framework
+
+## no-code 
+
+- [Liberty-liu/Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - :guide_dog: Powerful lowcode|vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many
 
 ## node 
 
@@ -1140,6 +1164,7 @@
 
 ## nodejs 
 
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
@@ -1182,6 +1207,7 @@
 
 ## open-source 
 
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
@@ -1224,6 +1250,16 @@
 
 ## others 
 
+- [htmujahid/shadcn-editor](https://github.com/htmujahid/shadcn-editor) - Lexical base rich text editor using shadcn/ui components
+- [prakhar1989/react-surveyman](https://github.com/prakhar1989/react-surveyman) - SurveyMan in React
+- [AdeleD/react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination
+- [reactjs/react-tabs](https://github.com/reactjs/react-tabs) - An accessible and easy tab component for ReactJS.
+- [komarovalexander/react-filter-control](https://github.com/komarovalexander/react-filter-control) - The react UI component for building complex filter criteria
+- [andreizanik/react-mouse-select](https://github.com/andreizanik/react-mouse-select) - A simple react library for selecting elements by moving the mouse
+- [civiccc/react-waypoint](https://github.com/civiccc/react-waypoint) - A React component to execute a function whenever you scroll to an element.
+- [ZebangCheng/Emotion-LLaMA](https://github.com/ZebangCheng/Emotion-LLaMA) - Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning
+- [thompsonsj/slate-serializers](https://github.com/thompsonsj/slate-serializers) - Serialize Slate JSON objects to HTML and vice versa. Define rules to modify the end result.
+- [disler/aider-mcp-server](https://github.com/disler/aider-mcp-server) - Minimal MCP Server for Aider
 - [Kikobeats/awesome-minimal-websites](https://github.com/Kikobeats/awesome-minimal-websites) - A curated list of minimal websites.
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [microlinkhq/demo-links](https://github.com/microlinkhq/demo-links) - A set of links used for demo purposes
@@ -1278,7 +1314,7 @@
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 - [langchain-ai/open-canvas](https://github.com/langchain-ai/open-canvas) - 📃 A better UX for chat, writing content, and coding with LLMs.
 - [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
-- [agentica-project/deepscaler](https://github.com/agentica-project/deepscaler) - Democratizing Reinforcement Learning for LLMs
+- [agentica-project/rllm](https://github.com/agentica-project/rllm) - Democratizing Reinforcement Learning for LLMs
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [sublimino/awesome-funny-markov](https://github.com/sublimino/awesome-funny-markov) - A curated list of delightfully amusing and facetious Markov chain output.
 - [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
@@ -1407,11 +1443,12 @@
 
 ## python 
 
+- [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [ran-isenberg/aws-lambda-handler-cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) - This repository provides a working, deployable, open source-based, serverless service blueprint with an AWS Lambda function and AWS CDK Python code with all the best practices and a complete CI/CD pip
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build lightning-fast Reasoning Agents with memory, knowledge, tools and native multi-modal support.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -1444,6 +1481,21 @@
 
 ## react 
 
+- [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
+- [repetere/jsonx](https://github.com/repetere/jsonx) - JSONX - Create React Elements, JSX and HTML from JSON
+- [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
+- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
+- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
+- [arifszn/reactive-button](https://github.com/arifszn/reactive-button) - 3D animated react button component with progress bar.
+- [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition supp
+- [rcaferati/react-awesome-button](https://github.com/rcaferati/react-awesome-button) - React button component. Awesome button is a 3D UI, progress, social and share enabled, animated at 60fps, light weight, performant, production ready react UI button component. 🖥️ 📱
+- [ctxhou/react-tabtab](https://github.com/ctxhou/react-tabtab) - 💃 Make your react tab dance🕺
+- [JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css
+- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
+- [dantrain/react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component for React
+- [jquense/react-widgets](https://github.com/jquense/react-widgets) - Polished, feature rich, accessible form inputs built with React
+- [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [styled-components/styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app using styled-components
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
@@ -1502,6 +1554,8 @@
 
 ## reactjs 
 
+- [repetere/jsonx](https://github.com/repetere/jsonx) - JSONX - Create React Elements, JSX and HTML from JSON
+- [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition supp
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [AlbericoD/overwolf-modern-react-boilerplate](https://github.com/AlbericoD/overwolf-modern-react-boilerplate) - OMRB is a free and open source opinionated boilerplate based on React that helps developers create fast, modular and modern overwolf app.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
@@ -1672,6 +1726,7 @@
 
 ## testing 
 
+- [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
@@ -1756,6 +1811,7 @@
 
 ## vue 
 
+- [Liberty-liu/Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - :guide_dog: Powerful lowcode|vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
@@ -1767,6 +1823,7 @@
 
 ## web 
 
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI

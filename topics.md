@@ -23,6 +23,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
 - [c](#c)
@@ -471,6 +472,10 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
+## bitcoin 
+
+- [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
+
 ## blockchain 
 
 - [rafaelfgx/Blockchain](https://github.com/rafaelfgx/Blockchain) - Blockchain, Wallet, Smart Contracts, Token, NFT, SBT, Solidity.
@@ -483,6 +488,7 @@
 
 ## c 
 
+- [urbit/urbit](https://github.com/urbit/urbit) - An operating function
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
@@ -529,6 +535,7 @@
 
 ## cli 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -563,6 +570,7 @@
 
 ## compiler 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 
 ## computer-science 
@@ -575,6 +583,7 @@
 
 ## computer-vision 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 
@@ -668,6 +677,7 @@
 
 ## deep-learning 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
@@ -881,7 +891,6 @@
 ## google 
 
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
-- [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
 
 ## graphql 
@@ -991,6 +1000,7 @@
 
 ## javascript 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
@@ -1033,7 +1043,6 @@
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
-- [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [retraigo/monke](https://github.com/retraigo/monke) - Color quantization and dithering in TypeScript.
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
@@ -1102,6 +1111,7 @@
 
 ## llm 
 
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
@@ -1161,6 +1171,7 @@
 
 ## machine-learning 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
 - [aai-institute/pyDVL](https://github.com/aai-institute/pyDVL) - pyDVL is a library of stable implementations of algorithms for data valuation and influence function computation
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
@@ -1226,6 +1237,7 @@
 
 ## natural-language-processing 
 
+- [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
@@ -1314,7 +1326,6 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
-- [google-gemini/generative-ai-js](https://github.com/google-gemini/generative-ai-js) - The official Node.js / Typescript library for the Google Gemini API
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bugthesystem/scientist.js](https://github.com/bugthesystem/scientist.js) - :microscope:  A JavaScript interpretation of the Ruby library Scientist, a library for carefully refactoring critical paths.
@@ -1383,6 +1394,10 @@
 
 ## others 
 
+- [fredkzk/zed-extension-rag-command](https://github.com/fredkzk/zed-extension-rag-command) - /rag command for Zed
+- [koaning/smartfunc](https://github.com/koaning/smartfunc) - Turn docstrings into LLM-functions
+- [bddap/ideas](https://github.com/bddap/ideas) - A place to keep novel system designs.
+- [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents & workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend.
 - [jashandeep31/zed-snippets](https://github.com/jashandeep31/zed-snippets) - A platform for obtaining and creating custom code snippets tailored for the Zed text editor.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
@@ -1490,6 +1505,7 @@
 - [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages.
 - [DanielRapp/doppler](https://github.com/DanielRapp/doppler) - :wave: Motion detection using the doppler effect
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+- [google-gemini/deprecated-generative-ai-js](https://github.com/google-gemini/deprecated-generative-ai-js) - This SDK is now deprecated, use the new unified Google GenAI SDK.
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [spences10/mcp-omnisearch](https://github.com/spences10/mcp-omnisearch) - 🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi), AI tools (Perplexity, FastGPT), and content processing services (Jina AI, Kagi). Comb
@@ -1617,6 +1633,7 @@
 
 ## python 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
@@ -1653,6 +1670,7 @@
 
 ## pytorch 
 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template) - PyTorch Lightning + Hydra. A very user-friendly template for ML experimentation.  ⚡🔥⚡
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -1667,6 +1685,7 @@
 
 ## react 
 
+- [garden-co/jazz](https://github.com/garden-co/jazz) - Build your next app with sync.
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your component library with a unique look.
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
@@ -1776,6 +1795,7 @@
 
 ## rust 
 
+- [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
@@ -1958,6 +1978,7 @@
 
 ## typescript 
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.

@@ -19,6 +19,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
@@ -222,6 +223,10 @@
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essentia
 - [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
 
+## Lua 
+
+- [WeakAuras/WeakAuras2](https://github.com/WeakAuras/WeakAuras2) - World of Warcraft addon that provides a powerful framework to display customizable graphics on your screen.
+
 ## MDX 
 
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -244,6 +249,7 @@
 
 ## Others 
 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bddap/ideas](https://github.com/bddap/ideas) - A place to keep novel system designs.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -325,6 +331,7 @@
 
 ## Python 
 
+- [langchain-ai/langgraph-codeact](https://github.com/langchain-ai/langgraph-codeact) - 
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [koaning/smartfunc](https://github.com/koaning/smartfunc) - Turn docstrings into LLM-functions
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
@@ -410,6 +417,9 @@
 
 ## Rust 
 
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
+- [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 - [fredkzk/zed-extension-rag-command](https://github.com/fredkzk/zed-extension-rag-command) - /rag command for Zed
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 - [ordinals/ord](https://github.com/ordinals/ord) - 👁‍🗨 Rare and exotic sats
@@ -442,6 +452,7 @@
 
 ## Swift 
 
+- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
@@ -451,6 +462,10 @@
 
 ## TypeScript 
 
+- [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
+- [duplojs/zod-accelerator](https://github.com/duplojs/zod-accelerator) - 
+- [ilyichv/shadcn-zod-form](https://github.com/ilyichv/shadcn-zod-form) - CLI tool to convert Zod schemas into shadcn/ui forms.
+- [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [garden-co/jazz](https://github.com/garden-co/jazz) - Build your next app with sync.
 - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents & workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend.
 - [jashandeep31/zed-snippets](https://github.com/jashandeep31/zed-snippets) - A platform for obtaining and creating custom code snippets tailored for the Zed text editor.

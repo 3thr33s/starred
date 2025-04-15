@@ -32,6 +32,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -55,6 +56,7 @@
 
 ## C++ 
 
+- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [KhronosGroup/Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) - One stop solution for all Vulkan samples
@@ -80,6 +82,8 @@
 
 ## Go 
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
+- [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -87,7 +91,6 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [dagger/agents](https://github.com/dagger/agents) - 
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
@@ -127,6 +130,8 @@
 
 ## JavaScript 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+- [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
@@ -249,6 +254,7 @@
 
 ## Others 
 
+- [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [bddap/ideas](https://github.com/bddap/ideas) - A place to keep novel system designs.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
@@ -274,6 +280,7 @@
 - [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [Trustworthy-AI-Group/Adversarial_Examples_Papers](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers) - A list of recent papers about adversarial learning
+- [dagger/agents](https://github.com/dagger/agents) - 
 - [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
 - [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).
 - [lvwzhen/tools](https://github.com/lvwzhen/tools) - Tools Online
@@ -331,6 +338,8 @@
 
 ## Python 
 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.
 - [langchain-ai/langgraph-codeact](https://github.com/langchain-ai/langgraph-codeact) - 
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO11 🚀
 - [koaning/smartfunc](https://github.com/koaning/smartfunc) - Turn docstrings into LLM-functions
@@ -409,7 +418,7 @@
 - [vivekVells/mcp-pandoc](https://github.com/vivekVells/mcp-pandoc) - MCP server for document format conversion using pandoc.
 - [hannesrudolph/imessage-query-fastmcp-mcp-server](https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server) - An MCP server that provides safe access to your iMessage database through Model Context Protocol (MCP). This server is built with the FastMCP framework and the imessagedb library, enabling LLMs to que
 - [Upsonic/Upsonic](https://github.com/Upsonic/Upsonic) - The most reliable AI agent framework that supports MCP.
-- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - The fast, Pythonic way to build Model Context Protocol servers 🚀
+- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 
 ## Ruby 
 
@@ -417,6 +426,9 @@
 
 ## Rust 
 
+- [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
@@ -450,6 +462,10 @@
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 
+## Svelte 
+
+- [kiranraaj19/keystroke](https://github.com/kiranraaj19/keystroke) - A minimal keyboard overlay application for cross-platform desktop built in Rust
+
 ## Swift 
 
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
@@ -462,6 +478,21 @@
 
 ## TypeScript 
 
+- [overlayeddev/overlayed](https://github.com/overlayeddev/overlayed) - A modern, open-source, and free voice chat overlay for Discord that supports Mac, Linux, and Windows
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [Im-Beast/monero-tui](https://github.com/Im-Beast/monero-tui) - TUI Wallet for Monero – the secure, private, untraceable cryptocurrency
+- [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui) - 🦕 Deno module for creating Terminal User Interfaces
+- [dsherret/ts-ast-viewer](https://github.com/dsherret/ts-ast-viewer) - TypeScript AST viewer.
+- [sukovanej/effect-http](https://github.com/sukovanej/effect-http) - Declarative HTTP API library for effect-ts
+- [pigoz/effect-crashcourse](https://github.com/pigoz/effect-crashcourse) - The practical guide I wish existed while learning @effect-ts
+- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+- [Effect-TS/language-service](https://github.com/Effect-TS/language-service) - 
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
+- [IMax153/expressive-ts](https://github.com/IMax153/expressive-ts) - A functional programming library designed to simplify building complex regular expressions
+- [Effect-TS/docgen](https://github.com/Effect-TS/docgen) - An opinionated documentation generator for Effect projects
+- [gcanti/docs-ts](https://github.com/gcanti/docs-ts) - A zero-config documentation tool for my TypeScript projects
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 - [duplojs/zod-accelerator](https://github.com/duplojs/zod-accelerator) - 
 - [ilyichv/shadcn-zod-form](https://github.com/ilyichv/shadcn-zod-form) - CLI tool to convert Zod schemas into shadcn/ui forms.
@@ -564,7 +595,7 @@
 - [echogarden-project/echogarden](https://github.com/echogarden-project/echogarden) - Cross-platform speech toolset, used from the command-line or as a Node.js library. Includes a variety of engines for speech synthesis, speech recognition, forced alignment, speech translation, voice i
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
-- [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - Full-stack configuration & secrets. Batteries included.
+- [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [kevingorski/denodevs.com](https://github.com/kevingorski/denodevs.com) - Deno developer reverse job board
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
@@ -607,7 +638,7 @@
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 204 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 205 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 - [sondr3/radiant](https://github.com/sondr3/radiant) - Blaze your way through HTML using the type-safety of TypeScript
 - [Hexagon/pup](https://github.com/Hexagon/pup) - Universal process manager built in Deno

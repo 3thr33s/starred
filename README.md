@@ -140,6 +140,8 @@
 
 ## JavaScript 
 
+- [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
+- [shannonmoeller/handlebars-wax](https://github.com/shannonmoeller/handlebars-wax) - The missing Handlebars API for data, partials, helpers, and decorators.
 - [elder-plinius/P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - 
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
@@ -226,6 +228,7 @@
 
 ## Jupyter Notebook 
 
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) - Neo4j graph construction from unstructured data using LLMs
@@ -265,8 +268,11 @@
 
 ## Others 
 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent & Windsurf Agent System Prompts, Tools & AI Models.
+- [lorepieri8/awesome-post-scarcity](https://github.com/lorepieri8/awesome-post-scarcity) - A curated list of Post-Scarcity links, books and resources.
+- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
-- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - SYSTEM TRANSPARENCY FOR ALL
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - SYSTEM PROMPT TRANSPARENCY FOR ALL
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -343,6 +349,7 @@
 
 ## PHP 
 
+- [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 ## Perl 
@@ -352,6 +359,8 @@
 
 ## Python 
 
+- [augmentcode/augment-swebench-agent](https://github.com/augmentcode/augment-swebench-agent) - The #1 open-source SWE-bench Verified implementation
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [elder-plinius/juice-69](https://github.com/elder-plinius/juice-69) - 
 - [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -500,6 +509,11 @@
 
 ## TypeScript 
 
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
+- [langchain-ai/agent-inbox](https://github.com/langchain-ai/agent-inbox) - 📥 An inbox UX for interacting with human-in-the-loop agents.
+- [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [callstackincubator/fabrice-ai](https://github.com/callstackincubator/fabrice-ai) - A lightweight, functional, and composable framework for building AI agents. No PhD required.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.

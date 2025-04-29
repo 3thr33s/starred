@@ -207,6 +207,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xcode](#xcode)
+- [zig](#zig)
 
 ## 3d 
 
@@ -214,6 +215,8 @@
 
 ## ai 
 
+- [poloclub/wordflow](https://github.com/poloclub/wordflow) - Social and customizable AI writing assistant! ✍️
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, graph-vector database built in Rust for millisecond query latency and ease of use.
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 - [callstackincubator/fabrice-ai](https://github.com/callstackincubator/fabrice-ai) - A lightweight, functional, and composable framework for building AI agents. No PhD required.
@@ -291,6 +294,7 @@
 
 ## analytics 
 
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 
@@ -540,6 +544,7 @@
 
 ## chatgpt 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -569,6 +574,7 @@
 
 ## cli 
 
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, graph-vector database built in Rust for millisecond query latency and ease of use.
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [radi-cho/datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
@@ -614,6 +620,7 @@
 
 ## coding 
 
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlinin
 
 ## compiler 
@@ -672,6 +679,8 @@
 
 ## css 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
+- [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
@@ -696,6 +705,7 @@
 
 ## data-analysis 
 
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
 
 ## data-science 
@@ -710,11 +720,13 @@
 
 ## data-visualization 
 
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [finos/perspective](https://github.com/finos/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 
 ## database 
 
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, graph-vector database built in Rust for millisecond query latency and ease of use.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [mnfst/manifest](https://github.com/mnfst/manifest) - 🦚 The 1-file backend.
@@ -743,6 +755,9 @@
 
 ## deno 
 
+- [Elastic-Networth-Visualizer/env-event-stream](https://github.com/Elastic-Networth-Visualizer/env-event-stream) - A high-performance, feature-rich event stream library powered by Deno, the backbone for event-driven architectures
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
+- [skymethod/denoflare](https://github.com/skymethod/denoflare) - Develop, test, and deploy Cloudflare Workers with Deno.
 - [Im-Beast/monero-tui](https://github.com/Im-Beast/monero-tui) - TUI Wallet for Monero – the secure, private, untraceable cryptocurrency
 - [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui) - 🦕 Deno module for creating Terminal User Interfaces
 - [davidchalifoux/deno-react-trpc-template](https://github.com/davidchalifoux/deno-react-trpc-template) - A monorepo template for Deno that uses React and TanStack Router for the frontend and tRPC for the backend.
@@ -940,6 +955,7 @@
 
 ## go 
 
+- [BigJk/crt](https://github.com/BigJk/crt) - Minimal terminal emulator for Bubbletea.
 - [minefuto/tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -950,6 +966,7 @@
 
 ## golang 
 
+- [BigJk/crt](https://github.com/BigJk/crt) - Minimal terminal emulator for Bubbletea.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe is a CLI which provides the ability to send messages or alerts to multiple messaging platforms & email.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -1047,6 +1064,7 @@
 
 ## html 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [repetere/jsonx](https://github.com/repetere/jsonx) - JSONX - Create React Elements, JSX and HTML from JSON
@@ -1094,6 +1112,7 @@
 
 ## javascript 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
@@ -1203,10 +1222,12 @@
 
 ## library 
 
+- [Elastic-Networth-Visualizer/env-event-stream](https://github.com/Elastic-Networth-Visualizer/env-event-stream) - A high-performance, feature-rich event stream library powered by Deno, the backbone for event-driven architectures
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 
 ## linux 
 
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
@@ -1221,6 +1242,8 @@
 
 ## llm 
 
+- [poloclub/wordflow](https://github.com/poloclub/wordflow) - Social and customizable AI writing assistant! ✍️
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
@@ -1311,6 +1334,7 @@
 
 ## macos 
 
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
@@ -1397,6 +1421,7 @@
 
 ## nextjs 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
@@ -1500,7 +1525,6 @@
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -1511,6 +1535,7 @@
 
 ## openai 
 
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage vector embeddings and LLMs with your knowledge base - 100% local or in the cloud
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
@@ -1545,6 +1570,9 @@
 
 ## others 
 
+- [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
+- [kitsonk/langchain-kv](https://github.com/kitsonk/langchain-kv) - Implementations of various persistence APIs for LangChain.js on-top of Deno KV
+- [kamranahmedse/gitkot](https://github.com/kamranahmedse/gitkot) - TikTok but to explore GitHub repositories
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [mikehw/deno-langchain-demo](https://github.com/mikehw/deno-langchain-demo) - Demo Deno as a tool for arbitrary JavaScript code execution in langchain
@@ -1776,6 +1804,7 @@
 
 ## postgresql 
 
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -1874,6 +1903,7 @@
 
 ## react 
 
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app) - 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [overlayeddev/overlayed](https://github.com/overlayeddev/overlayed) - A modern, open-source, and free voice chat overlay for Discord that supports Mac, Linux, and Windows
@@ -1994,6 +2024,8 @@
 
 ## rust 
 
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, graph-vector database built in Rust for millisecond query latency and ease of use.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
 - [kiranraaj19/keystroke](https://github.com/kiranraaj19/keystroke) - A minimal keyboard overlay application for cross-platform desktop built in Rust
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
@@ -2152,6 +2184,7 @@
 
 ## tailwindcss 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
@@ -2174,6 +2207,7 @@
 
 ## terminal 
 
+- [BigJk/crt](https://github.com/BigJk/crt) - Minimal terminal emulator for Bubbletea.
 - [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
@@ -2209,6 +2243,10 @@
 
 ## typescript 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
+- [tigerabrodi/sakuraflow](https://github.com/tigerabrodi/sakuraflow) - A lightweight, memory-efficient library for working with generator functions in TypeScript.
+- [Elastic-Networth-Visualizer/env-event-stream](https://github.com/Elastic-Networth-Visualizer/env-event-stream) - A high-performance, feature-rich event stream library powered by Deno, the backbone for event-driven architectures
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
@@ -2350,10 +2388,12 @@
 
 ## webpack 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [mydraft-cc/ui](https://github.com/mydraft-cc/ui) - Open source wireframing tool written in typescript, react and redux.
 
 ## windows 
 
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
@@ -2366,12 +2406,16 @@
 
 ## wordpress 
 
-- [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
+- [penxio/penx](https://github.com/penxio/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
 
 ## xcode 
 
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
+## zig 
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 
 ## License

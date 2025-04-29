@@ -37,6 +37,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+- [Zig](#zig)
 - [hoon](#hoon)
 
 ## Astro 
@@ -66,6 +67,7 @@
 
 ## CSS 
 
+- [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css
 
 ## Coq 
@@ -83,6 +85,7 @@
 
 ## Go 
 
+- [BigJk/crt](https://github.com/BigJk/crt) - Minimal terminal emulator for Bubbletea.
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼
 - [minefuto/tp](https://github.com/minefuto/tp) - Display the result of the commands at every keystroke.
 - [guyfedwards/nom](https://github.com/guyfedwards/nom) - RSS reader for the terminal
@@ -360,6 +363,7 @@
 
 ## Python 
 
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
 - [augmentcode/augment-swebench-agent](https://github.com/augmentcode/augment-swebench-agent) - The #1 open-source SWE-bench Verified implementation
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 - [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
@@ -455,6 +459,8 @@
 
 ## Rust 
 
+- [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is a powerful, graph-vector database built in Rust for millisecond query latency and ease of use.
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
@@ -512,6 +518,16 @@
 
 ## TypeScript 
 
+- [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
+- [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript
+- [tigerabrodi/sakuraflow](https://github.com/tigerabrodi/sakuraflow) - A lightweight, memory-efficient library for working with generator functions in TypeScript.
+- [kitsonk/langchain-kv](https://github.com/kitsonk/langchain-kv) - Implementations of various persistence APIs for LangChain.js on-top of Deno KV
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
+- [poloclub/wordflow](https://github.com/poloclub/wordflow) - Social and customizable AI writing assistant! ✍️
+- [kamranahmedse/gitkot](https://github.com/kamranahmedse/gitkot) - TikTok but to explore GitHub repositories
+- [Elastic-Networth-Visualizer/env-event-stream](https://github.com/Elastic-Networth-Visualizer/env-event-stream) - A high-performance, feature-rich event stream library powered by Deno, the backbone for event-driven architectures
+- [skymethod/denoflare](https://github.com/skymethod/denoflare) - Develop, test, and deploy Cloudflare Workers with Deno.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS
 - [mikehw/deno-langchain-demo](https://github.com/mikehw/deno-langchain-demo) - Demo Deno as a tool for arbitrary JavaScript code execution in langchain
@@ -647,7 +663,7 @@
 - [haydenbleasel/orate](https://github.com/haydenbleasel/orate) - The AI toolkit for speech.
 - [echogarden-project/echogarden](https://github.com/echogarden-project/echogarden) - Cross-platform speech toolset, used from the command-line or as a Node.js library. Includes a variety of engines for speech synthesis, speech recognition, forced alignment, speech translation, voice i
 - [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
-- [penx-labs/penx](https://github.com/penx-labs/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
+- [penxio/penx](https://github.com/penxio/penx) - Next generation dynamic blogging tools, 100% run on Cloudflare.
 - [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [kevingorski/denodevs.com](https://github.com/kevingorski/denodevs.com) - Deno developer reverse job board
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
@@ -780,6 +796,10 @@
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [yiitap/yiitap](https://github.com/yiitap/yiitap) - An AI powered, Notion-style WYSIWYG rich-text block-based editor. 🍀
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+
+## Zig 
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 ## hoon 
 

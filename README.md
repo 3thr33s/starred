@@ -411,7 +411,7 @@
 - [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - A open, local Manus AI alternative. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building Agents with memory, knowledge, tools and reasoning.
@@ -523,6 +523,9 @@
 
 ## TypeScript 
 
+- [nberlette/decorators](https://github.com/nberlette/decorators) - Monorepo for packages published under the @decorators scope on JSR.
+- [Decodetalkers/tauri_preact_template_deno](https://github.com/Decodetalkers/tauri_preact_template_deno) - tauri deno template
+- [Decodetalkers/styled-components-deno](https://github.com/Decodetalkers/styled-components-deno) - styled component for deno preact
 - [jersou/clite-parser](https://github.com/jersou/clite-parser) - CliteParser generates CLI from classes (or objects) : each method generates a "command", each field generates an "option"
 - [dbos-inc/dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) - Lightweight Durable TypeScript Workflows
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
@@ -586,7 +589,7 @@
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your component library with a unique look.
 - [victorwelander/shadcn-dialog](https://github.com/victorwelander/shadcn-dialog) - A dialog stacking component
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
+- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 - [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
 - [VapiAI/mcp-server](https://github.com/VapiAI/mcp-server) - Vapi MCP Server
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.

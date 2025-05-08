@@ -530,6 +530,9 @@
 
 ## TypeScript 
 
+- [jersou/deno-shell-stream](https://github.com/jersou/deno-shell-stream) - A lib for Deno that mix I/O stream API and Shell pipe/redirects.
+- [sanity-io/sanity](https://github.com/sanity-io/sanity) - Sanity Studio – Rapidly configure content workspaces powered by structured content
+- [codemonument/deno_cliffy_zod_option](https://github.com/codemonument/deno_cliffy_zod_option) - A custom type for the cliffy cli framework to allow validating options via custom zod schemas
 - [nberlette/decorators](https://github.com/nberlette/decorators) - Monorepo for packages published under the @decorators scope on JSR.
 - [Decodetalkers/tauri_preact_template_deno](https://github.com/Decodetalkers/tauri_preact_template_deno) - tauri deno template
 - [Decodetalkers/styled-components-deno](https://github.com/Decodetalkers/styled-components-deno) - styled component for deno preact

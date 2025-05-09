@@ -192,7 +192,7 @@
 - [microlinkhq/top-user-agents](https://github.com/microlinkhq/top-user-agents) - An always up-to-date list of the top 100 HTTP user-agents most used over the Internet.
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
 - [styled-components/styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app using styled-components
-- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
 - [TodePond/CellPond](https://github.com/TodePond/CellPond) - surreal cellular automata
 - [TodePond/ScreenPond](https://github.com/TodePond/ScreenPond) - screens in screens in screens
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -372,6 +372,7 @@
 
 ## Python 
 
+- [veehaitch/macos-remap-keys](https://github.com/veehaitch/macos-remap-keys) - Remap keys with pure macOS functionality.
 - [jdagdelen/hodja](https://github.com/jdagdelen/hodja) - A framework for building language model applications.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial

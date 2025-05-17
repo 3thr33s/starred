@@ -280,6 +280,8 @@
 
 ## Others 
 
+- [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) - An awesome curated knowledge-base about atomic systems
+- [streamich/awesome-styleguides](https://github.com/streamich/awesome-styleguides) - A curated list of UI styleguides — 😎💄
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -533,6 +535,13 @@
 
 ## TypeScript 
 
+- [christoshrousis/mutasaurus](https://github.com/christoshrousis/mutasaurus) - A Deno-native mutation testing library that helps you improve your test suite quality by automatically introducing mutations into your code.
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
+- [deepaktiwari09/drafttool](https://github.com/deepaktiwari09/drafttool) - 
+- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [Coder-Spirit/nominal](https://github.com/Coder-Spirit/nominal) - Powerful nominal types for your Typescript project
+- [HiDeoo/zod-matter](https://github.com/HiDeoo/zod-matter) - Typesafe front matter
 - [GSTJ/pegava-dating-app](https://github.com/GSTJ/pegava-dating-app) - 💖 A place to get some love. Pegava is a beautiful dating app made in React Native.
 - [react95-io/React95](https://github.com/react95-io/React95) - 🌈🕹  Windows 95 style UI component library for React
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.

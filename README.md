@@ -19,6 +19,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -153,6 +154,7 @@
 
 ## JavaScript 
 
+- [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
@@ -239,6 +241,10 @@
 - [angheljf/social-media-mcp](https://github.com/angheljf/social-media-mcp) - 
 - [ryanjoachim/mcp-rtfm](https://github.com/ryanjoachim/mcp-rtfm) - Ever been told to RTFM only to find there is no FM to R? MCP-RTFM helps you CREATE the F*ing Manual that people keep telling everyone to read! Transform your non-existent or unreadable docs into an in
 - [richardeschloss/les](https://github.com/richardeschloss/les) - Lightweight Express-ish (Koa) Server - Type les not More!
+
+## Jinja 
+
+- [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts) - Prompts for our Grok chat assistant and the `@grok` bot on X.
 
 ## Jupyter Notebook 
 
@@ -377,6 +383,7 @@
 
 ## Python 
 
+- [facebookresearch/blt](https://github.com/facebookresearch/blt) - Code for BLT research paper
 - [veehaitch/macos-remap-keys](https://github.com/veehaitch/macos-remap-keys) - Remap keys with pure macOS functionality.
 - [jdagdelen/hodja](https://github.com/jdagdelen/hodja) - A framework for building language model applications.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
@@ -539,6 +546,7 @@
 
 ## TypeScript 
 
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions
 - [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
 - [christoshrousis/mutasaurus](https://github.com/christoshrousis/mutasaurus) - A Deno-native mutation testing library that helps you improve your test suite quality by automatically introducing mutations into your code.

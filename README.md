@@ -383,6 +383,7 @@
 
 ## Python 
 
+- [echohive42/10-000-chatbot-prompts](https://github.com/echohive42/10-000-chatbot-prompts) - A comprehensive collection of AI prompts with structured categories, subcategories, and searchable keywords. Each prompt includes detailed system messages and metadata for easy organization and discov
 - [facebookresearch/blt](https://github.com/facebookresearch/blt) - Code for BLT research paper
 - [veehaitch/macos-remap-keys](https://github.com/veehaitch/macos-remap-keys) - Remap keys with pure macOS functionality.
 - [jdagdelen/hodja](https://github.com/jdagdelen/hodja) - A framework for building language model applications.
@@ -546,6 +547,8 @@
 
 ## TypeScript 
 
+- [spiko-tech/effect-messaging](https://github.com/spiko-tech/effect-messaging) - A message broker toolkit for Effect
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions
 - [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
@@ -759,7 +762,7 @@
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 206 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 207 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 - [sondr3/radiant](https://github.com/sondr3/radiant) - Blaze your way through HTML using the type-safety of TypeScript
 - [Hexagon/pup](https://github.com/Hexagon/pup) - Universal process manager built in Deno

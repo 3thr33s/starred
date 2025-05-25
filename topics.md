@@ -358,6 +358,8 @@
 
 ## automation 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
+- [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
 - [lorepieri8/awesome-post-scarcity](https://github.com/lorepieri8/awesome-post-scarcity) - A curated list of Post-Scarcity links, books and resources.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -914,6 +916,7 @@
 
 ## flutter 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 
 ## font 
@@ -1141,6 +1144,8 @@
 
 ## javascript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [GSTJ/pegava-dating-app](https://github.com/GSTJ/pegava-dating-app) - 💖 A place to get some love. Pegava is a beautiful dating app made in React Native.
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
@@ -1446,6 +1451,7 @@
 
 ## nestjs 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
@@ -1511,6 +1517,8 @@
 
 ## nodejs 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [typeonce-dev/snippets](https://github.com/typeonce-dev/snippets) - A collection of free and reusable code that you can copy-paste in your own project. Every snippet is self-contained and can be used without additional setup 🪄
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [jersou/clite-parser](https://github.com/jersou/clite-parser) - CliteParser generates CLI from classes (or objects) : each method generates a "command", each field generates an "option"
@@ -1549,6 +1557,7 @@
 
 ## npm 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [listr2/listr2](https://github.com/listr2/listr2) - NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
@@ -1612,6 +1621,8 @@
 
 ## others 
 
+- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [dsherret/code-block-writer](https://github.com/dsherret/code-block-writer) - Code writer for JavaScript and TypeScript code.
 - [rjdellecese/scroll](https://github.com/rjdellecese/scroll) - An infinite-scrolling note-taking app with collaborative editing, built on Convex
 - [rjdellecese/confect](https://github.com/rjdellecese/confect) - Use Effect with Convex!
@@ -2154,6 +2165,7 @@
 
 ## self-hosted 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
@@ -2248,6 +2260,7 @@
 
 ## svelte 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [kiranraaj19/keystroke](https://github.com/kiranraaj19/keystroke) - A minimal keyboard overlay application for cross-platform desktop built in Rust
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [barvian/number-flow](https://github.com/barvian/number-flow) - An animated number component for React, Vue, Svelte, and TS/JS.
@@ -2332,6 +2345,8 @@
 
 ## typescript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [aduarterengifo/ts-monkey](https://github.com/aduarterengifo/ts-monkey) - effect monkey lang interpreter
 - [typeonce-dev/paddle-payments-full-stack-typescript-app](https://github.com/typeonce-dev/paddle-payments-full-stack-typescript-app) - Full stack typescript app that implements Paddle Billing payments on both client (inline checkout) and server (webhook)

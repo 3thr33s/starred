@@ -116,7 +116,6 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [umutphp/awesome-cli](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
@@ -213,6 +212,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [neutralinojs/neutralinojs-minimal](https://github.com/neutralinojs/neutralinojs-minimal) - The simplest template for a Neutralinojs app
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [hackerkid/Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Find your next book to read!
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
 - [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
@@ -550,6 +550,8 @@
 
 ## TypeScript 
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [dsherret/code-block-writer](https://github.com/dsherret/code-block-writer) - Code writer for JavaScript and TypeScript code.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine

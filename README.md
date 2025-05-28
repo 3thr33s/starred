@@ -487,6 +487,7 @@
 
 ## Rust 
 
+- [harnesslabs/cova](https://github.com/harnesslabs/cova) - Abstract mathematics made computational
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [marcomq/tauri-plugin-deno](https://github.com/marcomq/tauri-plugin-deno) - Tauri plugin to run deno javascript code in the backend instead of rust
 - [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.

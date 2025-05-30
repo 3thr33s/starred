@@ -1633,6 +1633,9 @@
 
 ## others 
 
+- [livekit-examples/outbound-caller-python](https://github.com/livekit-examples/outbound-caller-python) - An Agent that makes outbound calls using SIP and Dispatch APIs
+- [NiazMorshed2007/shadcn-tiptap](https://github.com/NiazMorshed2007/shadcn-tiptap) - Sets of custom extensions & toolbars for tiptap editor. Install with shadcn/cli.
+- [iduspara/shadcn-builder](https://github.com/iduspara/shadcn-builder) - 
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [harnesslabs/cova](https://github.com/harnesslabs/cova) - Abstract mathematics made computational
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.

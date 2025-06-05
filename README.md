@@ -568,6 +568,7 @@
 
 ## TypeScript 
 
+- [TomasHubelbauer/bun-mcp](https://github.com/TomasHubelbauer/bun-mcp) - A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
 - [AltriusRS/Shumai](https://github.com/AltriusRS/Shumai) - A delicious new outlook on command line argument handling.
@@ -679,7 +680,7 @@
 - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents & workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend.
 - [jashandeep31/zed-snippets](https://github.com/jashandeep31/zed-snippets) - A platform for obtaining and creating custom code snippets tailored for the Zed text editor.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
+- [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars.
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your component library with a unique look.

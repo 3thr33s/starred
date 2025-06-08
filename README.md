@@ -11,6 +11,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Clojure](#clojure)
 - [Coq](#coq)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -36,6 +37,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vue](#vue)
@@ -80,6 +82,10 @@
 
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css
+
+## Clojure 
+
+- [fogus/rv](https://github.com/fogus/rv) - A Clojure library exploring the application of pure reasoning algorithms.
 
 ## Coq 
 
@@ -136,6 +142,7 @@
 
 ## HTML 
 
+- [qwerasd205/AnnotationMono](https://github.com/qwerasd205/AnnotationMono) - A lovingly crafted handwriting-style monospace font.
 - [freznicek/awesome-awk](https://github.com/freznicek/awesome-awk) - A curated list of awesome AWK frameworks, libraries, software and resources
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
@@ -159,6 +166,7 @@
 
 ## JavaScript 
 
+- [itsPreto/tangent](https://github.com/itsPreto/tangent) - Excalidraw meets ComfyUI for LLMs
 - [dmonad/lib0](https://github.com/dmonad/lib0) - Monorepo of isomorphic utility functions
 - [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
@@ -299,6 +307,7 @@
 
 ## Others 
 
+- [vaughantype/wumpus-mono](https://github.com/vaughantype/wumpus-mono) - A modern and functional monospaced typeface with a focus on legibility.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 - [mayfrost/guides](https://github.com/mayfrost/guides) - Looking for a guide? You came to the right place. Here you can find documentation for a variety of topics I research to make complex computing easier. For comments go to the IRC channel #nfo at the Ri
@@ -397,6 +406,7 @@
 
 ## Python 
 
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [sdorra/ansible-collection-porkbun](https://github.com/sdorra/ansible-collection-porkbun) - 
 - [livekit-examples/outbound-caller-python](https://github.com/livekit-examples/outbound-caller-python) - An Agent that makes outbound calls using SIP and Dispatch APIs
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -501,6 +511,7 @@
 
 ## Rust 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [harnesslabs/cova](https://github.com/harnesslabs/cova) - Abstract mathematics made computational
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [marcomq/tauri-plugin-deno](https://github.com/marcomq/tauri-plugin-deno) - Tauri plugin to run deno javascript code in the backend instead of rust
@@ -562,12 +573,21 @@
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
 
+## Tcl 
+
+- [blobject/agave](https://github.com/blobject/agave) - succulent monospace programming font
+
 ## TeX 
 
 - [SHI-Yu-Zhe/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
 ## TypeScript 
 
+- [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
+- [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [garden-co/locality](https://github.com/garden-co/locality) - 
+- [a-type/verdant](https://github.com/a-type/verdant) - 🌿 Storage, sync & realtime for local-first web apps. Build an app in minutes, deploy as a static page, and add sync with a few lines.
 - [TomasHubelbauer/bun-mcp](https://github.com/TomasHubelbauer/bun-mcp) - A script-based local MCP server demonstration. The server is built in Bun and runs in VS Code Copilot Chat in agent mode.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [unnoq/orpc](https://github.com/unnoq/orpc) - Typesafe APIs Made Simple 🪄
@@ -579,7 +599,7 @@
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
 - [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and open source shadcn/ui components.
 - [haydenbleasel/alchemy](https://github.com/haydenbleasel/alchemy) - A visual journey of The Alchemist, powered by OpenAI and Midjourney.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos

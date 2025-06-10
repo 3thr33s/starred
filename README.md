@@ -166,6 +166,9 @@
 
 ## JavaScript 
 
+- [codebytere/codebytere.github.io](https://github.com/codebytere/codebytere.github.io) - personal website
+- [sindresorhus/yes-no-words](https://github.com/sindresorhus/yes-no-words) - Get yes/no-like words
+- [sindresorhus/p-mutex](https://github.com/sindresorhus/p-mutex) - Async mutex lock for managing access to a shared resource
 - [itsPreto/tangent](https://github.com/itsPreto/tangent) - Excalidraw meets ComfyUI for LLMs
 - [dmonad/lib0](https://github.com/dmonad/lib0) - Monorepo of isomorphic utility functions
 - [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
@@ -407,6 +410,7 @@
 
 ## Python 
 
+- [coplane/par](https://github.com/coplane/par) - CLI for Parallel Worktree & Session Manager
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [sdorra/ansible-collection-porkbun](https://github.com/sdorra/ansible-collection-porkbun) - 
 - [livekit-examples/outbound-caller-python](https://github.com/livekit-examples/outbound-caller-python) - An Agent that makes outbound calls using SIP and Dispatch APIs
@@ -554,6 +558,7 @@
 
 ## Shell 
 
+- [Helmi/claude-simone](https://github.com/Helmi/claude-simone) - A project management framework for AI-assisted development with Claude Code
 - [hrushik98/bettrWrite](https://github.com/hrushik98/bettrWrite) - Fix grammars and typos and other errors with the help of AI
 - [mothdotmonster/inventory](https://github.com/mothdotmonster/inventory) - Move files like an old text adventure.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -584,6 +589,13 @@
 
 ## TypeScript 
 
+- [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
+- [sgcarstrends/backend](https://github.com/sgcarstrends/backend) - Monorepo for SG Cars Trends backend services
+- [scopecraft/command](https://github.com/scopecraft/command) - Scopecraft Command - A CLI and MCP server for Markdown-Driven Task Management (MDTM)
+- [hashintel/hash](https://github.com/hashintel/hash) - 🚀  The open-source, multi-tenant, self-building knowledge graph
+- [buntralino/buntralino](https://github.com/buntralino/buntralino) - Bun library for Buntralino. Buntralino unites Bun and Neutralino.js to make a simpler, lighter alternative to Electron and NW.js. Use Neutralino.js API at client and send harder tasks to Bun while kee
+- [dxos/dxos](https://github.com/dxos/dxos) - TypeScript implementation of the DXOS protocols, SDK, toolchain and Composer.
+- [sindresorhus/electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for Electron apps and modules
 - [electron/asar](https://github.com/electron/asar) - Simple extensive tar-like archive format with indexing
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams

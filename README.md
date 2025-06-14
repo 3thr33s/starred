@@ -414,6 +414,7 @@
 
 ## Python 
 
+- [DannyMac180/meta-agent](https://github.com/DannyMac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
 - [LamoomAI/lamoom-python](https://github.com/LamoomAI/lamoom-python) - Open source library for production prompt engineering and load balancing of AI Models
 - [coplane/par](https://github.com/coplane/par) - CLI for Parallel Worktree & Session Manager
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
@@ -516,6 +517,7 @@
 
 ## Ruby 
 
+- [junegunn/everything.fzf](https://github.com/junegunn/everything.fzf) - :bagel: fzf all the things!
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [ishakir/shakitz-fantasy-football](https://github.com/ishakir/shakitz-fantasy-football) - The open source fantasy football application!
 

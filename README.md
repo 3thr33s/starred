@@ -414,6 +414,8 @@
 
 ## Python 
 
+- [explosion/sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
+- [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [morph-labs/morphcloud-examples-public](https://github.com/morph-labs/morphcloud-examples-public) - anything you want can be built with morph cloud
 - [DannyMac180/meta-agent](https://github.com/DannyMac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
 - [LamoomAI/lamoom-python](https://github.com/LamoomAI/lamoom-python) - Open source library for production prompt engineering and load balancing of AI Models
@@ -600,6 +602,7 @@
 
 ## TypeScript 
 
+- [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi) - A plugin for Hono to generate OpenAPI Swagger documentation
 - [SawyerHood/tlbrowse](https://github.com/SawyerHood/tlbrowse) - Generate imagined websites on an infinite canvas
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [guasam/electron-react-app](https://github.com/guasam/electron-react-app) - Modern Electron application starter kit with React, Vite, TypeScript, ShadcnUI and TailwindCSS
@@ -950,6 +953,7 @@
 
 ## Vue 
 
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippets manager for developers
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [yiitap/yiitap](https://github.com/yiitap/yiitap) - An AI powered, Notion-style WYSIWYG rich-text block-based editor. 🍀

@@ -417,6 +417,7 @@
 
 ## Python 
 
+- [Eladlev/AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
 - [explosion/sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [morph-labs/morphcloud-examples-public](https://github.com/morph-labs/morphcloud-examples-public) - anything you want can be built with morph cloud
@@ -605,6 +606,10 @@
 
 ## TypeScript 
 
+- [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) - 
+- [agentrpc/agentrpc](https://github.com/agentrpc/agentrpc) - A universal RPC layer for AI agents. Connect to any function, any language, any framework, in minutes.
+- [upstash/search-ui](https://github.com/upstash/search-ui) - Beautifully-designed, accessible search components
 - [nikhils4/ui-beats](https://github.com/nikhils4/ui-beats) - Level up your UI development with reusable components from UI Beats, crafted with React, Typescript, Tailwind CSS, and Framer Motion.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [phughesmcr/deno-mcp-template](https://github.com/phughesmcr/deno-mcp-template) - A template repo for writing and publishing local, remote, and binary MCP servers using Deno.

@@ -103,6 +103,9 @@
 
 ## Go 
 
+- [josharian/pex](https://github.com/josharian/pex) - pex makes piping easier
+- [mdlayher/wol](https://github.com/mdlayher/wol) - Package wol implements a Wake-on-LAN client.  MIT Licensed.
+- [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [thepwagner/hermit](https://github.com/thepwagner/hermit) - Hermetic container builds in ephemeral Firecracker. SLSA L4 any% speedrun.
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
@@ -317,6 +320,7 @@
 
 ## Others 
 
+- [mitsuhiko/agent-prompts](https://github.com/mitsuhiko/agent-prompts) - Holds prompts for agentic loops
 - [arthurpetron/reference_material](https://github.com/arthurpetron/reference_material) - various useful documents
 - [vaughantype/wumpus-mono](https://github.com/vaughantype/wumpus-mono) - A modern and functional monospaced typeface with a focus on legibility.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
@@ -346,7 +350,7 @@
 - [jgierer12/awesome-babel-macros](https://github.com/jgierer12/awesome-babel-macros) - A collection of awesome babel macros and related resources
 - [Kikobeats/awesome-minimal-websites](https://github.com/Kikobeats/awesome-minimal-websites) - A curated list of minimal websites.
 - [microlinkhq/demo-links](https://github.com/microlinkhq/demo-links) - A set of links used for demo purposes
-- [udecode/dotai](https://github.com/udecode/dotai) - 
+- [udecode/dotai](https://github.com/udecode/dotai) - Ultimate AI development stack: Claude Code + Task Master + Cursor
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
@@ -417,6 +421,7 @@
 
 ## Python 
 
+- [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 - [Eladlev/AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
 - [explosion/sense2vec](https://github.com/explosion/sense2vec) - 🦆 Contextually-keyed word vectors
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -530,6 +535,7 @@
 
 ## Rust 
 
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [harnesslabs/cova](https://github.com/harnesslabs/cova) - Abstract mathematics made computational
@@ -589,6 +595,7 @@
 
 ## Swift 
 
+- [amantus-ai/vibetunnel](https://github.com/amantus-ai/vibetunnel) - Turn any browser into your terminal & command your agents on the go.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
@@ -875,7 +882,7 @@
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
 - [microsoft/devicescript](https://github.com/microsoft/devicescript) - TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [nyaggah/bedframe](https://github.com/nyaggah/bedframe) - Your Browser Extension Development Framework

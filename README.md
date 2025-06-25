@@ -330,7 +330,7 @@
 - [streamich/awesome-styleguides](https://github.com/streamich/awesome-styleguides) - A curated list of UI styleguides — 😎💄
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
 - [lorepieri8/awesome-post-scarcity](https://github.com/lorepieri8/awesome-post-scarcity) - A curated list of Post-Scarcity links, books and resources.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!

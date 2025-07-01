@@ -426,6 +426,8 @@
 
 ## Python 
 
+- [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
+- [strands-agents/mcp-server](https://github.com/strands-agents/mcp-server) - This MCP server provides documentation about Strands Agents to your GenAI tools, so you can use your favorite AI coding assistant to vibe-code Strands Agents.
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
 - [dimikot/git-grok](https://github.com/dimikot/git-grok) - Stacked PRs (stacked commits, stacked diffs) for GitHub
 - [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
@@ -621,6 +623,11 @@
 
 ## TypeScript 
 
+- [arach/blink](https://github.com/arach/blink) - A beautiful transparent notes application built with Tauri, React, and native macOS window controls
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
+- [alexandretrotel/zap.ts](https://github.com/alexandretrotel/zap.ts) - Build application as fast as a zap.
+- [Insik-Han/han-stack](https://github.com/Insik-Han/han-stack) - Modern Saas fullstack framework template using Tanstack Start, orpc
 - [anthropics/dxt](https://github.com/anthropics/dxt) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI Dataset Generator – Create realistic datasets for demos, learning, and dashboards
 - [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.

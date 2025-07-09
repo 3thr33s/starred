@@ -256,6 +256,7 @@
 - [haltakov/meme-mcp](https://github.com/haltakov/meme-mcp) - A simple Model Context Protocol (MCP) server for generating memes using the ImgFlip API
 - [openbnb-org/mcp-server-airbnb](https://github.com/openbnb-org/mcp-server-airbnb) - 
 - [OrionReed/dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
+- [signalwire/digital_employees](https://github.com/signalwire/digital_employees) - 
 - [ry/tinyclouds](https://github.com/ry/tinyclouds) - 
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [bmorphism/hypernym-mcp-server](https://github.com/bmorphism/hypernym-mcp-server) - 
@@ -522,7 +523,7 @@
 - [AlbanPerli/Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - A declarative way to control LLMs.
 - [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [lsd-so/lsd-mcp](https://github.com/lsd-so/lsd-mcp) - LSD Model Context Protocol
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -600,7 +601,6 @@
 - [udecode/dotai](https://github.com/udecode/dotai) - Ultimate AI development stack: Claude Code + Task Master + Cursor
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
-- [signalwire/digital_employees](https://github.com/signalwire/digital_employees) - 
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 
 ## Svelte 

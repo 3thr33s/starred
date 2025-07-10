@@ -176,6 +176,7 @@
 
 ## JavaScript 
 
+- [aquarius-wing/actor-critic-thinking-mcp](https://github.com/aquarius-wing/actor-critic-thinking-mcp) - A dual-perspective thinking analysis server based on Model Context Protocol (MCP), providing comprehensive performance evaluation through Actor-Critic methodology.
 - [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [agnt-gg/micro-agnt](https://github.com/agnt-gg/micro-agnt) - A minimal AI agent system
 - [electron/chromedriver](https://github.com/electron/chromedriver) - Download ChromeDriver for Electron
@@ -428,6 +429,7 @@
 
 ## Python 
 
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
 - [strands-agents/mcp-server](https://github.com/strands-agents/mcp-server) - This MCP server provides documentation about Strands Agents to your GenAI tools, so you can use your favorite AI coding assistant to vibe-code Strands Agents.
 - [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server) - The power of Claude Code + [Gemini / OpenAI / Grok / OpenRouter / Ollama / Custom Model / All Of The Above] working as one.
@@ -523,7 +525,7 @@
 - [AlbanPerli/Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - A declarative way to control LLMs.
 - [crestalnetwork/intentkit](https://github.com/crestalnetwork/intentkit) - An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [lsd-so/lsd-mcp](https://github.com/lsd-so/lsd-mcp) - LSD Model Context Protocol
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -626,6 +628,8 @@
 
 ## TypeScript 
 
+- [mckaywrigley/mckays-app-template](https://github.com/mckaywrigley/mckays-app-template) - This is the template I use to start new full-stack projects.
+- [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [arach/blink](https://github.com/arach/blink) - A beautiful transparent notes application built with Tauri, React, and native macOS window controls
 - [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
@@ -745,7 +749,7 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS
 - [mikehw/deno-langchain-demo](https://github.com/mikehw/deno-langchain-demo) - Demo Deno as a tool for arbitrary JavaScript code execution in langchain
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage LLMs with your knowledge base - 100% local or in the cloud
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [langchain-ai/agent-inbox](https://github.com/langchain-ai/agent-inbox) - 📥 An inbox UX for interacting with human-in-the-loop agents.

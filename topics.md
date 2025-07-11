@@ -1810,6 +1810,7 @@
 
 ## others 
 
+- [arach/peal](https://github.com/arach/peal) - Craft your signature sound
 - [mckaywrigley/mckays-app-template](https://github.com/mckaywrigley/mckays-app-template) - This is the template I use to start new full-stack projects.
 - [aquarius-wing/actor-critic-thinking-mcp](https://github.com/aquarius-wing/actor-critic-thinking-mcp) - A dual-perspective thinking analysis server based on Model Context Protocol (MCP), providing comprehensive performance evaluation through Actor-Critic methodology.
 - [arach/blink](https://github.com/arach/blink) - A beautiful transparent notes application built with Tauri, React, and native macOS window controls

@@ -628,6 +628,7 @@
 
 ## TypeScript 
 
+- [arach/peal](https://github.com/arach/peal) - Craft your signature sound
 - [mckaywrigley/mckays-app-template](https://github.com/mckaywrigley/mckays-app-template) - This is the template I use to start new full-stack projects.
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [arach/blink](https://github.com/arach/blink) - A beautiful transparent notes application built with Tauri, React, and native macOS window controls

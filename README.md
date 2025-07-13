@@ -628,6 +628,7 @@
 
 ## TypeScript 
 
+- [b3z/reventlou](https://github.com/b3z/reventlou) - Personal db information management system.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [arach/peal](https://github.com/arach/peal) - Craft your signature sound
 - [mckaywrigley/mckays-app-template](https://github.com/mckaywrigley/mckays-app-template) - This is the template I use to start new full-stack projects.

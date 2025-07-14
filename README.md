@@ -176,6 +176,7 @@
 
 ## JavaScript 
 
+- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - 
 - [aquarius-wing/actor-critic-thinking-mcp](https://github.com/aquarius-wing/actor-critic-thinking-mcp) - A dual-perspective thinking analysis server based on Model Context Protocol (MCP), providing comprehensive performance evaluation through Actor-Critic methodology.
 - [bmadcode/BMAD-METHOD](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [agnt-gg/micro-agnt](https://github.com/agnt-gg/micro-agnt) - A minimal AI agent system
@@ -429,6 +430,7 @@
 
 ## Python 
 
+- [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) - PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new frontiers in AI research and welcomes contributions from the community. 🐙🌟
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
 - [strands-agents/mcp-server](https://github.com/strands-agents/mcp-server) - This MCP server provides documentation about Strands Agents to your GenAI tools, so you can use your favorite AI coding assistant to vibe-code Strands Agents.
@@ -549,6 +551,7 @@
 
 ## Rust 
 
+- [paiml/paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit) - Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -628,6 +631,13 @@
 
 ## TypeScript 
 
+- [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
+- [wegotdocs/open-mcp](https://github.com/wegotdocs/open-mcp) - 
+- [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) - Model Context Protocol server for GraphQL
+- [DollhouseMCP/mcp-server](https://github.com/DollhouseMCP/mcp-server) - 
+- [antvis/mcp-server-chart](https://github.com/antvis/mcp-server-chart) - 🤖 A visualization mcp contains 25+ visual charts using @antvis. Using for chart generation and data analysis.
+- [twilio-labs/mcp](https://github.com/twilio-labs/mcp) - Monorepo providing 1) OpenAPI to MCP Tool generator 2) Exposing all of Twilio's API as MCP Tools
+- [liveblocks/liveblocks-mcp-server](https://github.com/liveblocks/liveblocks-mcp-server) - MCP server for Liveblocks.
 - [b3z/reventlou](https://github.com/b3z/reventlou) - Personal db information management system.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [arach/peal](https://github.com/arach/peal) - Craft your signature sound

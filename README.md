@@ -128,7 +128,6 @@
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -331,7 +330,7 @@
 
 ## Others 
 
-- [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
+- [kardolus/prompts](https://github.com/kardolus/prompts) - Collection of AI prompts
 - [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) - ATLAS: Software Engineer AI Agent. Living memory persists. Learning compounds.   Every commit evolves it. Professional focus. KISS/YAGNI/DRY and Depend on Context. No overengineering. Clean code and C
 - [iannuttall/claude-sessions](https://github.com/iannuttall/claude-sessions) - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation
 - [mitsuhiko/agent-prompts](https://github.com/mitsuhiko/agent-prompts) - Holds prompts for agentic loops
@@ -432,7 +431,10 @@
 
 ## Python 
 
+- [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
+- [ruvnet/yyz-agentics-june](https://github.com/ruvnet/yyz-agentics-june) - AI-Powered Neural Network Libraries built with Claude-Flow Swarm Orchestration. Live demo from Agentics   Foundation meetup in Toronto - showcasing how 10 specialized AI agents built production-ready 
 - [bbugyi200/funky](https://github.com/bbugyi200/funky) - Funky takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
+- [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Curated collection of exemplary claude.md files and onboarding patterns from public GitHub projects. Includes analyses, best practices, and templates to help developers create effective AI onboarding 
 - [Kakz/prometheus-llm](https://github.com/Kakz/prometheus-llm) - PrometheusLLM is a unique transformer architecture inspired by dignity and recursion. This project aims to explore new frontiers in AI research and welcomes contributions from the community. 🐙🌟
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
@@ -601,6 +603,7 @@
 
 ## Shell 
 
+- [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 - [waldzellai/mcp-agent-ts](https://github.com/waldzellai/mcp-agent-ts) - TypeScript port of the original MCP Agent framework by lastmile-ai
@@ -639,6 +642,8 @@
 
 ## TypeScript 
 
+- [cardotrejos/effect-interactive-lab](https://github.com/cardotrejos/effect-interactive-lab) - 
+- [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [PaulJPhilp/buddy](https://github.com/PaulJPhilp/buddy) - The refactored buddybuilder
 - [PaulJPhilp/EffectiveAgent](https://github.com/PaulJPhilp/EffectiveAgent) - 
@@ -778,7 +783,7 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS
 - [mikehw/deno-langchain-demo](https://github.com/mikehw/deno-langchain-demo) - Demo Deno as a tool for arbitrary JavaScript code execution in langchain
-- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
+- [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ✨ AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [langchain-ai/agent-inbox](https://github.com/langchain-ai/agent-inbox) - 📥 An inbox UX for interacting with human-in-the-loop agents.
@@ -808,6 +813,7 @@
 - [Effect-TS/docgen](https://github.com/Effect-TS/docgen) - An opinionated documentation generator for Effect projects
 - [gcanti/docs-ts](https://github.com/gcanti/docs-ts) - A zero-config documentation tool for my TypeScript projects
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.
 - [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue.
 - [duplojs/zod-accelerator](https://github.com/duplojs/zod-accelerator) - 
 - [ilyichv/shadcn-zod-form](https://github.com/ilyichv/shadcn-zod-form) - CLI tool to convert Zod schemas into shadcn/ui forms.

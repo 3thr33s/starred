@@ -75,6 +75,7 @@
 
 ## C++ 
 
+- [ChrisCummins/ProGraML](https://github.com/ChrisCummins/ProGraML) - A Graph-based Program Representation for Data Flow Analysis and Compiler Optimizations
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
@@ -217,6 +218,7 @@
 
 ## JavaScript 
 
+- [chrisisler/wavematch](https://github.com/chrisisler/wavematch) - 🌊  A pattern matching mechanism for JavaScript.
 - [MikeyBeez/mcp-test-editing](https://github.com/MikeyBeez/mcp-test-editing) - Safe AI-Assisted Code Editing Protocol - A proven method for precise code modifications
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [gornskew/lisply-mcp](https://github.com/gornskew/lisply-mcp) - Model Context Protocol (MCP) server to manage and talk to compliant "Lisply" lisp-speaking backend services
@@ -650,6 +652,7 @@
 
 ## Rust 
 
+- [mitsuhiko/listenfd](https://github.com/mitsuhiko/listenfd) - Helper crate to work with systemd/catflap socket activation
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
@@ -748,6 +751,8 @@
 
 ## TypeScript 
 
+- [edge-js/edge](https://github.com/edge-js/edge) - Node.js template with a breath of fresh air
+- [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [badlogic/create-app](https://github.com/badlogic/create-app) - CLI for creating deployable apps with Caddy + Docker
 - [basementstudio/commerce-toolkit](https://github.com/basementstudio/commerce-toolkit) - Ship better storefronts 🛍
 - [basementstudio/ship-25-explorations](https://github.com/basementstudio/ship-25-explorations) - 
@@ -757,7 +762,7 @@
 - [yilinxia/xray2.0](https://github.com/yilinxia/xray2.0) - A visual interface designed to Instantiate and Explain Argumentation Framework
 - [ddisisto/bootp](https://github.com/ddisisto/bootp) - 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [zilliztech/code-context](https://github.com/zilliztech/code-context) - MCP plugin for semantic code search. Integrates with Claude Code, Gemini CLI, Cursor, or any AI coding agents.
+- [zilliztech/code-context](https://github.com/zilliztech/code-context) - MCP for code search, build for Claude Code, Gemini CLI or any code agents.
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no code web data extraction platform. Instantly turn any website into API or spreadsheet 🔥
@@ -1152,7 +1157,7 @@
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [gvergnaud/hotscript](https://github.com/gvergnaud/hotscript) - A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.

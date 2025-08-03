@@ -65,6 +65,8 @@
 
 ## C 
 
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
+- [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 - [williamcotton/webpipe](https://github.com/williamcotton/webpipe) - A high-performance web server runtime that processes HTTP requests through declarative pipeline configurations. Built in C with libmicrohttpd and JSON data flow between pipeline steps.
 - [kamel-usp/dpasp](https://github.com/kamel-usp/dpasp) - Differentiable probabilistic answer set programming
 - [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents.
@@ -136,6 +138,7 @@
 
 ## Go 
 
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind.
@@ -192,8 +195,8 @@
 
 ## HTML 
 
+- [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness
 - [UniMath/SymmetryBook](https://github.com/UniMath/SymmetryBook) - This book will be a textbook written in the univalent style, taking advantage of the presence of symmetry in the logic at an early stage.
-- [badlogic/lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - The Power of Prolog: Introduction to modern Prolog
 - [slhck/ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize) - Audio Normalization for Python/ffmpeg
 - [disler/infinite-agentic-loop](https://github.com/disler/infinite-agentic-loop) - An experimental project demonstrating Infinite Agentic Loop in a two prompt system using Claude Code.
@@ -225,6 +228,7 @@
 
 ## JavaScript 
 
+- [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.
 - [MikeyBeez/mcp-reasoning-tools](https://github.com/MikeyBeez/mcp-reasoning-tools) - 🧠 Tool-Augmented Reasoning MCP Server - Computational verification tools that achieved 58.3% on BIG-Bench Hard evaluation (+29.7pp improvement)
 - [chrisisler/wavematch](https://github.com/chrisisler/wavematch) - 🌊  A pattern matching mechanism for JavaScript.
@@ -341,6 +345,8 @@
 
 ## Jupyter Notebook 
 
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [athina-ai/rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
@@ -379,6 +385,7 @@
 
 ## MDX 
 
+- [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) - A community-driven knowledge base of practical patterns for Effect-TS.
 - [huggingface/agents-course](https://github.com/huggingface/agents-course) - This repository contains the Hugging Face Agents Course.
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
@@ -400,6 +407,10 @@
 
 ## Others 
 
+- [heathersherry/Knowledge-Graph-Tutorials-and-Papers](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers) - Insightful Tutorials and Papers about Knowledge Graphs
+- [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) - AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets
+- [DEEP-PolyU/Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) - Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based retrieval-augmented generation.
+- [Modern-Prometheus-AI/AdaptiveModularNetwork](https://github.com/Modern-Prometheus-AI/AdaptiveModularNetwork) - Adaptive Modular Network (AMN) a potentially novel machine learning architecture capable of producing models which can learn at inference, self improve, and perceive time.
 - [adamwulf/app-launch-guide](https://github.com/adamwulf/app-launch-guide) - This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch. More info at:
 - [context-notation/video-notation-schema](https://github.com/context-notation/video-notation-schema) - A structured, JSON-based schema for precise, multi-scene AI video prompting and cinematic control.
 - [retab-dev/structured-generation-starter-pack](https://github.com/retab-dev/structured-generation-starter-pack) - A curated list of resources related to structured generation 🔥
@@ -512,6 +523,8 @@
 
 ## Python 
 
+- [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
+- [Modern-Prometheus-AI/Neuroca](https://github.com/Modern-Prometheus-AI/Neuroca) - A sophisticated biologically inspired memory system for AI agents. Provides organic, high quality, persistent memory with self-maintenance strategies.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [hbg/mcp-paperswithcode](https://github.com/hbg/mcp-paperswithcode) - An unofficial MCP interface to interact with the PapersWithCode API
 - [neoneye/PlanExe](https://github.com/neoneye/PlanExe) - AI planner similar to OpenAI's deep research
@@ -741,7 +754,6 @@
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
-- [waldzellai/mcp-agent-ts](https://github.com/waldzellai/mcp-agent-ts) - TypeScript port of the original MCP Agent framework by lastmile-ai
 - [hrushik98/bettrWrite](https://github.com/hrushik98/bettrWrite) - Fix grammars and typos and other errors with the help of AI
 - [mothdotmonster/inventory](https://github.com/mothdotmonster/inventory) - Move files like an old text adventure.
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -778,6 +790,16 @@
 
 ## TypeScript 
 
+- [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
+- [antvis/Graphin](https://github.com/antvis/Graphin) - 🌌 A React toolkit for graph visualization based on G6.
+- [reaviz/reagraph](https://github.com/reaviz/reagraph) - 🕸 WebGL Graph Visualizations for React. Maintained by @goodcodeus.
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+- [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
+- [arnestrickmann/Notechat](https://github.com/arnestrickmann/Notechat) - Local Apple Notes + LLM Chat
+- [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
+- [justinlietz93/Apex-CodeGenesis](https://github.com/justinlietz93/Apex-CodeGenesis) - Apex: An advanced autonomous coding agent for VS Code featuring total autonomy modes, recursive chain-of-thought reasoning, council-of-critics self-critique, persistent memory, dynamic personas, and e
+- [jalpp/recursearch](https://github.com/jalpp/recursearch) - A MAS that searches the web recursively to generate comprehensive research reports with or without citations.
 - [sst/opencode-sdk-js](https://github.com/sst/opencode-sdk-js) - 
 - [sst/opentui](https://github.com/sst/opentui) - 
 - [smikhalevski/doubter](https://github.com/smikhalevski/doubter) - 🤔 Runtime validation and transformation library.
@@ -808,6 +830,7 @@
 - [edge-js/edge](https://github.com/edge-js/edge) - Node.js template with a breath of fresh air
 - [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [badlogic/create-app](https://github.com/badlogic/create-app) - CLI for creating deployable apps with Caddy + Docker
+- [badlogic/lemmy](https://github.com/badlogic/lemmy) - Wrapper around tool using LLMs for agentic workflows
 - [basementstudio/commerce-toolkit](https://github.com/basementstudio/commerce-toolkit) - Ship better storefronts 🛍
 - [basementstudio/ship-25-explorations](https://github.com/basementstudio/ship-25-explorations) - 
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
@@ -841,6 +864,7 @@
 - [phuctm97/modelfetch](https://github.com/phuctm97/modelfetch) - Runtime-agnostic TypeScript/JavaScript SDK for MCP Servers
 - [jem-computer/capacities-mcp](https://github.com/jem-computer/capacities-mcp) - Capacities×MCP
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
+- [waldzellai/mcp-agent-ts](https://github.com/waldzellai/mcp-agent-ts) - TypeScript port of the original MCP Agent framework by lastmile-ai
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Add generative UI components to your AI assistant, copilot, or agent.
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker

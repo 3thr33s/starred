@@ -68,6 +68,7 @@
 
 ## C 
 
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
@@ -933,6 +934,7 @@
 
 ## TypeScript 
 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [voffie/loom](https://github.com/voffie/loom) - 
 - [paulmillr/micro-packed](https://github.com/paulmillr/micro-packed) - Define complex binary structures using composable primitives
 - [msmps/greptui](https://github.com/msmps/greptui) - A command line / tui client for grep.app

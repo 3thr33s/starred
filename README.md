@@ -279,6 +279,7 @@
 - [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) - ATLAS: Software Engineer AI Agent. Living memory persists. Learning compounds.   Every commit evolves it. Professional focus. KISS/YAGNI/DRY and Depend on Context. No overengineering. Clean code and C
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [agnt-gg/micro-agnt](https://github.com/agnt-gg/micro-agnt) - A minimal AI agent system
+- [DannyMac180/meta-agent](https://github.com/DannyMac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
 - [electron/chromedriver](https://github.com/electron/chromedriver) - Download ChromeDriver for Electron
 - [codebytere/codebytere.github.io](https://github.com/codebytere/codebytere.github.io) - personal website
 - [sindresorhus/yes-no-words](https://github.com/sindresorhus/yes-no-words) - Get yes/no-like words
@@ -496,7 +497,6 @@
 - [kardolus/prompts](https://github.com/kardolus/prompts) - Collection of AI prompts
 - [iannuttall/claude-sessions](https://github.com/iannuttall/claude-sessions) - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation
 - [mitsuhiko/agent-prompts](https://github.com/mitsuhiko/agent-prompts) - Holds prompts for agentic loops
-- [DannyMac180/meta-agent](https://github.com/DannyMac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
 - [arthurpetron/reference_material](https://github.com/arthurpetron/reference_material) - various useful documents
 - [vaughantype/wumpus-mono](https://github.com/vaughantype/wumpus-mono) - A modern and functional monospaced typeface with a focus on legibility.
 - [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
@@ -509,7 +509,7 @@
 - [lorepieri8/awesome-post-scarcity](https://github.com/lorepieri8/awesome-post-scarcity) - A curated list of Post-Scarcity links, books and resources.
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
-- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL!
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [browser-use/awesome-prompts](https://github.com/browser-use/awesome-prompts) - Table of awesome Browser Use prompts
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -936,6 +936,7 @@
 
 ## TypeScript 
 
+- [ssalbdivad/dood](https://github.com/ssalbdivad/dood) - David i am so sorry for peer pressuring you that as really bad of me
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [voffie/loom](https://github.com/voffie/loom) - 
 - [paulmillr/micro-packed](https://github.com/paulmillr/micro-packed) - Define complex binary structures using composable primitives

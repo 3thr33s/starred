@@ -30,6 +30,7 @@
 - [MDX](#mdx)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
+- [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -263,6 +264,7 @@
 
 ## JavaScript 
 
+- [Level/abstract-level](https://github.com/Level/abstract-level) - Abstract class for a lexicographically sorted key-value database.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [krasimir/forket](https://github.com/krasimir/forket) - Forket is a tool that splits your code to client and server so you have RSC (React Server Components) working without a framework.
@@ -399,7 +401,7 @@
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [huggingface/smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [Wimmics/semantically-enriched-link-prediction-datasets](https://github.com/Wimmics/semantically-enriched-link-prediction-datasets) - Variants of the Link Prediction datasets DB100k, YAGO3-10 and NELL-995 with their related entity types, type hierarchies and predicates domains and ranges
 - [BetterCallSaud/NSAI-Research](https://github.com/BetterCallSaud/NSAI-Research) - A dedicated repository for learning and researching about neuro-symbolic artificial intelligence (NSAI)
 - [LILY-QML/LLY-HDC](https://github.com/LILY-QML/LLY-HDC) - LLY-HDC uses hyperdimesnional computing and neurosymbolic AI to implement a high-performance AI model on quantum computers
@@ -454,6 +456,10 @@
 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
+## Nix 
+
+- [molarmanful/kirsch](https://github.com/molarmanful/kirsch) - A versatile bitmap font with an organic flair.
+
 ## OCaml 
 
 - [rocq-prover/rocq](https://github.com/rocq-prover/rocq) - The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment f
@@ -465,6 +471,8 @@
 
 ## Others 
 
+- [nielsvoss/lean-pitfalls](https://github.com/nielsvoss/lean-pitfalls) - Documenting common pitfalls and footguns in Lean
+- [milisp/awesome-gpt-oss](https://github.com/milisp/awesome-gpt-oss) - A curated list of awesome GPT-OSS resources, tools, tutorials, and projects
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [haizelabs/Awesome-LLM-Judges](https://github.com/haizelabs/Awesome-LLM-Judges) - ⚖️ Awesome LLM Judges ⚖️
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
@@ -720,7 +728,7 @@
 - [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
 - [TagStudioDev/TagStudio](https://github.com/TagStudioDev/TagStudio) - A User-Focused Photo & File Management System
 - [principia-ai/WriteHERE](https://github.com/principia-ai/WriteHERE) - An Open-Source AI Writing Project.
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes.
+- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
 - [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [AutoCodeRoverSG/auto-code-rover](https://github.com/AutoCodeRoverSG/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with ea
@@ -806,6 +814,8 @@
 
 ## Rust 
 
+- [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
+- [orhun/theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [sandydoo/flux](https://github.com/sandydoo/flux) - An open-source tribute to the macOS Drift screensaver
 - [noir-lang/noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
@@ -952,6 +962,8 @@
 
 ## TypeScript 
 
+- [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
+- [chaqchase/artemis](https://github.com/chaqchase/artemis) - Artemis: TypeScript-Powered Scripting Language
 - [shicks/chartty](https://github.com/shicks/chartty) - Pure JS library for making scatter plots in the terminal with braille dots
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 - [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
@@ -1326,7 +1338,6 @@
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [MartinGamesCZ/Birdiemail](https://github.com/MartinGamesCZ/Birdiemail) - Birdiemail monorepo
-- [gems-platforms/manzoni-app](https://github.com/gems-platforms/manzoni-app) - Manzoni: text editor running local LLMs. Open-source and available for commercial use.
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [run-llama/workflows-ts](https://github.com/run-llama/workflows-ts) - 🌊 Simple, event-driven and stream oriented workflow for TypeScript
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.

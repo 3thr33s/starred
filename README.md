@@ -30,6 +30,7 @@
 - [MDX](#mdx)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
+- [Mustache](#mustache)
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -91,6 +92,7 @@
 
 ## C++ 
 
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
@@ -154,6 +156,8 @@
 
 ## Go 
 
+- [shortlink-org/shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example) ⭐️ Star the repo if you like it!
+- [pacedotdev/oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [leona/evilbin](https://github.com/leona/evilbin) - POC method of binding static binaries to a Go application, then executing them in memory while intercepting stdout.
 - [fortio/multicurl](https://github.com/fortio/multicurl) - Fetch same url from all the IPs available
@@ -456,6 +460,10 @@
 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
+## Mustache 
+
+- [mridang/openapi-generator-plus](https://github.com/mridang/openapi-generator-plus) - An opinionated OpenAPI normalizer and code generator for creating clean, minimal, and modern client SDKs.
+
 ## Nix 
 
 - [molarmanful/kirsch](https://github.com/molarmanful/kirsch) - A versatile bitmap font with an organic flair.
@@ -610,6 +618,7 @@
 
 ## Perl 
 
+- [ungive/media-control](https://github.com/ungive/media-control) - Control and observe media playback from the command line
 - [dimikot/dklab_realsync](https://github.com/dimikot/dklab_realsync) - dkLab RealSync: replicate developer's files over SSH in realtime
 
 ## Python 
@@ -962,6 +971,13 @@
 
 ## TypeScript 
 
+- [oetzilabs/better-opentui](https://github.com/oetzilabs/better-opentui) - reimplementation of sst/opentui with Effect-TS
+- [infely/react-curse](https://github.com/infely/react-curse) - Fastest terminal UI for react (TUI, CLI, curses-like)
+- [skmtc/skmtc](https://github.com/skmtc/skmtc) - Skmtc is a declarative code generation framework
+- [orval-labs/orval](https://github.com/orval-labs/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
+- [wcygan/deno-fresh-better-auth](https://github.com/wcygan/deno-fresh-better-auth) - 
+- [tiadrop/timeline](https://github.com/tiadrop/timeline) - A general‑purpose, environment-agnostic choreography engine
+- [tim-smart/effect-mcp](https://github.com/tim-smart/effect-mcp) - 
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [chaqchase/artemis](https://github.com/chaqchase/artemis) - Artemis: TypeScript-Powered Scripting Language
 - [shicks/chartty](https://github.com/shicks/chartty) - Pure JS library for making scatter plots in the terminal with braille dots

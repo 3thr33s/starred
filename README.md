@@ -18,6 +18,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Fennel](#fennel)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -70,6 +71,7 @@
 
 ## C 
 
+- [tree-sitter-grammars/tree-sitter-kdl](https://github.com/tree-sitter-grammars/tree-sitter-kdl) - KDL grammar for tree-sitter
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
@@ -154,8 +156,13 @@
 
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 
+## GLSL 
+
+- [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
+
 ## Go 
 
+- [emprcl/runal](https://github.com/emprcl/runal) - a creative coding environment for the terminal :fireworks:
 - [shortlink-org/shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example) ⭐️ Star the repo if you like it!
 - [pacedotdev/oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
@@ -232,6 +239,7 @@
 
 ## HTML 
 
+- [kitnil/notes](https://github.com/kitnil/notes) - My notes
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [ActiveInferenceInstitute/cognitive](https://github.com/ActiveInferenceInstitute/cognitive) - 
@@ -268,6 +276,8 @@
 
 ## JavaScript 
 
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
+- [functional-architecture/functional-architecture.github.io](https://github.com/functional-architecture/functional-architecture.github.io) - www.functional-architecture.org website
 - [Level/abstract-level](https://github.com/Level/abstract-level) - Abstract class for a lexicographically sorted key-value database.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
@@ -483,7 +493,7 @@
 - [milisp/awesome-gpt-oss](https://github.com/milisp/awesome-gpt-oss) - A curated list of awesome GPT-OSS resources, tools, tutorials, and projects
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [haizelabs/Awesome-LLM-Judges](https://github.com/haizelabs/Awesome-LLM-Judges) - ⚖️ Awesome LLM Judges ⚖️
-- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive load is what matters
 - [slevithan/awesome-regex](https://github.com/slevithan/awesome-regex) - 🦉 A curated collection of regex tools, tutorials, libraries, etc.
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [tarlepp/links-of-the-week](https://github.com/tarlepp/links-of-the-week) - 
@@ -623,6 +633,8 @@
 
 ## Python 
 
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [sim642/whatpulse](https://github.com/sim642/whatpulse) - WhatPulse reverse engineered
 - [0xacb/recollapse](https://github.com/0xacb/recollapse) - REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [rmaake1/terminal-rain-lightning](https://github.com/rmaake1/terminal-rain-lightning) - Terminal-based ASCII rain and lightning animation.
@@ -675,7 +687,7 @@
 - [ptarau/recursors](https://github.com/ptarau/recursors) - Full Automation of Goal-driven LLM Dialog Threads with And-Or Recursors and Refiner Oracles
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [namin/holey](https://github.com/namin/holey) - Python library for program synthesis and symbolic execution combining constraint solving and LLMs
 - [daviddebot/CMR](https://github.com/daviddebot/CMR) - Code for Interpretable Concept-Based Memory Reasoning (NeurIPS 2024)
@@ -689,7 +701,7 @@
 - [ddisisto/rtfw](https://github.com/ddisisto/rtfw) - RTFW (Riding The Fourth Wall) - A strategy game about AI development with recursive design philosophy
 - [daveshap/PostLaborEconomics](https://github.com/daveshap/PostLaborEconomics) - Public repository for Post-Labor Economics research data.
 - [daveshap/ACE_Framework](https://github.com/daveshap/ACE_Framework) - ACE (Autonomous Cognitive Entities) - 100% local and open source autonomous agents
-- [open-thought/reasoning-gym](https://github.com/open-thought/reasoning-gym) - procedural reasoning datasets
+- [open-thought/reasoning-gym](https://github.com/open-thought/reasoning-gym) - [NeurIPS 2025 Spotlight] Reasoning Environments for Reinforcement Learning with Verifiable Rewards
 - [sapientinc/HRM](https://github.com/sapientinc/HRM) - Hierarchical Reasoning Model Official Release
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [openvpi/DiffSinger](https://github.com/openvpi/DiffSinger) - An advanced singing voice synthesis system with high fidelity, expressiveness, controllability and flexibility based on DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism
@@ -823,6 +835,7 @@
 
 ## Rust 
 
+- [meli/meli](https://github.com/meli/meli) - terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [orhun/theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -971,6 +984,19 @@
 
 ## TypeScript 
 
+- [harrysolovay/effect-metaschema-video](https://github.com/harrysolovay/effect-metaschema-video) - 
+- [ecyrbe/typeskell](https://github.com/ecyrbe/typeskell) - Functional programming in Typescript
+- [mikavilpas/tui-sandbox](https://github.com/mikavilpas/tui-sandbox) - 🧪 A terminal test environment and development playground 🛝
+- [mepuka/effect-nlp](https://github.com/mepuka/effect-nlp) - 
+- [jambudipa/dynamic-flow](https://github.com/jambudipa/dynamic-flow) - Generate complete LLM execution graphs at runtime
+- [dahlia/optique](https://github.com/dahlia/optique) - Type-safe combinatorial CLI parser for TypeScript
+- [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain)
+- [pmndrs/prai](https://github.com/pmndrs/prai) - JS Framework for building step-by-step LLM instructions
+- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
+- [pmndrs/xr](https://github.com/pmndrs/xr) - 🤳 VR/AR for react-three-fiber
+- [Malvolio/printify-effect](https://github.com/Malvolio/printify-effect) - A modern TypeScript library that wraps the Printify REST API using Effect-ts patterns. This library provides a type-safe, functional interface for interacting with Printify's print-on-demand services.
+- [lino-levan/raylib-deno](https://github.com/lino-levan/raylib-deno) - Deno FFI bindings for Raylib
+- [lino-levan/astral](https://github.com/lino-levan/astral) - A high-level puppeteer/playwright-like library for Deno
 - [oetzilabs/better-opentui](https://github.com/oetzilabs/better-opentui) - reimplementation of sst/opentui with Effect-TS
 - [infely/react-curse](https://github.com/infely/react-curse) - Fastest terminal UI for react (TUI, CLI, curses-like)
 - [skmtc/skmtc](https://github.com/skmtc/skmtc) - Skmtc is a declarative code generation framework

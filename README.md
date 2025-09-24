@@ -835,6 +835,7 @@
 
 ## Rust 
 
+- [ruvnet/sublinear-time-solver](https://github.com/ruvnet/sublinear-time-solver) - Rust + WASM sublinear-time solver for asymmetric diagonally dominant systems. Exposes Neumann series, push, and hybrid random-walk algorithms with npm/npx CLI and Flow-Nexus HTTP streaming for swarm c
 - [meli/meli](https://github.com/meli/meli) - terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
 - [orhun/theattyr](https://github.com/orhun/theattyr) - A terminal theater for playing VT100 art and animations
@@ -984,6 +985,7 @@
 
 ## TypeScript 
 
+- [lloydrichards/edu_effect-cli-tui](https://github.com/lloydrichards/edu_effect-cli-tui) - Experimenting with building TUI (Terminal User Interfaces) using Effect
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [harrysolovay/effect-metaschema-video](https://github.com/harrysolovay/effect-metaschema-video) - 
 - [ecyrbe/typeskell](https://github.com/ecyrbe/typeskell) - Functional programming in Typescript

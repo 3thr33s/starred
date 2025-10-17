@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -162,11 +163,11 @@
 
 ## GLSL 
 
-- [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
 - [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 
 ## Go 
 
+- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying
 - [emprcl/runal](https://github.com/emprcl/runal) - a creative coding environment for the terminal :fireworks:
 - [shortlink-org/shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example) ⭐️ Star the repo if you like it!
 - [pacedotdev/oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.
@@ -245,10 +246,10 @@
 ## HTML 
 
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
+- [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
 - [kitnil/notes](https://github.com/kitnil/notes) - My notes
 - [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters) - Repository for the book "Crafting Interpreters"
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
-- [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - 
 - [ActiveInferenceInstitute/cognitive](https://github.com/ActiveInferenceInstitute/cognitive) - 
 - [frutik/awesome-search](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce, but not only) search and its awesomeness
 - [UniMath/SymmetryBook](https://github.com/UniMath/SymmetryBook) - This book will be a textbook written in the univalent style, taking advantage of the presence of symmetry in the logic at an early stage.
@@ -283,6 +284,7 @@
 
 ## JavaScript 
 
+- [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [functional-architecture/functional-architecture.github.io](https://github.com/functional-architecture/functional-architecture.github.io) - www.functional-architecture.org website
@@ -393,7 +395,6 @@
 - [signalwire/digital_employees](https://github.com/signalwire/digital_employees) - 
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
 - [bmorphism/hypernym-mcp-server](https://github.com/bmorphism/hypernym-mcp-server) - 
-- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
@@ -500,6 +501,8 @@
 
 ## Others 
 
+- [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
+- [jslee02/awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) - :sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources
 - [goldbergyoni/golden-testing-rules-for-ai](https://github.com/goldbergyoni/golden-testing-rules-for-ai) - Instructions for LLMs on how to produce great tests with best practices inside
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [xinchen10/awesome-amqp](https://github.com/xinchen10/awesome-amqp) - A curated list of AMQP 1.0 resources
@@ -676,6 +679,7 @@
 - [BjornMelin/codeforge](https://github.com/BjornMelin/codeforge) - 🤖 CodeForge AI: An autonomous multi-agent coding system powered by LangGraph for agentic software development and automated workflows. SOTA custom agentic GraphRag, shared-state memory, auto-model rou
 - [rileylemm/graphrag-hybrid](https://github.com/rileylemm/graphrag-hybrid) - Hybrid Neo4j/Qdrant retrieval system for structured Markdown documentation with YAML frontmatter. Combines graph relationships and vector search for enhanced document retrieval, with built-in MCP inte
 - [BjornMelin/qdrant-neo4j-crawl4ai-mcp](https://github.com/BjornMelin/qdrant-neo4j-crawl4ai-mcp) - MCP server combining Qdrant vector search, Neo4j knowledge graphs, and Crawl4AI web intelligence with agentic RAG capabilities. FastMCP 2.0 architecture with enterprise security, monitoring, and Kuber
+- [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - 
 - [docxology/cognitive](https://github.com/docxology/cognitive) - 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
@@ -686,7 +690,7 @@
 - [Modern-Prometheus-AI/Neuroca](https://github.com/Modern-Prometheus-AI/Neuroca) - A sophisticated biologically inspired memory system for AI agents. Provides organic, high quality, persistent memory with self-maintenance strategies.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [hbg/mcp-paperswithcode](https://github.com/hbg/mcp-paperswithcode) - An unofficial MCP interface to interact with the PapersWithCode API
-- [neoneye/PlanExe](https://github.com/neoneye/PlanExe) - Convert your idea to a plan
+- [neoneye/PlanExe](https://github.com/neoneye/PlanExe) - Create a business plan from a description in minutes
 - [liugangcode/deepevolve](https://github.com/liugangcode/deepevolve) - DeepEvolve is a research and coding agent for new algorithm discovery in different science domains with Deep Research and AlphaEvolve.
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
@@ -771,7 +775,7 @@
 - [yoheinakajima/mindgraph](https://github.com/yoheinakajima/mindgraph) - proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [thepersonalaicompany/amurex-backend](https://github.com/thepersonalaicompany/amurex-backend) - This is the backend for the entire Amurex project.
-- [wisent-ai/wisent-guard](https://github.com/wisent-ai/wisent-guard) - This is an open-source version of the representation engineering framework for stopping harmful outputs or hallucinations on the level of activations. 100% free, self-hosted and open-source.
+- [wisent-ai/wisent](https://github.com/wisent-ai/wisent) - This is an open-source version of the representation engineering framework for stopping harmful outputs or hallucinations on the level of activations. 100% free, self-hosted and open-source.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet) - Comprehensive Python Cheatsheet
 - [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank) - Python implementation of TextRank algorithms ("textgraphs") for phrase extraction
@@ -793,7 +797,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Incredibly fast multi-agent framework, runtime and UI.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
@@ -905,7 +909,7 @@
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a smart proxy server that handles the plumbing work in AI: agent routing and hand off, guardrails, end-to-end traces and unify access to LLMs from OpenAI, Anthropic,
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from Open
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [memextech/ht-mcp](https://github.com/memextech/ht-mcp) - Pure Rust implementation of MCP server for headless terminal
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -1008,6 +1012,16 @@
 
 ## TypeScript 
 
+- [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
+- [bjacobso/meta-effect](https://github.com/bjacobso/meta-effect) - 
+- [FreesoSaiFared/youtube-caps](https://github.com/FreesoSaiFared/youtube-caps) - Capture youtube TUI and convert to MP3 with some slowdown or speedup
+- [ObscuritySRL/bun-memory](https://github.com/ObscuritySRL/bun-memory) - Fast Windows process memory utilities for Bun using bun:ffi.
+- [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
+- [lxsmnsyc/seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values
+- [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
+- [only-cliches/iron-enum](https://github.com/only-cliches/iron-enum) - Ergonomic Rust like enums in Typescript
+- [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
+- [jambudipa/spider](https://github.com/jambudipa/spider) - A comprehensive web scraping library with resumable operations, middleware support, and built-in rate limiting
 - [NeaByteLab/Merkle-Tree](https://github.com/NeaByteLab/Merkle-Tree) - A TypeScript checkpoint management system using Merkle trees for file integrity verification and project state restoration capabilities.
 - [NeaByteLab/Ollama-Native](https://github.com/NeaByteLab/Ollama-Native) - TypeScript client library for Ollama API with retry logic, timeout management, error handling, and validation.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -1028,7 +1042,7 @@
 - [egonSchiele/tarsec](https://github.com/egonSchiele/tarsec) - A parser combinator library in TypeScript
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
 - [mepuka/PureDialog](https://github.com/mepuka/PureDialog) - Domain-aware knowledge extraction from expert interviews
-- [mmmoli/steiger](https://github.com/mmmoli/steiger) - Scaffolding tool for modules with DDD + Effect.ts
+- [mmlngl/steiger](https://github.com/mmlngl/steiger) - Scaffolding tool for modules with DDD + Effect.ts
 - [couchlabs/couch](https://github.com/couchlabs/couch) - Stablecoin recurring payments infrastructure
 - [jethrolarson/noolang](https://github.com/jethrolarson/noolang) - 
 - [devx-op/effectify](https://github.com/devx-op/effectify) - 
@@ -1318,7 +1332,6 @@
 - [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 - [haydenbleasel/alchemy](https://github.com/haydenbleasel/alchemy) - A visual journey of The Alchemist, powered by OpenAI and Midjourney.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
-- [solst-ice/chirp](https://github.com/solst-ice/chirp) - Send data with sound
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [thi-ng/monopub](https://github.com/thi-ng/monopub) - Lightweight & fast monorepo publish/release/changelog manager to automate releases using nothing more than Conventional Commits.
@@ -1601,6 +1614,7 @@
 - [Ejb503/multimodal-mcp-client](https://github.com/Ejb503/multimodal-mcp-client) - A Multi-modal MCP client for voice powered agentic workflows
 - [DrJonBrock/luke-desktop](https://github.com/DrJonBrock/luke-desktop) - A modern desktop client for Claude AI with MCP server support, built with Tauri, React, and TypeScript.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.

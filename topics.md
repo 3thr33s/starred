@@ -1770,6 +1770,7 @@
 
 ## javascript 
 
+- [callstack/ts-regex-builder](https://github.com/callstack/ts-regex-builder) - Maintainable regular expressions for TypeScript and JavaScript.
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
@@ -2595,6 +2596,16 @@
 
 ## others 
 
+- [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
+- [maml-dev/maml](https://github.com/maml-dev/maml) - Minimal. Human-readable. Machine-parsable.
+- [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
+- [grapeot/codex_wide_research](https://github.com/grapeot/codex_wide_research) - 
+- [mshumer/interactive-sora](https://github.com/mshumer/interactive-sora) - 
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
+- [tylersayshi/prototypey](https://github.com/tylersayshi/prototypey) - an experiment for using arktype to author atproto schemas
+- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [visa/trusted-agent-protocol](https://github.com/visa/trusted-agent-protocol) - Establishing a universal standard of trust between AI agents and merchants for the next phase of agentic commerce.
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [bjacobso/meta-effect](https://github.com/bjacobso/meta-effect) - 
 - [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying
 - [FreesoSaiFared/youtube-caps](https://github.com/FreesoSaiFared/youtube-caps) - Capture youtube TUI and convert to MP3 with some slowdown or speedup
@@ -3569,6 +3580,7 @@
 
 ## rust 
 
+- [GermanHeim/globalsearch-rs](https://github.com/GermanHeim/globalsearch-rs) - Global optimization with scatter search and local NLP solvers written in Rust
 - [cablehead/xs](https://github.com/cablehead/xs) - crossing the streams
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
@@ -3954,6 +3966,7 @@
 
 ## typescript 
 
+- [callstack/ts-regex-builder](https://github.com/callstack/ts-regex-builder) - Maintainable regular expressions for TypeScript and JavaScript.
 - [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
 - [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples

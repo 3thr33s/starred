@@ -1024,7 +1024,7 @@
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [callstack/ts-regex-builder](https://github.com/callstack/ts-regex-builder) - Maintainable regular expressions for TypeScript and JavaScript.
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
-- [tylersayshi/prototypey](https://github.com/tylersayshi/prototypey) - an experiment for using arktype to author atproto schemas
+- [tylersayshi/prototypey](https://github.com/tylersayshi/prototypey) - atproto lexicon typescript toolkit
 - [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
 - [bjacobso/meta-effect](https://github.com/bjacobso/meta-effect) - 
 - [FreesoSaiFared/youtube-caps](https://github.com/FreesoSaiFared/youtube-caps) - Capture youtube TUI and convert to MP3 with some slowdown or speedup
@@ -1269,7 +1269,7 @@
 - [jem-computer/capacities-mcp](https://github.com/jem-computer/capacities-mcp) - Capacities×MCP
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [waldzellai/mcp-agent-ts](https://github.com/waldzellai/mcp-agent-ts) - TypeScript port of the original MCP Agent framework by lastmile-ai
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Add generative UI components to your AI assistant, copilot, or agent.
+- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Add natural language control to your React app, with MCP and generative UX
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation
 - [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - 
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
@@ -1347,6 +1347,7 @@
 - [haydenbleasel/kibo](https://github.com/haydenbleasel/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 - [haydenbleasel/alchemy](https://github.com/haydenbleasel/alchemy) - A visual journey of The Alchemist, powered by OpenAI and Midjourney.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos
+- [solst-ice/chirp](https://github.com/solst-ice/chirp) - Send data with sound
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [thi-ng/monopub](https://github.com/thi-ng/monopub) - Lightweight & fast monorepo publish/release/changelog manager to automate releases using nothing more than Conventional Commits.
@@ -1461,6 +1462,7 @@
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [MartinGamesCZ/Birdiemail](https://github.com/MartinGamesCZ/Birdiemail) - Birdiemail monorepo
+- [yiitap/yiitap](https://github.com/yiitap/yiitap) - An AI powered, Notion-style WYSIWYG rich-text block-based editor. 🍀
 - [wakujs/waku](https://github.com/wakujs/waku) - ⛩️ The minimal React framework
 - [run-llama/workflows-ts](https://github.com/run-llama/workflows-ts) - 🌊 Simple, event-driven and stream oriented workflow for TypeScript
 - [hsuanyi-chou/shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - More components built on top of shadcn-ui.
@@ -1670,7 +1672,6 @@
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-- [yiitap/yiitap](https://github.com/yiitap/yiitap) - An AI powered, Notion-style WYSIWYG rich-text block-based editor. 🍀
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## Zig 

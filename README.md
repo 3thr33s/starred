@@ -97,7 +97,7 @@
 
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
@@ -284,6 +284,9 @@
 
 ## JavaScript 
 
+- [dariusk/pos-js](https://github.com/dariusk/pos-js) - fasttag part of speech tagger javascript implementation
+- [remorses/AGENTS.md](https://github.com/remorses/AGENTS.md) - My agents instruction files, grouped by tech
+- [obra/superpowers-developing-for-claude-code](https://github.com/obra/superpowers-developing-for-claude-code) - 
 - [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
 - [maml-dev/maml](https://github.com/maml-dev/maml) - Minimal. Human-readable. Machine-parsable.
 - [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
@@ -501,6 +504,7 @@
 
 ## Others 
 
+- [PaulJPhilp/effect-xstate](https://github.com/PaulJPhilp/effect-xstate) - 
 - [grapeot/codex_wide_research](https://github.com/grapeot/codex_wide_research) - 
 - [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
 - [jslee02/awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) - :sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources
@@ -650,6 +654,8 @@
 
 ## Python 
 
+- [haasonsaas/checkpoint](https://github.com/haasonsaas/checkpoint) - A digital ghost system for creating conversational AI approximations from written data. RAG-based preservation of communication style and thought patterns. Accompanies: https://www.haasonsaas.com/blog
+- [DannyMac180/ACE](https://github.com/DannyMac180/ACE) - Code for the Agentic Context Engineering (ACE) Paper
 - [mshumer/interactive-sora](https://github.com/mshumer/interactive-sora) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 - [visa/trusted-agent-protocol](https://github.com/visa/trusted-agent-protocol) - Establishing a universal standard of trust between AI agents and merchants for the next phase of agentic commerce.
@@ -677,6 +683,7 @@
 - [shobrook/saplings](https://github.com/shobrook/saplings) - Plug-and-play tree search for agents
 - [shobrook/promptimal](https://github.com/shobrook/promptimal) - A very fast, very minimal prompt optimizer
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
+- [ai-that-works/ai-that-works](https://github.com/ai-that-works/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [BjornMelin/tripsage-ai](https://github.com/BjornMelin/tripsage-ai) - ✈️ AI-powered travel planning system with budget optimization, multi-source search, and personalized recommendations built on Supabase + PGVector, LangGraph Agents, Dragon DB, and NextJS 15, TailwindC
@@ -801,8 +808,8 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
@@ -915,7 +922,7 @@
 - [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from Open
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenA
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [memextech/ht-mcp](https://github.com/memextech/ht-mcp) - Pure Rust implementation of MCP server for headless terminal
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -1019,6 +1026,14 @@
 
 ## TypeScript 
 
+- [shigma/cosmokit](https://github.com/shigma/cosmokit) - A collection of common utilities
+- [Glup3/trendingrepos](https://github.com/Glup3/trendingrepos) - Explore the most popular repositories on GitHub, ranked by star difference over selectable time periods.
+- [seanwessmith/bun-mcp](https://github.com/seanwessmith/bun-mcp) - 
+- [obra/episodic-memory](https://github.com/obra/episodic-memory) - 
+- [SamuelZ12/tldw](https://github.com/SamuelZ12/tldw) - Too Long; Didn't Watch
+- [remorses/termcast](https://github.com/remorses/termcast) - Run Racyast extensions in the terminal. Powered by opentui
+- [remorses/opentui-treegraph](https://github.com/remorses/opentui-treegraph) - Example tree graph in opentui
+- [NeaByteLab/Myers-Diff](https://github.com/NeaByteLab/Myers-Diff) - Implementation of the Myers diff algorithm with O(ND) complexity, multiple output formats, and benchmarking suite.
 - [openai/codex-action](https://github.com/openai/codex-action) - 
 - [PaulJPhilp/effect-regex](https://github.com/PaulJPhilp/effect-regex) - 
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -1128,7 +1143,6 @@
 - [akmjenkins/json-schema-rules-engine](https://github.com/akmjenkins/json-schema-rules-engine) - A highly configurable and dynamic rules engine based on JSON Schema
 - [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
 - [BetrixDev/standard-rule-engine](https://github.com/BetrixDev/standard-rule-engine) - A type-safe rule engine using the Standard Schema for fact validation
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples, fancy and practical diagrams and unit tests ✅
 - [remvze/lowfi](https://github.com/remvze/lowfi) - 🎵 Play Lofi music through your terminal.
 - [ChrisRoyse/CodeGraph](https://github.com/ChrisRoyse/CodeGraph) - 
@@ -1136,7 +1150,6 @@
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.
 - [loro-dev/loro-examples-deno](https://github.com/loro-dev/loro-examples-deno) - 
 - [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
-- [ai-that-works/ai-that-works](https://github.com/ai-that-works/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Your Next Store: Modern Commerce with Next.js and Stripe as the backend.
 - [zaiste/wren](https://github.com/zaiste/wren) - A small, but powerful HTTP library for Deno & Deno Deploy, built for convenience and simplicity
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
@@ -1194,7 +1207,7 @@
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [idosal/mcp-ui](https://github.com/idosal/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [johnlindquist/claude-hooks](https://github.com/johnlindquist/claude-hooks) - 
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code UI (themes, thinking verbs, input box style, user message display, sign-in ASCII art), fix bugs (frozen spinner), and add features (CLAUDE_CODE_CONTEXT_LIMIT
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code system prompts, add custom themes, thinking verbs & spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add fea
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) - A community-driven knowledge base of practical patterns for Effect-TS.
@@ -1287,7 +1300,7 @@
 - [arach/blink](https://github.com/arach/blink) - A beautiful transparent notes application built with Tauri, React, and native macOS window controls
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
-- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Build applications as fast as a zap.
+- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Zap Studio's monorepo.
 - [Insik-Han/han-stack-archive](https://github.com/Insik-Han/han-stack-archive) - Modern Saas fullstack framework template using Tanstack Start, orpc
 - [anthropics/mcpb](https://github.com/anthropics/mcpb) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI Dataset Generator – Create realistic datasets for demos, learning, and dashboards
@@ -1668,6 +1681,7 @@
 
 ## Vue 
 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [disler/agentic-coding-tool-eval](https://github.com/disler/agentic-coding-tool-eval) - Simple ideas to compare Agentic Coding Tools
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,

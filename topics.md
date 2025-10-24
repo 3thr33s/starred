@@ -313,7 +313,7 @@
 - [liveblocks/liveblocks-mcp-server](https://github.com/liveblocks/liveblocks-mcp-server) - MCP server for Liveblocks.
 - [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
 - [strands-agents/mcp-server](https://github.com/strands-agents/mcp-server) - This MCP server provides documentation about Strands Agents to your GenAI tools, so you can use your favorite AI coding assistant to vibe-code Strands Agents.
-- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Build applications as fast as a zap.
+- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Zap Studio's monorepo.
 - [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
 - [devflowinc/uzi](https://github.com/devflowinc/uzi) - CLI for running large numbers of coding agents in parallel with git worktrees
 - [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge) - An open-source visual programming environment for battle-testing prompts to LLMs.
@@ -363,6 +363,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
@@ -428,6 +429,7 @@
 - [principia-ai/WriteHERE](https://github.com/principia-ai/WriteHERE) - An Open-Source AI Writing Project.
 - [finehq/fine](https://github.com/finehq/fine) - Ready-to-use Fine AI agents for automating development workflows
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [swarmzero/swarmzero](https://github.com/swarmzero/swarmzero) - SwarmZero's SDK for building AI agents, swarms of agents and much more.
@@ -439,6 +441,7 @@
 
 ## algorithm 
 
+- [NeaByteLab/Myers-Diff](https://github.com/NeaByteLab/Myers-Diff) - Implementation of the Myers diff algorithm with O(ND) complexity, multiple output formats, and benchmarking suite.
 - [atkirtland/awesome-computational-geometry](https://github.com/atkirtland/awesome-computational-geometry) - A curated list of awesome computational geometry visualizations, frameworks, and resources
 
 ## analytics 
@@ -516,7 +519,7 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
@@ -809,7 +812,7 @@
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
@@ -901,7 +904,7 @@
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [org-formation/org-formation-cli](https://github.com/org-formation/org-formation-cli) - Better than landingzones!
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [mjrlowe/terminal_images](https://github.com/mjrlowe/terminal_images) - A Deno module and CLI tool for printing images to the console. 🖼️
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlinin
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -970,6 +973,7 @@
 
 ## computer-science 
 
+- [NeaByteLab/Myers-Diff](https://github.com/NeaByteLab/Myers-Diff) - Implementation of the Myers diff algorithm with O(ND) complexity, multiple output formats, and benchmarking suite.
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica) - A computer science textbook
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -1164,6 +1168,7 @@
 
 ## deno 
 
+- [NeaByteLab/Myers-Diff](https://github.com/NeaByteLab/Myers-Diff) - Implementation of the Myers diff algorithm with O(ND) complexity, multiple output formats, and benchmarking suite.
 - [lino-levan/astral](https://github.com/lino-levan/astral) - A high-level puppeteer/playwright-like library for Deno
 - [zaiste/wren](https://github.com/zaiste/wren) - A small, but powerful HTTP library for Deno & Deno Deploy, built for convenience and simplicity
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
@@ -1238,8 +1243,8 @@
 - [finehq/fine](https://github.com/finehq/fine) - Ready-to-use Fine AI agents for automating development workflows
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
 - [agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) - A curated list of awesome developer-first tools products.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
@@ -1608,7 +1613,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [sim642/whatpulse](https://github.com/sim642/whatpulse) - WhatPulse reverse engineered
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
@@ -1672,7 +1677,6 @@
 - [samchon/typia](https://github.com/samchon/typia) - Super-fast/easy runtime validators and serializers via transformation
 - [neplextech/canvacord](https://github.com/neplextech/canvacord) - Easily generate images using react-like components in nodejs. Canvacord is suitable for creating dynamic images such as social media posts, greetings cards, memes, etc. It is also possible to create y
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [neutralinojs/neutralinojs-minimal](https://github.com/neutralinojs/neutralinojs-minimal) - The simplest template for a Neutralinojs app
@@ -1772,6 +1776,7 @@
 
 ## javascript 
 
+- [NeaByteLab/Myers-Diff](https://github.com/NeaByteLab/Myers-Diff) - Implementation of the Myers diff algorithm with O(ND) complexity, multiple output formats, and benchmarking suite.
 - [callstack/ts-regex-builder](https://github.com/callstack/ts-regex-builder) - Maintainable regular expressions for TypeScript and JavaScript.
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
@@ -1973,7 +1978,7 @@
 
 ## linux 
 
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [cmang/durdraw](https://github.com/cmang/durdraw) - Versatile ASCII and ANSI Art text editor for drawing in the Linux/Unix/macOS terminal, with animation, 256 and 16 colors, Unicode and CP437, and customizable themes
 - [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
@@ -2069,7 +2074,7 @@
 - [finehq/fine](https://github.com/finehq/fine) - Ready-to-use Fine AI agents for automating development workflows
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
@@ -2165,7 +2170,7 @@
 
 ## macos 
 
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain)
 - [sandydoo/flux](https://github.com/sandydoo/flux) - An open-source tribute to the macOS Drift screensaver
 - [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
@@ -2329,7 +2334,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [geldata/gel-examples](https://github.com/geldata/gel-examples) - EdgeDB example projects for different stacks
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
-- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Build applications as fast as a zap.
+- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Zap Studio's monorepo.
 - [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
 - [nikhils4/ui-beats](https://github.com/nikhils4/ui-beats) - Level up your UI development with reusable components from UI Beats, crafted with React, Typescript, Tailwind CSS, and Framer Motion.
 - [Gsync/jobsync](https://github.com/Gsync/jobsync) - JobSync is a job search tracker and job seekers' assistant to manage job search efficiently, its self hosted and open source, built with nextjs, react and shadcn
@@ -2500,6 +2505,7 @@
 
 ## open-source 
 
+- [NeaByteLab/Myers-Diff](https://github.com/NeaByteLab/Myers-Diff) - Implementation of the Myers diff algorithm with O(ND) complexity, multiple output formats, and benchmarking suite.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [molarmanful/kirsch](https://github.com/molarmanful/kirsch) - A versatile bitmap font with an organic flair.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
@@ -2545,7 +2551,7 @@
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [athina-ai/rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 - [G4brym/workers-research](https://github.com/G4brym/workers-research) - A serverless, AI-powered deep research agent built with Cloudflare Workers and Google Gemini 2.5
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, end-to-end logs and traces, unified access to LLMs from Open
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenA
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -2563,7 +2569,7 @@
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -2600,6 +2606,19 @@
 
 ## others 
 
+- [shigma/cosmokit](https://github.com/shigma/cosmokit) - A collection of common utilities
+- [Glup3/trendingrepos](https://github.com/Glup3/trendingrepos) - Explore the most popular repositories on GitHub, ranked by star difference over selectable time periods.
+- [dariusk/pos-js](https://github.com/dariusk/pos-js) - fasttag part of speech tagger javascript implementation
+- [seanwessmith/bun-mcp](https://github.com/seanwessmith/bun-mcp) - 
+- [obra/episodic-memory](https://github.com/obra/episodic-memory) - 
+- [SamuelZ12/tldw](https://github.com/SamuelZ12/tldw) - Too Long; Didn't Watch
+- [remorses/AGENTS.md](https://github.com/remorses/AGENTS.md) - My agents instruction files, grouped by tech
+- [remorses/termcast](https://github.com/remorses/termcast) - Run Racyast extensions in the terminal. Powered by opentui
+- [remorses/opentui-treegraph](https://github.com/remorses/opentui-treegraph) - Example tree graph in opentui
+- [haasonsaas/checkpoint](https://github.com/haasonsaas/checkpoint) - A digital ghost system for creating conversational AI approximations from written data. RAG-based preservation of communication style and thought patterns. Accompanies: https://www.haasonsaas.com/blog
+- [PaulJPhilp/effect-xstate](https://github.com/PaulJPhilp/effect-xstate) - 
+- [obra/superpowers-developing-for-claude-code](https://github.com/obra/superpowers-developing-for-claude-code) - 
+- [DannyMac180/ACE](https://github.com/DannyMac180/ACE) - Code for the Agentic Context Engineering (ACE) Paper
 - [openai/codex-action](https://github.com/openai/codex-action) - 
 - [PaulJPhilp/effect-regex](https://github.com/PaulJPhilp/effect-regex) - 
 - [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
@@ -2773,7 +2792,7 @@
 - [harrysolovay/liminal](https://github.com/harrysolovay/liminal) - An Effect AI toolkit for conversation state management.
 - [Durafen/Claude-code-memory](https://github.com/Durafen/Claude-code-memory) - 🧠 Universal semantic indexer providing persistent memory for Claude Code through knowledge   graphs, Tree-sitter parsing, and Qdrant vector search
 - [johnlindquist/claude-hooks](https://github.com/johnlindquist/claude-hooks) - 
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code UI (themes, thinking verbs, input box style, user message display, sign-in ASCII art), fix bugs (frozen spinner), and add features (CLAUDE_CODE_CONTEXT_LIMIT
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code system prompts, add custom themes, thinking verbs & spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add fea
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) - AKGR: Awesome Knowledge Graph Reasoning is a collection of knowledge graph reasoning works, including papers, codes and datasets
@@ -3334,7 +3353,7 @@
 - [ran-isenberg/aws-lambda-handler-cookbook](https://github.com/ran-isenberg/aws-lambda-handler-cookbook) - This repository provides a working, deployable, open source-based, serverless service blueprint with an AWS Lambda function and AWS CDK Python code with all the best practices and a complete CI/CD pip
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The multi-agent framework, runtime and UI built for speed.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Multi-agent framework, runtime and control plane. Built for speed, privacy, and scale.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
@@ -3410,7 +3429,7 @@
 - [seek-oss/braid-design-system](https://github.com/seek-oss/braid-design-system) - Themeable design system for the SEEK Group
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Add natural language control to your React app, with MCP and generative UX
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
-- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Build applications as fast as a zap.
+- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Zap Studio's monorepo.
 - [guasam/electron-react-app](https://github.com/guasam/electron-react-app) - Modern Electron application starter kit with React, Vite, TypeScript, ShadcnUI and TailwindCSS.
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
@@ -3971,6 +3990,7 @@
 
 ## typescript 
 
+- [NeaByteLab/Myers-Diff](https://github.com/NeaByteLab/Myers-Diff) - Implementation of the Myers diff algorithm with O(ND) complexity, multiple output formats, and benchmarking suite.
 - [callstack/ts-regex-builder](https://github.com/callstack/ts-regex-builder) - Maintainable regular expressions for TypeScript and JavaScript.
 - [tylersayshi/prototypey](https://github.com/tylersayshi/prototypey) - atproto lexicon typescript toolkit
 - [kitlangton/visual-effect](https://github.com/kitlangton/visual-effect) - Interactive Effect Visualizations
@@ -4296,7 +4316,7 @@
 
 ## windows 
 
-- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to Perplexity Comet, Arc, Dia
+- [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; privacy-first alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows

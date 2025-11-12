@@ -403,6 +403,7 @@
 - [yeoman/generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
 - [TooTallNate/ansi.js](https://github.com/TooTallNate/ansi.js) - Advanced ANSI formatting tool for Node.js
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
+- [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [rafaelfgx/Blockchain](https://github.com/rafaelfgx/Blockchain) - Blockchain, Wallet, Smart Contracts, Token, NFT, SBT, Solidity
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
@@ -692,6 +693,7 @@
 - [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
 - [haasonsaas/checkpoint](https://github.com/haasonsaas/checkpoint) - A digital ghost system for creating conversational AI approximations from written data. RAG-based preservation of communication style and thought patterns. Accompanies: https://www.haasonsaas.com/blog
 - [DannyMac180/ACE](https://github.com/DannyMac180/ACE) - Code for the Agentic Context Engineering (ACE) Paper
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [mshumer/interactive-sora](https://github.com/mshumer/interactive-sora) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 - [visa/trusted-agent-protocol](https://github.com/visa/trusted-agent-protocol) - Establishing a universal standard of trust between AI agents and merchants for the next phase of agentic commerce.
@@ -859,7 +861,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
@@ -1089,7 +1091,6 @@
 - [PaulJPhilp/effect-actor](https://github.com/PaulJPhilp/effect-actor) - 
 - [openai/codex-action](https://github.com/openai/codex-action) - 
 - [PaulJPhilp/effect-regex](https://github.com/PaulJPhilp/effect-regex) - 
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [callstack/ts-regex-builder](https://github.com/callstack/ts-regex-builder) - Maintainable regular expressions for TypeScript and JavaScript.
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [tylersayshi/prototypey](https://github.com/tylersayshi/prototypey) - atproto lexicon typescript toolkit
@@ -1124,7 +1125,7 @@
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
 - [mepuka/PureDialog](https://github.com/mepuka/PureDialog) - Domain-aware knowledge extraction from expert interviews
 - [mmlngl/steiger](https://github.com/mmlngl/steiger) - Scaffolding tool for modules with DDD + Effect.ts
-- [couchlabs/couch](https://github.com/couchlabs/couch) - Stablecoin recurring payments infrastructure
+- [couchlabs/couch](https://github.com/couchlabs/couch) - Stablecoin recurring payments infrastructure. Demo: https://couch-playground-staging-website.nb.workers.dev/checkout
 - [jethrolarson/noolang](https://github.com/jethrolarson/noolang) - 
 - [devx-op/effectify](https://github.com/devx-op/effectify) - 
 - [middle-ages/effect-ts-laws](https://github.com/middle-ages/effect-ts-laws) - effect-ts Law Testing
@@ -1213,7 +1214,7 @@
 - [mizunashi-mana/claude-code-hook-sdk](https://github.com/mizunashi-mana/claude-code-hook-sdk) - A TypeScript SDK to write claude-code hooks easily with type safety, dependency injection, and comprehensive testing support.
 - [pmndrs/uikit](https://github.com/pmndrs/uikit) - 🎨 user interfaces for react-three-fiber
 - [reliverse/rempts](https://github.com/reliverse/rempts) - 🐦‍🔥 @reliverse/rempts is a modern, type-safe toolkit for building delightful cli experiences. it's fast, flexible, and made for developer happiness. file-based commands keep things simple—no clutter, 
-- [BjornMelin/tripsage-ai](https://github.com/BjornMelin/tripsage-ai) - ✈️ AI-powered travel planning system with budget optimization, multi-source search, and personalized recommendations built on Supabase + PGVector, LangGraph Agents, Dragon DB, and NextJS 15, TailwindC
+- [BjornMelin/tripsage-ai](https://github.com/BjornMelin/tripsage-ai) - ✈️ AI-powered travel planning system with budget optimization, multi-source search, and personalized recommendations built on Vercel AI SDK v6, Supabase + PGVector, LangGraph Agents, Dragon DB, and Ne
 - [BjornMelin/stardex](https://github.com/BjornMelin/stardex) - 🌟 Stardex: Explore GitHub Stars Intelligently. Stardex is a powerful web app that lets you search, filter, and cluster any GitHub user's starred repositories. Discover hidden patterns and find your ne
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [BloopAI/debugger-mcp](https://github.com/BloopAI/debugger-mcp) - MCP server for interactive debugging
@@ -1262,7 +1263,7 @@
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [johnlindquist/claude-hooks](https://github.com/johnlindquist/claude-hooks) - 
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Command-line tool to customize Claude Code system prompts, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add featur
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add f
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) - A community-driven knowledge base of practical patterns for Effect-TS.
@@ -1357,7 +1358,7 @@
 - [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
 - [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Making the web better.
 - [Insik-Han/han-stack-archive](https://github.com/Insik-Han/han-stack-archive) - Modern Saas fullstack framework template using Tanstack Start, orpc
-- [anthropics/mcpb](https://github.com/anthropics/mcpb) - Desktop Extensions: One-click local MCP server installation in desktop apps
+- [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI Dataset Generator – Create realistic datasets for demos, learning, and dashboards
 - [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -1603,7 +1604,6 @@
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [haydenbleasel/orate](https://github.com/haydenbleasel/orate) - The AI toolkit for speech.
 - [echogarden-project/echogarden](https://github.com/echogarden-project/echogarden) - Cross-platform speech toolset, used from the command-line or as a Node.js library. Includes a variety of engines for speech synthesis, speech recognition, forced alignment, speech translation, voice i
-- [pmndrs/koota](https://github.com/pmndrs/koota) - 🌎 Performant real-time state management for React and TypeScript
 - [penxio/penx](https://github.com/penxio/penx) - AI Powered Personal Data Hub
 - [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [kevingorski/denodevs.com](https://github.com/kevingorski/denodevs.com) - Deno developer reverse job board

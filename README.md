@@ -77,7 +77,6 @@
 - [tree-sitter-grammars/tree-sitter-kdl](https://github.com/tree-sitter-grammars/tree-sitter-kdl) - KDL grammar for tree-sitter
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [tavianator/bfs](https://github.com/tavianator/bfs) - A breadth-first version of the UNIX find command
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
@@ -181,6 +180,7 @@
 - [fortio/fortio](https://github.com/fortio/fortio) - Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
 - [fortio/terminal](https://github.com/fortio/terminal) - 2 libraries + utilities: readline style command history and terminal drawing/images, fps calculator
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [brandonyoungdev/tldx](https://github.com/brandonyoungdev/tldx) - Domain Availability Research Tool
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -691,7 +691,6 @@
 - [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
 - [haasonsaas/checkpoint](https://github.com/haasonsaas/checkpoint) - A digital ghost system for creating conversational AI approximations from written data. RAG-based preservation of communication style and thought patterns. Accompanies: https://www.haasonsaas.com/blog
 - [DannyMac180/ACE](https://github.com/DannyMac180/ACE) - Code for the Agentic Context Engineering (ACE) Paper
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [mshumer/interactive-sora](https://github.com/mshumer/interactive-sora) - 
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
 - [visa/trusted-agent-protocol](https://github.com/visa/trusted-agent-protocol) - Establishing a universal standard of trust between AI agents and merchants for the next phase of agentic commerce.
@@ -705,7 +704,7 @@
 - [angrysky56/buddhist_logic_prototype](https://github.com/angrysky56/buddhist_logic_prototype) - 
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor
 - [TomAnthony/itermocil](https://github.com/TomAnthony/itermocil) - Create pre-defined window/pane layouts and run commands in iTerm
-- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Text-to-Speech
+- [superstarryeyes/lue](https://github.com/superstarryeyes/lue) - Terminal eBook Reader with Audiobook-quality Text-to-Speech Narration
 - [shobrook/rebound](https://github.com/shobrook/rebound) - Instant Stack Overflow results whenever an exception is thrown
 - [shobrook/wut](https://github.com/shobrook/wut) - A terminal assistant for the hopelessly confused
 - [shobrook/communities](https://github.com/shobrook/communities) - Library of graph clustering algorithms
@@ -1061,6 +1060,12 @@
 
 ## TypeScript 
 
+- [loderunner/typelit](https://github.com/loderunner/typelit) - A type-safe string templating library for TypeScript
+- [RageAgainstThePixel/unity-cli](https://github.com/RageAgainstThePixel/unity-cli) - A command line utility for the Unity Game Engine
+- [svjson/whimbrel](https://github.com/svjson/whimbrel) - Automation Engine & CLI
+- [nemmtor/ts-databuilders](https://github.com/nemmtor/ts-databuilders) - Generator for TypeScript DataBuilders
+- [thalysguimaraes/ghostty-layouts-raycast](https://github.com/thalysguimaraes/ghostty-layouts-raycast) - A Raycast extension that brings terminal layout management to Ghostty. Create, manage, and launch complex terminal layouts easily
+- [nivalis-studio/lazyvercel](https://github.com/nivalis-studio/lazyvercel) - A beautiful Terminal User Interface (TUI) for managing Vercel deployments, built with Bun and OpenTUI.
 - [jsrepojs/jsrepo](https://github.com/jsrepojs/jsrepo) - ♻️ The best way to reuse your code.
 - [SkipLabs/skip](https://github.com/SkipLabs/skip) - Skip is a framework for building reactive services
 - [jakub-k-slys/substack-api](https://github.com/jakub-k-slys/substack-api) - Substack API client is a modern TypeScript library provides a clean, entity-based interface to interact with Substack publications, posts, comments, and user profiles.
@@ -1090,6 +1095,7 @@
 - [PaulJPhilp/effect-actor](https://github.com/PaulJPhilp/effect-actor) - 
 - [openai/codex-action](https://github.com/openai/codex-action) - 
 - [PaulJPhilp/effect-regex](https://github.com/PaulJPhilp/effect-regex) - 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [callstack/ts-regex-builder](https://github.com/callstack/ts-regex-builder) - Maintainable regular expressions for TypeScript and JavaScript.
 - [supermemoryai/markdowner](https://github.com/supermemoryai/markdowner) - A fast tool to convert any website into LLM-ready markdown data. Built by https://supermemory.ai
 - [tylersayshi/prototypey](https://github.com/tylersayshi/prototypey) - atproto lexicon typescript toolkit

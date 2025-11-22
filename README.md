@@ -1341,6 +1341,7 @@
 - [seek-oss/braid-design-system](https://github.com/seek-oss/braid-design-system) - Themeable design system for the SEEK Group
 - [cardotrejos/effect-interactive-lab](https://github.com/cardotrejos/effect-interactive-lab) - 
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
+- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [PaulJPhilp/buddy](https://github.com/PaulJPhilp/buddy) - The refactored buddybuilder
 - [PaulJPhilp/EffectiveAgent](https://github.com/PaulJPhilp/EffectiveAgent) - 
 - [phuctm97/modelfetch](https://github.com/phuctm97/modelfetch) - Runtime-agnostic TypeScript/JavaScript SDK for MCP Servers

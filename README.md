@@ -686,7 +686,6 @@
 
 - [jwalsh/neuro-graph-dynamics](https://github.com/jwalsh/neuro-graph-dynamics) - A web-based neurosymbolic knowledge graph system for visualizing and analyzing philosophical concepts and their relationships with AI-powered enrichment
 - [timvieira/justified-variables](https://github.com/timvieira/justified-variables) - Words of the same length with related meanings.
-- [antoniorodr/cronboard](https://github.com/antoniorodr/cronboard) - A terminal-based dashboard for managing cron jobs locally and on servers.
 - [modelstar-labs/querystar](https://github.com/modelstar-labs/querystar) - Build event-trigger based automation across your SaaS tools
 - [JirkaKlimes/jit-implementation](https://github.com/JirkaKlimes/jit-implementation) - 🚀 JIT Implementation: Code That Writes Itself
 - [hxu296/tariff](https://github.com/hxu296/tariff) - The official repository for tariff
@@ -1067,6 +1066,7 @@
 
 ## TypeScript 
 
+- [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep) - Open Source Semantic Search for your AI Agent
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [AstroDevCompany/astropalette](https://github.com/AstroDevCompany/astropalette) - A minimal app, packed with a color picker (on-screen and wheel), color/palette extraction from images and random palette generation.
@@ -1080,7 +1080,6 @@
 - [lucasvtiradentes/chrome-cmd](https://github.com/lucasvtiradentes/chrome-cmd) - 🌐 interact your Chrome browser from the command line
 - [loderunner/typelit](https://github.com/loderunner/typelit) - A type-safe string templating library for TypeScript
 - [RageAgainstThePixel/unity-cli](https://github.com/RageAgainstThePixel/unity-cli) - A command line utility for the Unity Game Engine
-- [svjson/whimbrel](https://github.com/svjson/whimbrel) - Automation Engine & CLI
 - [nemmtor/ts-databuilders](https://github.com/nemmtor/ts-databuilders) - Generator for TypeScript DataBuilders
 - [thalysguimaraes/ghostty-layouts-raycast](https://github.com/thalysguimaraes/ghostty-layouts-raycast) - A Raycast extension that brings terminal layout management to Ghostty. Create, manage, and launch complex terminal layouts easily
 - [nivalis-studio/lazyvercel](https://github.com/nivalis-studio/lazyvercel) - A beautiful Terminal User Interface (TUI) for managing Vercel deployments, built with Bun and OpenTUI.
@@ -1099,7 +1098,6 @@
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
-- [kitlangton/opentui](https://github.com/kitlangton/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [kriegcloud/beep-effect](https://github.com/kriegcloud/beep-effect) - 
 - [mbilokonsky/rhizomedb](https://github.com/mbilokonsky/rhizomedb) - Once more with feeling: a rhizomatic database using immutable delta-crdts as hyperedges in a deleuzean hypergraph that treats state as a side-effect assembled at query-time.
 - [shigma/cosmokit](https://github.com/shigma/cosmokit) - A collection of common utilities
@@ -1219,7 +1217,7 @@
 - [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
 - [BetrixDev/standard-rule-engine](https://github.com/BetrixDev/standard-rule-engine) - A type-safe rule engine using the Standard Schema for fact validation
 - [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples, fancy and practical diagrams and unit tests ✅
-- [remvze/lowfi](https://github.com/remvze/lowfi) - 🎵 • Play Lofi music through your terminal.
+- [remvze-org/lowfi](https://github.com/remvze-org/lowfi) - 
 - [ChrisRoyse/CodeGraph](https://github.com/ChrisRoyse/CodeGraph) - 
 - [gannonh/memento-mcp](https://github.com/gannonh/memento-mcp) - Memento MCP: A Knowledge Graph Memory System for LLMs
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts) - A Beautiful & Animated Chart UI Website built on top of shadcn & recharts.

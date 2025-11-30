@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Command-line launcher
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer + ANSI font library with gradient colors, shadows, and multi-format export
 - [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer)
 - [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying
@@ -1066,6 +1067,16 @@
 
 ## TypeScript 
 
+- [samuelho-dev/monorepo-library-generator](https://github.com/samuelho-dev/monorepo-library-generator) - Generate well architected monorepo libraries based on Effect and Nx monorepos. Based on design architectures like Repository, Infrastructure Domain Driven Design, Contract, Adapter, and Feature librar
+- [wHoooHw/easyHousing](https://github.com/wHoooHw/easyHousing) - 
+- [front-depiction/Effect-FuzzyCache](https://github.com/front-depiction/Effect-FuzzyCache) - Bucket-based fuzzy cache extending Effect's Cache
+- [front-depiction/Effect-CRDTs](https://github.com/front-depiction/Effect-CRDTs) - 
+- [front-depiction/claude-setup](https://github.com/front-depiction/claude-setup) - Reusable Claude Code configuration for Effect TypeScript projects with specialized agents and skills
+- [dmmulroy/effect-cloudflare](https://github.com/dmmulroy/effect-cloudflare) - 
+- [brandonbryant12/effect-template](https://github.com/brandonbryant12/effect-template) - 
+- [effect-native/effect-native](https://github.com/effect-native/effect-native) - 
+- [kitlangton/effect-solutions](https://github.com/kitlangton/effect-solutions) - A guide to writing idiomatic Effect code.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [Ryandonofrio3/osgrep](https://github.com/Ryandonofrio3/osgrep) - Open Source Semantic Search for your AI Agent
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search

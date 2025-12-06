@@ -957,10 +957,10 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [mitsuhiko/listenfd](https://github.com/mitsuhiko/listenfd) - Helper crate to work with systemd/catflap socket activation
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
-- [honeycombio/gritql](https://github.com/honeycombio/gritql) - GritQL is a query language for searching, linting, and modifying code.
+- [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenA
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & orchestration, guardrails, zero-code logs and traces, unified access to L
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [memextech/ht-mcp](https://github.com/memextech/ht-mcp) - Pure Rust implementation of MCP server for headless terminal
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -1067,6 +1067,7 @@
 
 ## TypeScript 
 
+- [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
 - [PaulJPhilp/effect-cli-tui](https://github.com/PaulJPhilp/effect-cli-tui) - 
 - [samuelho-dev/monorepo-library-generator](https://github.com/samuelho-dev/monorepo-library-generator) - Generate well architected monorepo libraries based on Effect and Nx monorepos. Based on design architectures like Repository, Infrastructure Domain Driven Design, Contract, Adapter, and Feature librar
 - [wHoooHw/easyHousing](https://github.com/wHoooHw/easyHousing) - 
@@ -1100,7 +1101,7 @@
 - [jakub-k-slys/substack-api](https://github.com/jakub-k-slys/substack-api) - Substack API client is a modern TypeScript library provides a clean, entity-based interface to interact with Substack publications, posts, comments, and user profiles.
 - [Kakulukian/youtube-transcript](https://github.com/Kakulukian/youtube-transcript) - Fetch transcript from a youtube video
 - [stacksjs/stacks](https://github.com/stacksjs/stacks) - Modern full-stack framework. Develop powerful apps, clouds & framework-agnostic libraries—faster.
-- [stacksjs/pickier](https://github.com/stacksjs/pickier) - Performant Linter & Formatter.
+- [pickier/pickier](https://github.com/pickier/pickier) - Performant Linter & Formatter.
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
 - [transitive-bullshit/kindle-ai-export](https://github.com/transitive-bullshit/kindle-ai-export) - Export any Kindle book you own as text, PDF, EPUB, or as a custom, AI-narrated audiobook. 🔥
 - [inokawa/rich-textarea](https://github.com/inokawa/rich-textarea) - A small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.
@@ -1408,7 +1409,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [phughesmcr/deno-mcp-template](https://github.com/phughesmcr/deno-mcp-template) - A template repo for writing and publishing local, remote, DXT, and binary MCP servers using Deno.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [Gsync/jobsync](https://github.com/Gsync/jobsync) - JobSync is a job search tracker and job seekers' assistant to manage job search efficiently, its self hosted and open source, built with nextjs, react and shadcn

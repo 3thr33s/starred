@@ -307,7 +307,7 @@
 
 - [nikkorn/mistreevous](https://github.com/nikkorn/mistreevous) - A tool to build and execute behaviour trees in JavaScript and TypeScript
 - [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind) - AI for Screeps, a multiplayer programming strategy game
-- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Easily build AI systems with Evals, RAG, Agents, fine-tuning, synthetic data, and more.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [NeaByteLab/Ollama-Native](https://github.com/NeaByteLab/Ollama-Native) - TypeScript client library for Ollama API with retry logic, timeout management, error handling, and validation.
@@ -530,7 +530,7 @@
 - [jakub-k-slys/substack-api](https://github.com/jakub-k-slys/substack-api) - Substack API client is a modern TypeScript library provides a clean, entity-based interface to interact with Substack publications, posts, comments, and user profiles.
 - [NeaByteLab/Ollama-Native](https://github.com/NeaByteLab/Ollama-Native) - TypeScript client library for Ollama API with retry logic, timeout management, error handling, and validation.
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [sgcarstrends/sgcarstrends](https://github.com/sgcarstrends/sgcarstrends) - Monorepo for SG Cars Trends backend services
@@ -605,7 +605,7 @@
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [gkze/gh-stars](https://github.com/gkze/gh-stars) - :star: Keep your Github Stars fresh!
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -631,7 +631,7 @@
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [heathersherry/Knowledge-Graph-Tutorials-and-Papers](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers) - Insightful Tutorials and Papers about Knowledge Graphs
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
 - [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) - An awesome curated knowledge-base about atomic systems
 - [freznicek/awesome-awk](https://github.com/freznicek/awesome-awk) - A curated list of awesome AWK frameworks, libraries, software and resources
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
@@ -696,7 +696,7 @@
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [heathersherry/Knowledge-Graph-Tutorials-and-Papers](https://github.com/heathersherry/Knowledge-Graph-Tutorials-and-Papers) - Insightful Tutorials and Papers about Knowledge Graphs
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - [FOR USERS HAVING PERFORMANCE ISSUES: USE README_BACKUP INSTEAD] A curated list of awesome commands, files, and workflows for Claude Code
 - [Malix-Labs/Awesome-Atomic](https://github.com/Malix-Labs/Awesome-Atomic) - An awesome curated knowledge-base about atomic systems
 - [freznicek/awesome-awk](https://github.com/freznicek/awesome-awk) - A curated list of awesome AWK frameworks, libraries, software and resources
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
@@ -1027,7 +1027,7 @@
 ## coding 
 
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
-- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
 - [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow: Codebase to Tutorial
 - [cyberchitta/llm-context.py](https://github.com/cyberchitta/llm-context.py) - Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Includes smart code outlinin
@@ -1600,7 +1600,7 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
-- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - agent routing and orchestration, guardrails, zero-code logs and traces, a
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and trac
 - [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
 - [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) - Framework to build resilient language agents as graphs.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -1779,7 +1779,7 @@
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [MrKai77/DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) - Seamlessly adapt your macOS app to the notch era.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -2554,7 +2554,7 @@
 ## no-code 
 
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
 - [Liberty-liu/Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - :guide_dog: Powerful lowcode|vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many
@@ -2726,7 +2726,7 @@
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [athina-ai/rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
 - [G4brym/workers-research](https://github.com/G4brym/workers-research) - A serverless, AI-powered deep research agent built with Cloudflare Workers and Google Gemini 2.5
-- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - agent routing and orchestration, guardrails, zero-code logs and traces, a
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and trac
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -2876,12 +2876,11 @@
 - [fortanix/openapi-to-effect](https://github.com/fortanix/openapi-to-effect) - Generate @effect/schema definitions from an OpenAPI document
 - [nataliai-picasso/effect-validation](https://github.com/nataliai-picasso/effect-validation) - playground for effect library usage
 - [lumetrium/espanso-dynamic-forms](https://github.com/lumetrium/espanso-dynamic-forms) - Combine the power of Espanso's text expansion with the flexibility of JSON Forms
-- [leonitousconforti/effect-schemas](https://github.com/leonitousconforti/effect-schemas) - Effect schemas used in multiple of my other projects
 - [goldbergyoni/golden-testing-rules-for-ai](https://github.com/goldbergyoni/golden-testing-rules-for-ai) - Instructions for LLMs on how to produce great tests with best practices inside
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [egonSchiele/tarsec](https://github.com/egonSchiele/tarsec) - A parser combinator library in TypeScript
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
-- [couchlabs/couch](https://github.com/couchlabs/couch) - Stablecoin recurring payments infrastructure.
+- [couchlabs/couch](https://github.com/couchlabs/couch) - Stablecoin recurring payments made easy.
 - [jethrolarson/noolang](https://github.com/jethrolarson/noolang) - 
 - [devx-op/effectify](https://github.com/devx-op/effectify) - 
 - [middle-ages/effect-ts-laws](https://github.com/middle-ages/effect-ts-laws) - effect-ts Law Testing
@@ -3667,7 +3666,7 @@
 - [AstroDevCompany/astropalette](https://github.com/AstroDevCompany/astropalette) - A minimal app, packed with a color picker (on-screen and wheel), color/palette extraction from images and random palette generation.
 - [AstroDevCompany/astro-notes](https://github.com/AstroDevCompany/astro-notes) - An extremely simple temporary-focused desktop note-taking app.
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
-- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Grab any element on in your app and give it to Cursor, Claude Code, etc
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 - [inokawa/rich-textarea](https://github.com/inokawa/rich-textarea) - A small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
@@ -3971,7 +3970,7 @@
 - [rush-db/rushdb](https://github.com/rush-db/rushdb) - RushDB is an Instant Database for Modern Apps & AI. Built on top of Neo4j.
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines, APIs & spreadsheets in minutes
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn any website into clean data pipelines & structured APIs in minutes!
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -4293,6 +4292,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [leonitousconforti/the-wireguard-effect](https://github.com/leonitousconforti/the-wireguard-effect) - Cross platform wireguard api client for nodejs built on wireguard-go with effect-ts
 - [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - A lightweight TypeScript library for file-based JSON database operations with querying capabilities, CRUD operations, and zero dependencies.
+- [leonitousconforti/effect-schemas](https://github.com/leonitousconforti/effect-schemas) - Effect schemas used in multiple of my other projects
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [ecyrbe/typeskell](https://github.com/ecyrbe/typeskell) - Functional programming in Typescript

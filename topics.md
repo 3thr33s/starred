@@ -144,6 +144,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mobile](#mobile)
@@ -2405,6 +2406,13 @@
 
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
 
+## microservices 
+
+- [shortlink-org/shortlink](https://github.com/shortlink-org/shortlink) - Shortlink service (Microservice example) ⭐️ Star the repo if you like it!
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
+- [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
+
 ## microsoft 
 
 - [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
@@ -2788,6 +2796,8 @@
 
 ## others 
 
+- [supermemoryai/code-chunk](https://github.com/supermemoryai/code-chunk) - 
+- [bluwy/npm-userscript](https://github.com/bluwy/npm-userscript) - Various improvements and fixes for npmjs.com
 - [PaulJPhilp/McLuhan](https://github.com/PaulJPhilp/McLuhan) - 
 - [mustafa0x/vite-plugin-domain](https://github.com/mustafa0x/vite-plugin-domain) - 
 - [PaulJPhilp/effect-cli-tui](https://github.com/PaulJPhilp/effect-cli-tui) - 

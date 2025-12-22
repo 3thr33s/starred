@@ -327,7 +327,6 @@
 - [krasimir/forket](https://github.com/krasimir/forket) - Forket is a tool that splits your code to client and server so you have RSC (React Server Components) working without a framework.
 - [masala/masala-parser](https://github.com/masala/masala-parser) - Javascript Generalized Parser Combinators
 - [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
-- [elder-plinius/LEAKHUB](https://github.com/elder-plinius/LEAKHUB) - System Prompt Leak Leaderboard
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
@@ -525,10 +524,10 @@
 ## Objective-C 
 
 - [prasmussen/chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
-- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 
 ## Others 
 
+- [vladzima/vesper-theme](https://github.com/vladzima/vesper-theme) - Vesper (peppermint & orange) theme for IDEs and terminals
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [Cryakl/Ransomware-Database](https://github.com/Cryakl/Ransomware-Database) - For educational purposes only, samples of ransomware/wiper trojans including screenshots/ransom-notes.
 - [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
@@ -680,6 +679,8 @@
 
 ## Python 
 
+- [manutej/categorical-meta-prompting](https://github.com/manutej/categorical-meta-prompting) - Categorical foundations for AI meta-prompting with proven correctness and measurable quality improvements (100% on Game of 24)
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [jwalsh/neuro-graph-dynamics](https://github.com/jwalsh/neuro-graph-dynamics) - A web-based neurosymbolic knowledge graph system for visualizing and analyzing philosophical concepts and their relationships with AI-powered enrichment
 - [timvieira/justified-variables](https://github.com/timvieira/justified-variables) - Words of the same length with related meanings.
 - [modelstar-labs/querystar](https://github.com/modelstar-labs/querystar) - Build event-trigger based automation across your SaaS tools
@@ -906,6 +907,7 @@
 
 ## Rust 
 
+- [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [ll-nick/leadr](https://github.com/ll-nick/leadr) - Shell aliases on steroids
 - [SamuelSchlesinger/tshts](https://github.com/SamuelSchlesinger/tshts) - A fast, lightweight terminal-based spreadsheet application built in Rust with full formula support, cell references, and keyboard-driven navigation - perfect for command-line workflows.
 - [GermanHeim/globalsearch-rs](https://github.com/GermanHeim/globalsearch-rs) - A multistart framework for global optimization with scatter search and local NLP solvers written in Rust
@@ -1049,6 +1051,7 @@
 
 ## Swift 
 
+- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [MrKai77/DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) - Seamlessly adapt your macOS app to the notch era.
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
@@ -1069,6 +1072,12 @@
 
 ## TypeScript 
 
+- [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
+- [joaoeira/mnemonist](https://github.com/joaoeira/mnemonist) - 
+- [nick-vi/opencode-type-inject](https://github.com/nick-vi/opencode-type-inject) - OpenCode plugin that auto-injects TypeScript types into file reads and provides type lookup tools
+- [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — S
+- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [supermemoryai/code-chunk](https://github.com/supermemoryai/code-chunk) - 
 - [bluwy/npm-userscript](https://github.com/bluwy/npm-userscript) - Various improvements and fixes for npmjs.com
 - [PaulJPhilp/McLuhan](https://github.com/PaulJPhilp/McLuhan) - 
@@ -1235,6 +1244,7 @@
 - [deluksic/apollonian-circles](https://github.com/deluksic/apollonian-circles) - 
 - [electric-sql/d2ts](https://github.com/electric-sql/d2ts) - Differential Dataflow in TypeScript
 - [Meykiio/sifeddine-os](https://github.com/Meykiio/sifeddine-os) - A futuristic terminal interface with glassmorphism design, featuring interactive commands and AI chat integration.
+- [elder-plinius/LEAKHUB](https://github.com/elder-plinius/LEAKHUB) - System Prompt Leak Leaderboard
 - [akmjenkins/json-schema-rules-engine](https://github.com/akmjenkins/json-schema-rules-engine) - A highly configurable and dynamic rules engine based on JSON Schema
 - [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
 - [BetrixDev/standard-rule-engine](https://github.com/BetrixDev/standard-rule-engine) - A type-safe rule engine using the Standard Schema for fact validation

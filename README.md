@@ -374,7 +374,6 @@
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [prakhar1989/react-surveyman](https://github.com/prakhar1989/react-surveyman) - SurveyMan in React
-- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [AdeleD/react-paginate](https://github.com/AdeleD/react-paginate) - A ReactJS component that creates a pagination
 - [arifszn/reactive-button](https://github.com/arifszn/reactive-button) - 3D animated react button component with progress bar.
 - [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition supp
@@ -810,6 +809,7 @@
 - [gnebbia/kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [langchain-ai/langgraph-codeact](https://github.com/langchain-ai/langgraph-codeact) - 
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [koaning/smartfunc](https://github.com/koaning/smartfunc) - Turn docstrings into LLM-functions
@@ -963,7 +963,7 @@
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
-- [katanemo/archgw](https://github.com/katanemo/archgw) - Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and trac
+- [katanemo/archgw](https://github.com/katanemo/archgw) - Ship agents faster. Arch is delivery infrastructure for agentic apps — a models-native proxy server & dataplane that offloads the plumbing work, so you stay focused on product logic.
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [memextech/ht-mcp](https://github.com/memextech/ht-mcp) - Pure Rust implementation of MCP server for headless terminal
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -1549,7 +1549,6 @@
 - [pigoz/effect-crashcourse](https://github.com/pigoz/effect-crashcourse) - The practical guide I wish existed while learning @effect-ts
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [Effect-TS/language-service](https://github.com/Effect-TS/language-service) - Effect Language Service Plugin (LSP)
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [IMax153/expressive-ts](https://github.com/IMax153/expressive-ts) - A functional programming library designed to simplify building complex regular expressions
 - [Effect-TS/docgen](https://github.com/Effect-TS/docgen) - An opinionated documentation generator for Effect projects
 - [gcanti/docs-ts](https://github.com/gcanti/docs-ts) - A zero-config documentation tool for my TypeScript projects
@@ -1600,6 +1599,7 @@
 - [htmujahid/shadcn-editor](https://github.com/htmujahid/shadcn-editor) - Lexical base rich text editor using shadcn/ui components
 - [repetere/jsonx](https://github.com/repetere/jsonx) - JSONX - Create React Elements, JSX and HTML from JSON
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
+- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [andreizanik/react-mouse-select](https://github.com/andreizanik/react-mouse-select) - A simple react library for selecting elements by moving the mouse
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.

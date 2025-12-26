@@ -249,6 +249,7 @@
 
 ## HTML 
 
+- [artimath/agientic](https://github.com/artimath/agientic) - physics
 - [finos/legend](https://github.com/finos/legend) - The Legend project
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
@@ -290,6 +291,7 @@
 
 ## JavaScript 
 
+- [angrysky56/advanced-reasoning-mcp](https://github.com/angrysky56/advanced-reasoning-mcp) - Allows AI to perform advanced reasoning, store the reasoning automatically, and can create system prompts or domain knowledge as libraries.
 - [lokus-ai/lokus](https://github.com/lokus-ai/lokus) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
 - [cierelabs/json-complete](https://github.com/cierelabs/json-complete) - A JSON alternative that retains references, handles circular dependencies, and encodes almost every data type available to standard JavaScript.
 - [riot/riot](https://github.com/riot/riot) - Simple and elegant component-based UI library
@@ -526,6 +528,7 @@
 
 ## Others 
 
+- [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [vladzima/vesper-theme](https://github.com/vladzima/vesper-theme) - Vesper (peppermint & orange) theme for IDEs and terminals
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [Cryakl/Ransomware-Database](https://github.com/Cryakl/Ransomware-Database) - For educational purposes only, samples of ransomware/wiper trojans including screenshots/ransom-notes.
@@ -678,6 +681,11 @@
 
 ## Python 
 
+- [Hmbown/aleph](https://github.com/Hmbown/aleph) - MCP server for recursive LLM reasoning. Load context, iterate with search/code/think tools, converge on answers.
+- [Hmbown/peircean-abduction](https://github.com/Hmbown/peircean-abduction) - Logic architecture for abductive inference. Forces LLMs to make uncertainty visible through explicit hypothesis generation and Inference to Best Explanation.
+- [Hmbown/Toulmini](https://github.com/Hmbown/Toulmini) - Logic architecture inspired by Toulmin. Forces LLMs into structured, sequential reasoning through Toulmin's argumentation model.
+- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
+- [Hmbown/Hegelion](https://github.com/Hmbown/Hegelion) - Dialectical reasoning architecture for LLMs (Thesis → Antithesis → Synthesis)
 - [keugenek/multiverse](https://github.com/keugenek/multiverse) - 
 - [manutej/categorical-meta-prompting](https://github.com/manutej/categorical-meta-prompting) - Categorical foundations for AI meta-prompting with proven correctness and measurable quality improvements (100% on Game of 24)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
@@ -1051,6 +1059,7 @@
 
 ## Swift 
 
+- [cmsj/Hammerspoon2](https://github.com/cmsj/Hammerspoon2) - 
 - [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [MrKai77/DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) - Seamlessly adapt your macOS app to the notch era.
@@ -1072,6 +1081,11 @@
 
 ## TypeScript 
 
+- [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform
+- [conductor-oss/javascript-sdk](https://github.com/conductor-oss/javascript-sdk) - Conductor OSS SDK for JavaScript/TypeScript
+- [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
+- [legacy3/wowlab](https://github.com/legacy3/wowlab) - 
+- [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
 - [tanainc/tana-input-api-samples](https://github.com/tanainc/tana-input-api-samples) - Sample code for Tana Input API
 - [tanainc/tana-import-tools](https://github.com/tanainc/tana-import-tools) - A set of tools to get various data formats into Tana
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
@@ -1177,6 +1191,7 @@
 - [leonitousconforti/effect-schemas](https://github.com/leonitousconforti/effect-schemas) - Effect schemas used in multiple of my other projects
 - [egonSchiele/tarsec](https://github.com/egonSchiele/tarsec) - A parser combinator library in TypeScript
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
+- [mepuka/PureDialog](https://github.com/mepuka/PureDialog) - Domain-aware knowledge extraction from expert interviews
 - [mmlngl/steiger](https://github.com/mmlngl/steiger) - Scaffolding tool for modules with DDD + Effect.ts
 - [couchlabs/couch](https://github.com/couchlabs/couch) - Stablecoin recurring payments made easy.
 - [jethrolarson/noolang](https://github.com/jethrolarson/noolang) - 
@@ -1192,6 +1207,7 @@
 - [harrysolovay/effect-metaschema-video](https://github.com/harrysolovay/effect-metaschema-video) - 
 - [ecyrbe/typeskell](https://github.com/ecyrbe/typeskell) - Functional programming in Typescript
 - [mikavilpas/tui-sandbox](https://github.com/mikavilpas/tui-sandbox) - 🧪 A terminal test environment and development playground 🛝
+- [mepuka/effect-nlp](https://github.com/mepuka/effect-nlp) - 
 - [jambudipa/dynamic-flow](https://github.com/jambudipa/dynamic-flow) - Generate complete LLM execution graphs at runtime
 - [dahlia/optique](https://github.com/dahlia/optique) - Type-safe combinatorial CLI parser for TypeScript
 - [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain)
@@ -1251,6 +1267,7 @@
 - [akmjenkins/json-schema-rules-engine](https://github.com/akmjenkins/json-schema-rules-engine) - A highly configurable and dynamic rules engine based on JSON Schema
 - [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
 - [BetrixDev/standard-rule-engine](https://github.com/BetrixDev/standard-rule-engine) - A type-safe rule engine using the Standard Schema for fact validation
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples, fancy and practical diagrams and unit tests ✅
 - [remvze/lowfi](https://github.com/remvze/lowfi) - 🎻 Play lofi music through your terminal.
 - [ChrisRoyse/CodeGraph](https://github.com/ChrisRoyse/CodeGraph) - 
@@ -1470,7 +1487,7 @@
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
 - [haydenbleasel/alchemy](https://github.com/haydenbleasel/alchemy) - A visual journey of The Alchemist, powered by OpenAI and Midjourney.
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript code generator. Generate API clients, SDKs, validators, and more.
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [solst-ice/chirp](https://github.com/solst-ice/chirp) - Send data with sound
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
@@ -1714,7 +1731,7 @@
 - [mjrlowe/terminal_images](https://github.com/mjrlowe/terminal_images) - A Deno module and CLI tool for printing images to the console. 🖼️
 - [lolopinto/ent](https://github.com/lolopinto/ent) - 
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
@@ -1787,7 +1804,6 @@
 
 ## Vue 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [disler/agentic-coding-tool-eval](https://github.com/disler/agentic-coding-tool-eval) - Simple ideas to compare Agentic Coding Tools
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify

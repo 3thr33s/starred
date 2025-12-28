@@ -1030,6 +1030,7 @@
 
 ## Shell 
 
+- [samuelho-dev/dev-config](https://github.com/samuelho-dev/dev-config) - My personal dev configs with dot files, nix s3 caching and modules, terminal config, biome linting, and gritql enforcement.
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
@@ -1081,9 +1082,17 @@
 
 ## TypeScript 
 
+- [joelhooks/opencode-config](https://github.com/joelhooks/opencode-config) - Personal OpenCode configuration - commands, tools, agents, knowledge
+- [schickling/dilagent](https://github.com/schickling/dilagent) - "Deep research for bugs" – Agentic root cause analysis through hypothesis-driven debugging
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
+- [mepuka/effect-ontology](https://github.com/mepuka/effect-ontology) - 
+- [lucas-barake/effect-form](https://github.com/lucas-barake/effect-form) - Type-safe forms with Effect Schema and React
+- [DanielFGray/effect-devtui](https://github.com/DanielFGray/effect-devtui) - A TUI to view traces, spans, metrics, and inspect your Effect applications
+- [Makisuo/effect-rpc-tanstack-devtools](https://github.com/Makisuo/effect-rpc-tanstack-devtools) - 
+- [lucas-barake/effect-tanstack-start](https://github.com/lucas-barake/effect-tanstack-start) - 
+- [jcfischer/gutenberg-tana](https://github.com/jcfischer/gutenberg-tana) - Import Project Gutenberg books and EPUB files into Tana using Tana Paste format
 - [jcfischer/supertag-cli](https://github.com/jcfischer/supertag-cli) - CLI for Tana integration - query, create, sync, and manage Tana workspaces with semantic search and MCP Server
 - [alchemy-run/alchemy-effect](https://github.com/alchemy-run/alchemy-effect) - Infrastructure-as-Effects
-- [samuelho-dev/dev-config](https://github.com/samuelho-dev/dev-config) - My personal dev configs with dot files, nix s3 caching and modules, terminal config, biome linting, and gritql enforcement.
 - [tractordev/apptron](https://github.com/tractordev/apptron) - Local-first development platform
 - [conductor-oss/javascript-sdk](https://github.com/conductor-oss/javascript-sdk) - Conductor OSS SDK for JavaScript/TypeScript
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
@@ -1156,7 +1165,7 @@
 - [seanwessmith/bun-mcp](https://github.com/seanwessmith/bun-mcp) - 
 - [obra/episodic-memory](https://github.com/obra/episodic-memory) - 
 - [SamuelZ12/longcut](https://github.com/SamuelZ12/longcut) - The best way to learn from long videos
-- [remorses/termcast](https://github.com/remorses/termcast) - Run Racyast extensions in the terminal. Powered by opentui
+- [remorses/termcast](https://github.com/remorses/termcast) - Run Raycast extensions in the terminal. Powered by opentui
 - [remorses/opentui-treegraph](https://github.com/remorses/opentui-treegraph) - Example tree graph in opentui
 - [NeaByteLab/Myers-Diff](https://github.com/NeaByteLab/Myers-Diff) - Implementation of the Myers diff algorithm with O(ND) complexity, multiple output formats, and benchmarking suite.
 - [PaulJPhilp/effect-actor](https://github.com/PaulJPhilp/effect-actor) - 

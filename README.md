@@ -86,6 +86,7 @@
 
 ## C# # 
 
+- [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 - [bencoveney/Items](https://github.com/bencoveney/Items) - Library for use in the construction and utilization of domain specific models
 - [inkle/ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
 - [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET, Angular, Clean Architecture, Clean Code, SOLID Principles, KISS Principle, DRY Principle, Fail Fast Principle, Common Closure Principle, Common Reuse Principle, Acyclic Dependencies Principle, M
@@ -341,7 +342,6 @@
 - [chrisisler/wavematch](https://github.com/chrisisler/wavematch) - 🌊  A pattern matching mechanism for JavaScript.
 - [MikeyBeez/mcp-test-editing](https://github.com/MikeyBeez/mcp-test-editing) - Safe AI-Assisted Code Editing Protocol - A proven method for precise code modifications
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
-- [gornskew/lisply-mcp](https://github.com/gornskew/lisply-mcp) - Model Context Protocol (MCP) server to manage and talk to compliant "Lisply" lisp-speaking backend services
 - [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_c
 - [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [aquarius-wing/actor-critic-thinking-mcp](https://github.com/aquarius-wing/actor-critic-thinking-mcp) - A dual-perspective thinking analysis server based on Model Context Protocol (MCP), providing comprehensive performance evaluation through Actor-Critic methodology.
@@ -764,6 +764,7 @@
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - LLM abstractions that aren't obstructions
 - [namin/holey](https://github.com/namin/holey) - Python library for program synthesis and symbolic execution combining constraint solving and LLMs
+- [gornskew/lisply-mcp](https://github.com/gornskew/lisply-mcp) - Model Context Protocol (MCP) server to manage and talk to compliant "Lisply" lisp-speaking backend services
 - [daviddebot/CMR](https://github.com/daviddebot/CMR) - Code for Interpretable Concept-Based Memory Reasoning (NeurIPS 2024)
 - [geru-scotland/echoes-of-gaia](https://github.com/geru-scotland/echoes-of-gaia) - An intelligent, multi-agent framework for artificial biome simulation.
 - [ExtensityAI/ontology-hydra](https://github.com/ExtensityAI/ontology-hydra) - An advanced tool for generating, visualizing, and evaluating domain-specific knowledge graphs and ontologies.
@@ -856,7 +857,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
@@ -1036,7 +1037,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a CLI application that blends beauty of ASCII / text art with functionality of clock / timer / pattern-based time manager in terminal ⏰
 - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [milanglacier/Helix-Zellij-AI-REPL-Workflow](https://github.com/milanglacier/Helix-Zellij-AI-REPL-Workflow) - workflow integration for Helix, Zellij, AI Code Completion, AI CLIs, and REPLs built around two minimal shell scripts with nearly zero dependencies.
+- [milanglacier/Helix-Zellij-or-Tmux-AI-REPL-Workflow](https://github.com/milanglacier/Helix-Zellij-or-Tmux-AI-REPL-Workflow) - workflow integration for Helix, Zellij/Tmux, AI Code Completion, AI CLIs, and REPLs built around two minimal shell scripts with nearly zero dependencies.
 - [attogram/ollama-multirun](https://github.com/attogram/ollama-multirun) - Run a prompt against all, or some, of your models running on Ollama. Creates web pages with the output, performance statistics and model info.  All in a single Bash shell script.
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
@@ -1084,6 +1085,10 @@
 
 ## TypeScript 
 
+- [jamwt/convex-fs](https://github.com/jamwt/convex-fs) - High-performance, durable file management component for Convex apps built on Bunny.net
+- [AnmolSaini16/mapcn](https://github.com/AnmolSaini16/mapcn) - Beautiful map components. 100% Free, Zero config, one command setup.
+- [TeamWarp/effect-api-example](https://github.com/TeamWarp/effect-api-example) - 
+- [SyahrulBhudiF/MQTT-Position-Tracking](https://github.com/SyahrulBhudiF/MQTT-Position-Tracking) - A high-performance backend system for real-time GPS tracking of race participants. Built with NestJS, Effect, MQTT, WebSocket, Redis, PostgreSQL, and Drizzle ORM.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
@@ -1364,8 +1369,8 @@
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
 - [justinlietz93/Apex-CodeGenesis](https://github.com/justinlietz93/Apex-CodeGenesis) - Apex: An advanced autonomous coding agent for VS Code featuring total autonomy modes, recursive chain-of-thought reasoning, council-of-critics self-critique, persistent memory, dynamic personas, and e
 - [jalpp/recursearch](https://github.com/jalpp/recursearch) - A MAS that searches the web recursively to generate comprehensive research reports with or without citations.
-- [sst/opencode-sdk-js](https://github.com/sst/opencode-sdk-js) - 
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js) - 
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [smikhalevski/doubter](https://github.com/smikhalevski/doubter) - 🤔 Runtime validation and transformation library.
 - [saiashirwad/parserator](https://github.com/saiashirwad/parserator) - An elegant parser combinators library for Typescript (WIP!)
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
@@ -1405,7 +1410,7 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [epicweb-dev/aster](https://github.com/epicweb-dev/aster) - 
@@ -1466,7 +1471,7 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [phughesmcr/deno-mcp-template](https://github.com/phughesmcr/deno-mcp-template) - A template repo for writing and publishing local, remote, DXT, and binary MCP servers using Deno.
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [Gsync/jobsync](https://github.com/Gsync/jobsync) - JobSync is a job search tracker and job seekers' assistant to manage job search efficiently, its self hosted and open source, built with nextjs, react and shadcn
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare

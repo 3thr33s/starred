@@ -975,7 +975,7 @@
 - [biomejs/gritql](https://github.com/biomejs/gritql) - GritQL is a query language for searching, linting, and modifying code.
 - [microsoft/aici](https://github.com/microsoft/aici) - AICI: Prompts as (Wasm) Programs
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
-- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications - a smart proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Ship agents faster. Plano is delivery infrastructure for agentic applications - the AI-native proxy & dataplane that offloads plumbing work, so you stay focused on product logic.
 - [leoshimo/vrs](https://github.com/leoshimo/vrs) - A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix
 - [memextech/ht-mcp](https://github.com/memextech/ht-mcp) - Pure Rust implementation of MCP server for headless terminal
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
@@ -1063,6 +1063,7 @@
 
 ## Swift 
 
+- [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with OpenAI & Anthropic compatible APIs. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
 - [cmsj/Hammerspoon2](https://github.com/cmsj/Hammerspoon2) - 
 - [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
@@ -1290,6 +1291,7 @@
 - [akmjenkins/json-schema-rules-engine](https://github.com/akmjenkins/json-schema-rules-engine) - A highly configurable and dynamic rules engine based on JSON Schema
 - [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
 - [BetrixDev/standard-rule-engine](https://github.com/BetrixDev/standard-rule-engine) - A type-safe rule engine using the Standard Schema for fact validation
+- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples, fancy and practical diagrams and unit tests ✅
 - [remvze/lowfi](https://github.com/remvze/lowfi) - 🎻 Play lofi music through your terminal.
 - [ChrisRoyse/CodeGraph](https://github.com/ChrisRoyse/CodeGraph) - 
@@ -1826,7 +1828,6 @@
 
 ## Vue 
 
-- [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [disler/agentic-coding-tool-eval](https://github.com/disler/agentic-coding-tool-eval) - Simple ideas to compare Agentic Coding Tools
 - [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free and open source code snippet manager for developers
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify

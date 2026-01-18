@@ -18,7 +18,6 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Fennel](#fennel)
-- [Fluent](#fluent)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -163,10 +162,6 @@
 
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 
-## Fluent 
-
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
 ## GLSL 
 
 - [0xhckr/ghostty-shaders](https://github.com/0xhckr/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
@@ -259,7 +254,7 @@
 
 - [nikelborm/effect-garden](https://github.com/nikelborm/effect-garden) - A place where I carefully grow species of my favorite flower bindweed. In programmer terms -- all my pet-projects, most of which will somehow be related to effect.
 - [artimath/agientic](https://github.com/artimath/agientic) - physics
-- [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
+- [remorses/playwriter](https://github.com/remorses/playwriter) - MCP to control your Chrome window via extension. Runs Playwright code in a stateful sandbox.
 - [finos/legend](https://github.com/finos/legend) - The Legend project
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
@@ -361,7 +356,6 @@
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_c
 - [aquarius-wing/actor-critic-thinking-mcp](https://github.com/aquarius-wing/actor-critic-thinking-mcp) - A dual-perspective thinking analysis server based on Model Context Protocol (MCP), providing comprehensive performance evaluation through Actor-Critic methodology.
-- [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) - ATLAS: Software Engineer AI Agent. Living memory persists. Learning compounds.   Every commit evolves it. Professional focus. KISS/YAGNI/DRY and Depend on Context. No overengineering. Clean code and C
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [electron/chromedriver](https://github.com/electron/chromedriver) - Download ChromeDriver for Electron
 - [codebytere/codebytere.github.io](https://github.com/codebytere/codebytere.github.io) - personal website
@@ -379,6 +373,7 @@
 - [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
 - [shannonmoeller/handlebars-wax](https://github.com/shannonmoeller/handlebars-wax) - The missing Handlebars API for data, partials, helpers, and decorators.
 - [elder-plinius/P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
@@ -1050,6 +1045,7 @@
 
 ## Shell 
 
+- [vbgate/learn-opencode](https://github.com/vbgate/learn-opencode) - OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。
 - [dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill) - 
 - [vercel-labs/web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines) - Guidelines for building interfaces on the Web.
 - [samuelho-dev/dev-config](https://github.com/samuelho-dev/dev-config) - My personal dev configs with dot files, nix s3 caching and modules, terminal config, biome linting, and gritql enforcement.
@@ -1061,6 +1057,7 @@
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
+- [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) - ATLAS: Software Engineer AI Agent. Living memory persists. Learning compounds.   Every commit evolves it. Professional focus. KISS/YAGNI/DRY and Depend on Context. No overengineering. Clean code and C
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [hrushik98/bettrWrite](https://github.com/hrushik98/bettrWrite) - Fix grammars and typos and other errors with the help of AI
 - [mothdotmonster/inventory](https://github.com/mothdotmonster/inventory) - Move files like an old text adventure.
@@ -1106,6 +1103,7 @@
 
 ## TypeScript 
 
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
 - [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
 - [angrysky56/deep-research-reports](https://github.com/angrysky56/deep-research-reports) - A place to store AI deep research reports
@@ -1125,7 +1123,7 @@
 - [steipete/mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform.
+- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobser way. 🦞
 - [remorses/gitchamber](https://github.com/remorses/gitchamber) - Fetch and search any public GitHub repository file without worrying about rate limits, built on top of Cloudflare workers and durable objects
 - [tangshuang/webcut](https://github.com/tangshuang/webcut) - A powerful Web video editing UI framework, designed to help Web applications quickly integrate professional-grade video editing features.
 - [lazuee/bun-plugin-import-glob](https://github.com/lazuee/bun-plugin-import-glob) - A Bun plugin that support import.meta.glob imports.

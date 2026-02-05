@@ -1115,7 +1115,7 @@
 - [angrysky56/deep-research-reports](https://github.com/angrysky56/deep-research-reports) - A place to store AI deep research reports
 - [nikelborm/effect-garden](https://github.com/nikelborm/effect-garden) - A place where I carefully grow species of my favorite flower bindweed. In programmer terms -- all my pet-projects, most of which will somehow be related to effect.
 - [john-royal/funcho](https://github.com/john-royal/funcho) - Contract-first HTTP router for Effect 4
-- [superset-sh/superset](https://github.com/superset-sh/superset) - The terminal for orchestrating agents - Run a team of Claude Code, OpenCode, or any other CLI agents on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine
 - [arach/spectator](https://github.com/arach/spectator) - 
 - [arach/og](https://github.com/arach/og) - 
 - [bullmeza/screen.vision](https://github.com/bullmeza/screen.vision) - Get a guided tour for anything, right on your screen.
@@ -1403,7 +1403,7 @@
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [johnlindquist/claude-hooks](https://github.com/johnlindquist/claude-hooks) - 
-- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, add custom input pattern highlighters, custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, f
+- [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns) - A community-driven knowledge base of practical patterns for Effect-TS.
@@ -1678,7 +1678,7 @@
 - [jetify-com/typeid-js](https://github.com/jetify-com/typeid-js) - TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [singleportrait/a-pattern-language](https://github.com/singleportrait/a-pattern-language) - A directory and network for all patterns in A Pattern Language
-- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps
+- [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps and MCP Apps
 - [redabacha/react-router-deno-template](https://github.com/redabacha/react-router-deno-template) - React Router v7 + Deno v2
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API

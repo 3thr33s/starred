@@ -481,6 +481,7 @@
 
 ## ai-agents 
 
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [superset-sh/superset](https://github.com/superset-sh/superset) - The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine
 - [bullmeza/screen.vision](https://github.com/bullmeza/screen.vision) - Get a guided tour for anything, right on your screen.
 - [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Claude engineer that captures traffic, writes documentation and automatically generates API clients. Reverse engineer APIs!
@@ -565,7 +566,7 @@
 - [jakub-k-slys/substack-api](https://github.com/jakub-k-slys/substack-api) - Substack API client is a modern TypeScript library provides a clean, entity-based interface to interact with Substack publications, posts, comments, and user profiles.
 - [NeaByteLab/Ollama-Native](https://github.com/NeaByteLab/Ollama-Native) - TypeScript client library for Ollama API with retry logic, timeout management, error handling, and validation.
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [sgcarstrends/sgcarstrends](https://github.com/sgcarstrends/sgcarstrends) - Monorepo for SG Cars Trends backend services
@@ -643,7 +644,7 @@
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [ashfinal/awesome-hammerspoon](https://github.com/ashfinal/awesome-hammerspoon) - awesome configuration for Hammerspoon.
 - [gkze/gh-stars](https://github.com/gkze/gh-stars) - :star: Keep your Github Stars fresh!
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -1163,6 +1164,7 @@
 
 ## crawler 
 
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
@@ -1381,6 +1383,7 @@
 
 ## developer-tools 
 
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
 - [superset-sh/superset](https://github.com/superset-sh/superset) - The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine
 - [DanielFGray/effect-devtui](https://github.com/DanielFGray/effect-devtui) - A TUI to view traces, spans, metrics, and inspect your Effect applications
@@ -1654,6 +1657,7 @@
 
 ## generative-ai 
 
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 - [BjornMelin/prompt-atlas](https://github.com/BjornMelin/prompt-atlas) - Expert-level prompt templates for modern software development using AI pair programming.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -2709,7 +2713,7 @@
 ## no-code 
 
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
 - [Liberty-liu/Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) - :guide_dog: Powerful lowcode|vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many
@@ -2835,6 +2839,7 @@
 
 ## open-source 
 
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [ncounterspecialist/twick](https://github.com/ncounterspecialist/twick) - AI-powered video editor SDK built with React. Features canvas timeline, drag-and-drop editing, AI captions, and serverless MP4 export. Perfect for building custom video apps.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
@@ -2947,6 +2952,10 @@
 
 ## others 
 
+- [zhangyanxs/repo2skill](https://github.com/zhangyanxs/repo2skill) - Repository to Skill Converter
+- [IgorWarzocha/Opencode-Workflows](https://github.com/IgorWarzocha/Opencode-Workflows) - An ever evolving repository of Opencode workflow examples that might enhance your experience with it. I only left the stuff that actually works. YMMV.
+- [HazelChat/hazel](https://github.com/HazelChat/hazel) - 
+- [erayack/effect-gpt](https://github.com/erayack/effect-gpt) - A transformer-based LLM built from scratch with Effect
 - [erikshestopal/effect-inngest](https://github.com/erikshestopal/effect-inngest) - Build durable, type-safe workflows with Effect and Inngest
 - [cevr/effect-machine](https://github.com/cevr/effect-machine) - Schema-first state machines for Effect. Define once, derive everywhere, break nothing.
 - [tim-smart/lalph](https://github.com/tim-smart/lalph) - 
@@ -3862,6 +3871,7 @@
 
 ## rag 
 
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [BjornMelin/ai-docs-vector-db-hybrid-scraper](https://github.com/BjornMelin/ai-docs-vector-db-hybrid-scraper) - Retrieval-augmented docs ingestion stack: Firecrawl + Crawl4AI + Qdrant vector search with FastAPI and MCP interfaces for AI engineers.
@@ -4209,7 +4219,7 @@
 - [rush-db/rushdb](https://github.com/rush-db/rushdb) - RushDB is an Instant Database for Modern Apps & AI. Built on top of Neo4j.
 - [signerlabs/Klee](https://github.com/signerlabs/Klee) - Secure and local AI on your desktop with a built-in RAG knowledge base and Markdown note support.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.

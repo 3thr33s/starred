@@ -230,7 +230,7 @@
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
-- [dicedb/dice](https://github.com/dicedb/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -689,6 +689,8 @@
 
 ## Python 
 
+- [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica🧠: Open-Source Semantic Layer & Knowledge Engineering Framework for building Explainable, Auditable, and Trustworthy AI Systems — beyond Text Similarity
+- [IgorWarzocha/Opencode-Workflows](https://github.com/IgorWarzocha/Opencode-Workflows) - An ever evolving repository of Opencode workflow examples that might enhance your experience with it. I only left the stuff that actually works. YMMV.
 - [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose) - Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
 - [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Claude engineer that captures traffic, writes documentation and automatically generates API clients. Reverse engineer APIs!
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -817,6 +819,7 @@
 - [livekit-examples/outbound-caller-python](https://github.com/livekit-examples/outbound-caller-python) - An Agent that makes outbound calls using SIP and Dispatch APIs
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [echohive42/10-000-chatbot-prompts](https://github.com/echohive42/10-000-chatbot-prompts) - A comprehensive collection of AI prompts with structured categories, subcategories, and searchable keywords. Each prompt includes detailed system messages and metadata for easy organization and discov
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [facebookresearch/blt](https://github.com/facebookresearch/blt) - Code for BLT research paper
 - [veehaitch/macos-remap-keys](https://github.com/veehaitch/macos-remap-keys) - Remap keys with pure macOS functionality.
 - [jdagdelen/hodja](https://github.com/jdagdelen/hodja) - A framework for building language model applications.
@@ -1045,6 +1048,7 @@
 
 ## Shell 
 
+- [zhangyanxs/repo2skill](https://github.com/zhangyanxs/repo2skill) - Repository to Skill Converter
 - [vbgate/learn-opencode](https://github.com/vbgate/learn-opencode) - OpenCode 中文实战课源码与内容仓库：一课一页，覆盖入门到实战工作流。
 - [dmmulroy/cloudflare-skill](https://github.com/dmmulroy/cloudflare-skill) - 
 - [vercel-labs/web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines) - Guidelines for building interfaces on the Web.
@@ -1103,6 +1107,8 @@
 
 ## TypeScript 
 
+- [HazelChat/hazel](https://github.com/HazelChat/hazel) - 
+- [erayack/effect-gpt](https://github.com/erayack/effect-gpt) - A transformer-based LLM built from scratch with Effect
 - [erikshestopal/effect-inngest](https://github.com/erikshestopal/effect-inngest) - Build durable, type-safe workflows with Effect and Inngest
 - [cevr/effect-machine](https://github.com/cevr/effect-machine) - Schema-first state machines for Effect. Define once, derive everywhere, break nothing.
 - [tim-smart/lalph](https://github.com/tim-smart/lalph) - 
@@ -1458,7 +1464,7 @@
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [MotiaDev/motia](https://github.com/MotiaDev/motia) - Multi-Language Backend Framework that unifies APIs, background jobs, queues, workflows, streams, and AI agents with a single core primitive with built-in observability and state management.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Turn websites into clean data pipelines & structured APIs in minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [epicweb-dev/aster](https://github.com/epicweb-dev/aster) - 
@@ -1580,7 +1586,6 @@
 - [typeonce-dev/snippets](https://github.com/typeonce-dev/snippets) - A collection of free and reusable code that you can copy-paste in your own project. Every snippet is self-contained and can be used without additional setup 🪄
 - [spiko-tech/effect-messaging](https://github.com/spiko-tech/effect-messaging) - A message broker toolkit for Effect
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions
 - [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
 - [christoshrousis/mutasaurus](https://github.com/christoshrousis/mutasaurus) - A Deno-native mutation testing library that helps you improve your test suite quality by automatically introducing mutations into your code.
@@ -1789,7 +1794,7 @@
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [brimdata/react-arborist](https://github.com/brimdata/react-arborist) - The complete tree view component for React
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 210 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
+- [thi-ng/umbrella](https://github.com/thi-ng/umbrella) - ⛱  Broadly scoped ecosystem & mono-repository of 214 TypeScript projects (and ~185 examples) for general purpose, functional, data driven development
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 - [sondr3/radiant](https://github.com/sondr3/radiant) - Blaze your way through HTML using the type-safety of TypeScript
 - [Hexagon/pup](https://github.com/Hexagon/pup) - Universal process manager built in Deno

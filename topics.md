@@ -354,7 +354,7 @@
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [arnestrickmann/Notechat](https://github.com/arnestrickmann/Notechat) - Local Apple Notes + LLM Chat
-- [jalpp/recursearch](https://github.com/jalpp/recursearch) - A MAS that searches the web recursively to generate comprehensive research reports with or without citations.
+- [jalpp/recursearch](https://github.com/jalpp/recursearch) - An AI agent that searches the web and creates research reports
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [retab-dev/structured-generation-starter-pack](https://github.com/retab-dev/structured-generation-starter-pack) - A curated list of resources related to structured generation 🔥
 - [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codeb
@@ -909,7 +909,7 @@
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) - An MCP client for Neovim that seamlessly integrates MCP servers into your editing workflow with an intuitive interface for managing, testing, and using MCP servers with your favorite chat plugins.
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
-- [jalpp/recursearch](https://github.com/jalpp/recursearch) - A MAS that searches the web recursively to generate comprehensive research reports with or without citations.
+- [jalpp/recursearch](https://github.com/jalpp/recursearch) - An AI agent that searches the web and creates research reports
 - [retab-dev/structured-generation-starter-pack](https://github.com/retab-dev/structured-generation-starter-pack) - A curated list of resources related to structured generation 🔥
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
@@ -2257,7 +2257,7 @@
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [robert-mcdermott/ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
 - [arnestrickmann/Notechat](https://github.com/arnestrickmann/Notechat) - Local Apple Notes + LLM Chat
-- [jalpp/recursearch](https://github.com/jalpp/recursearch) - A MAS that searches the web recursively to generate comprehensive research reports with or without citations.
+- [jalpp/recursearch](https://github.com/jalpp/recursearch) - An AI agent that searches the web and creates research reports
 - [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codeb
@@ -2891,7 +2891,7 @@
 - [shredEngineer/Archive-Agent](https://github.com/shredEngineer/Archive-Agent) - Find your files with natural language and ask questions.
 - [haydenbleasel/tersa](https://github.com/haydenbleasel/tersa) - Tersa is an open source canvas for building AI workflows.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
-- [jalpp/recursearch](https://github.com/jalpp/recursearch) - A MAS that searches the web recursively to generate comprehensive research reports with or without citations.
+- [jalpp/recursearch](https://github.com/jalpp/recursearch) - An AI agent that searches the web and creates research reports
 - [retab-dev/structured-generation-starter-pack](https://github.com/retab-dev/structured-generation-starter-pack) - A curated list of resources related to structured generation 🔥
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [athina-ai/rag-cookbooks](https://github.com/athina-ai/rag-cookbooks) - This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.
@@ -3118,7 +3118,6 @@
 - [mepuka/PureDialog](https://github.com/mepuka/PureDialog) - Domain-aware knowledge extraction from expert interviews
 - [couchlabs/couch](https://github.com/couchlabs/couch) - Stablecoin recurring payments made easy.
 - [jethrolarson/noolang](https://github.com/jethrolarson/noolang) - 
-- [devx-op/effectify](https://github.com/devx-op/effectify) - 
 - [middle-ages/effect-ts-laws](https://github.com/middle-ages/effect-ts-laws) - effect-ts Law Testing
 - [middle-ages/effect-ts-folds](https://github.com/middle-ages/effect-ts-folds) - Recursion schemes for effect-ts.
 - [xinchen10/awesome-amqp](https://github.com/xinchen10/awesome-amqp) - A curated list of AMQP 1.0 resources
@@ -3919,6 +3918,7 @@
 - [inokawa/rich-textarea](https://github.com/inokawa/rich-textarea) - A small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
+- [devx-op/effectify](https://github.com/devx-op/effectify) - Monorepo of utilities for integrating Effect with different frameworks and libraries.
 - [simonwep/viselect](https://github.com/simonwep/viselect) - ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks!
 - [bettervim/better-tmux](https://github.com/bettervim/better-tmux) - Unlock the full power of TMUX with TypeScript and JSX ⚡
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
@@ -4590,6 +4590,7 @@
 - [leonitousconforti/the-wireguard-effect](https://github.com/leonitousconforti/the-wireguard-effect) - Cross platform wireguard api client for nodejs built on wireguard-go with effect-ts
 - [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - A lightweight TypeScript library for file-based JSON database operations with querying capabilities, CRUD operations, and zero dependencies.
 - [leonitousconforti/effect-schemas](https://github.com/leonitousconforti/effect-schemas) - Effect schemas used in multiple of my other projects
+- [devx-op/effectify](https://github.com/devx-op/effectify) - Monorepo of utilities for integrating Effect with different frameworks and libraries.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [ecyrbe/typeskell](https://github.com/ecyrbe/typeskell) - Functional programming in Typescript

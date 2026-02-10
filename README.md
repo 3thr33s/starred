@@ -84,6 +84,7 @@
 - [williamcotton/webpipe-c](https://github.com/williamcotton/webpipe-c) - An experimental web server runtime that processes HTTP requests through declarative pipeline configurations. Built in C with libmicrohttpd and JSON data flow between pipeline steps.
 - [kamel-usp/dpasp](https://github.com/kamel-usp/dpasp) - Differentiable probabilistic answer set programming
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
+- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 
 ## C# # 
@@ -232,7 +233,6 @@
 - [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH!
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [alexferrari88/sbstck-dl](https://github.com/alexferrari88/sbstck-dl) - CLI tool for downloading Substack newsletters for archival purposes, offline reading, or data analysis.
-- [dicedb/dicedb](https://github.com/dicedb/dicedb) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
@@ -1124,7 +1124,7 @@
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
 - [angrysky56/deep-research-reports](https://github.com/angrysky56/deep-research-reports) - A place to store AI deep research reports
 - [nikelborm/effect-garden](https://github.com/nikelborm/effect-garden) - A place where I carefully grow species of my favorite flower bindweed. In programmer terms -- all my pet-projects, most of which will somehow be related to effect.
 - [john-royal/funcho](https://github.com/john-royal/funcho) - Contract-first HTTP router for Effect 4
@@ -1663,7 +1663,7 @@
 - [gensx-inc/gensx](https://github.com/gensx-inc/gensx) - The TypeScript framework for agents & workflows with react-like components. Lightning fast dev loop. Easy to learn. Easy to extend.
 - [jashandeep31/zed-snippets](https://github.com/jashandeep31/zed-snippets) - A platform for obtaining and creating custom code snippets tailored for the Zed text editor.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
+- [nrwl/nx](https://github.com/nrwl/nx) - The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
 - [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 AI-powered online tool for making notion-style avatars.
 - [mehdibha/dotUI](https://github.com/mehdibha/dotUI) - Build your design system within seconds.

@@ -3000,7 +3000,7 @@
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [vercel-labs/coding-agent-template](https://github.com/vercel-labs/coding-agent-template) - Multi-agent AI coding platform powered by Vercel Sandbox and AI Gateway
 - [artimath/agientic](https://github.com/artimath/agientic) - physics
-- [legacy3/wowlab](https://github.com/legacy3/wowlab) - 
+- [legacy3/wowlab](https://github.com/legacy3/wowlab) - A modern WoW simulation engine written in Rust
 - [cmsj/Hammerspoon2](https://github.com/cmsj/Hammerspoon2) - 
 - [keugenek/multiverse](https://github.com/keugenek/multiverse) - 
 - [tanainc/tana-input-api-samples](https://github.com/tanainc/tana-input-api-samples) - Sample code for Tana Input API

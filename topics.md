@@ -1385,7 +1385,6 @@
 - [molarmanful/kirsch](https://github.com/molarmanful/kirsch) - A versatile bitmap font with an organic flair.
 - [AhmadMHawwash/10xarch](https://github.com/AhmadMHawwash/10xarch) - System design playground for learning, sketching and getting AI feedback
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
-- [vaughantype/wumpus-mono](https://github.com/vaughantype/wumpus-mono) - A modern and functional monospaced typeface with a focus on legibility.
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
@@ -1397,6 +1396,7 @@
 
 ## developer-tools 
 
+- [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
 - [DannyMac180/openclaw-operator](https://github.com/DannyMac180/openclaw-operator) - OpenClaw Operator gives coding agents like Codex and Claude Code the context and playbooks needed to set up, validate, and troubleshoot a local OpenClaw installation.
 - [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica 🧠 — A framework for building semantic layers, context graphs, and decision intelligence systems with explainability and provenance.
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
@@ -2430,6 +2430,7 @@
 
 ## macos 
 
+- [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
 - [jackielii/skhd.zig](https://github.com/jackielii/skhd.zig) - Simple Hotkey Daemon for macOS, ported from skhd by koekeishiya
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
@@ -2980,6 +2981,10 @@
 
 ## others 
 
+- [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
+- [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - I'm going to build my own OpenClaw, with blackjack... and bun!
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
 - [vercel-labs/webreel](https://github.com/vercel-labs/webreel) - Record scripted browser demos as video
@@ -4037,7 +4042,7 @@
 - [ctxhou/react-tabtab](https://github.com/ctxhou/react-tabtab) - 💃 Make your react tab dance🕺
 - [JoshK2/react-spinners-css](https://github.com/JoshK2/react-spinners-css) - Amazing collection of React spinners components with pure css
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf) - Display PDFs in your React app as easily as if they were images.
-- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
+- [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design t
 - [dantrain/react-stonecutter](https://github.com/dantrain/react-stonecutter) - Animated grid layout component for React
 - [jquense/react-widgets](https://github.com/jquense/react-widgets) - Polished, feature rich, accessible form inputs built with React
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
@@ -4417,6 +4422,7 @@
 
 ## swift 
 
+- [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
@@ -4608,6 +4614,7 @@
 
 ## typescript 
 
+- [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
 - [hydro13/tandem-browser](https://github.com/hydro13/tandem-browser) - AI-Human symbiotic browser — browse the web as one entity
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.

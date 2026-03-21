@@ -277,6 +277,7 @@
 
 ## agent 
 
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
@@ -315,6 +316,7 @@
 
 ## ai 
 
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
 - [hydro13/tandem-browser](https://github.com/hydro13/tandem-browser) - AI-Human symbiotic browser — browse the web as one entity
 - [IliasHad/edit-mind](https://github.com/IliasHad/edit-mind) - Local-first AI video intelligence platform. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready.
@@ -1089,6 +1091,7 @@
 
 ## coding 
 
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 - [toplap/awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
@@ -2981,6 +2984,14 @@
 
 ## others 
 
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
+- [zhaono1/agent-playbook](https://github.com/zhaono1/agent-playbook) - 
+- [stolinski/opencode-sentry-monitor](https://github.com/stolinski/opencode-sentry-monitor) - Use Sentry Agent Monitoring to add observability to your Opencode
+- [joshpuckett/pasito](https://github.com/joshpuckett/pasito) - A tiny, themeable, dependency-free fluid stepper component.
+- [joshpuckett/bloom](https://github.com/joshpuckett/bloom) - A morphing pull-down button component for react.
+- [savvy-web/github-action-effects](https://github.com/savvy-web/github-action-effects) - Library of helper functions for building bulletproof Node.js 24 GitHub Actions with Effect
+- [9clg6/sync-claude-code-token-in-open-code](https://github.com/9clg6/sync-claude-code-token-in-open-code) - Copy Claude Code token from MacOS Keychain into OpenCode
 - [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - I'm going to build my own OpenClaw, with blackjack... and bun!
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
@@ -3069,7 +3080,7 @@
 - [supermemoryai/code-chunk](https://github.com/supermemoryai/code-chunk) - AST-aware chunking of code for contextual retrieval
 - [bluwy/npm-userscript](https://github.com/bluwy/npm-userscript) - Various improvements and fixes for npmjs.com
 - [PaulJPhilp/McLuhan](https://github.com/PaulJPhilp/McLuhan) - 
-- [mustafa0x/vite-plugin-domain](https://github.com/mustafa0x/vite-plugin-domain) - 
+- [mustafa0x/vite-plugin-domain](https://github.com/mustafa0x/vite-plugin-domain) - Zero-config, HTTPS localhost domains for vite apps
 - [PaulJPhilp/effect-cli-tui](https://github.com/PaulJPhilp/effect-cli-tui) - 
 - [finos/legend](https://github.com/finos/legend) - The Legend project
 - [tombaeyens/pwe](https://github.com/tombaeyens/pwe) - Principles of Workflow Engines
@@ -3291,7 +3302,6 @@
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [jkoppel/jj-workshop](https://github.com/jkoppel/jj-workshop) - 
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js
-- [origin-space/ui-experiments](https://github.com/origin-space/ui-experiments) - Beautifully designed open-source layouts and UI experiments built with Origin UI and shadcn/ui.
 - [dmmulroy/effect.guide](https://github.com/dmmulroy/effect.guide) - 
 - [tim-smart/effect-atom](https://github.com/tim-smart/effect-atom) - 
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy) - Infrastructure as TypeScript
@@ -4701,6 +4711,7 @@
 - [basementstudio/commerce-toolkit](https://github.com/basementstudio/commerce-toolkit) - Ship better storefronts 🛍
 - [basementstudio/xmcp](https://github.com/basementstudio/xmcp) - The TypeScript MCP framework
 - [gabotechs/dep-tree](https://github.com/gabotechs/dep-tree) - Tool for helping developers keep their code bases clean and decoupled. It allows visualising a code base complexity using a 3d force-directed graph of files and the dependencies between them.
+- [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [iii-hq/iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.

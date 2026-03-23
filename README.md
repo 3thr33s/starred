@@ -341,7 +341,6 @@
 - [remorses/AGENTS.md](https://github.com/remorses/AGENTS.md) - My agents instruction files, grouped by tech
 - [obra/superpowers-developing-for-claude-code](https://github.com/obra/superpowers-developing-for-claude-code) - 
 - [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
-- [maml-dev/maml](https://github.com/maml-dev/maml) - Minimal. Human-readable. Machine-parsable.
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
@@ -380,7 +379,6 @@
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
-- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
 - [shannonmoeller/handlebars-wax](https://github.com/shannonmoeller/handlebars-wax) - The missing Handlebars API for data, partials, helpers, and decorators.
@@ -564,7 +562,7 @@
 - [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
 - [ChrisRoyse/UsefulPrompts](https://github.com/ChrisRoyse/UsefulPrompts) - 
 - [oliverbenns/john-carmack-plan](https://github.com/oliverbenns/john-carmack-plan) - An archive of John Carmack’s .plan files in readable markdown format
-- [grapeot/codex_wide_research](https://github.com/grapeot/codex_wide_research) - 
+- [grapeot/codex_wide_research](https://github.com/grapeot/codex_wide_research) - Wide research methodology. Parallel exploration across multiple topic dimensions using AI agents
 - [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
 - [goldbergyoni/golden-testing-rules-for-ai](https://github.com/goldbergyoni/golden-testing-rules-for-ai) - Instructions for LLMs on how to produce great tests with best practices inside
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
@@ -844,6 +842,7 @@
 - [echohive42/10-000-chatbot-prompts](https://github.com/echohive42/10-000-chatbot-prompts) - A comprehensive collection of AI prompts with structured categories, subcategories, and searchable keywords. Each prompt includes detailed system messages and metadata for easy organization and discov
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [facebookresearch/blt](https://github.com/facebookresearch/blt) - Code for BLT research paper
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [veehaitch/macos-remap-keys](https://github.com/veehaitch/macos-remap-keys) - Remap keys with pure macOS functionality.
 - [jdagdelen/hodja](https://github.com/jdagdelen/hodja) - A framework for building language model applications.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
@@ -1659,7 +1658,7 @@
 - [Decodetalkers/styled-components-deno](https://github.com/Decodetalkers/styled-components-deno) - styled component for deno preact
 - [jersou/clite-parser](https://github.com/jersou/clite-parser) - CliteParser generates CLI from classes (or objects) : each method generates a "command", each field generates an "option"
 - [dbos-inc/dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) - Lightweight Durable TypeScript Workflows
-- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [cotyhamilton/deno-lints](https://github.com/cotyhamilton/deno-lints) - deno lint plugin
 - [mizchi/deno-lint-plugin-do-try](https://github.com/mizchi/deno-lint-plugin-do-try) - 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
@@ -1933,6 +1932,7 @@
 
 ## Vue 
 
+- [maml-dev/maml](https://github.com/maml-dev/maml) - Minimal. Human-readable. Machine-parsable.
 - [lumetrium/espanso-dynamic-forms](https://github.com/lumetrium/espanso-dynamic-forms) - Advanced forms for Espanso with validation, file uploads, tabs, and Liquid templating
 - [disler/agentic-coding-tool-eval](https://github.com/disler/agentic-coding-tool-eval) - Simple ideas to compare Agentic Coding Tools
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify

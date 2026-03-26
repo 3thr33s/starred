@@ -381,6 +381,7 @@
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
+- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [withspectrum/spectrum](https://github.com/withspectrum/spectrum) - Simple, powerful online communities.
 - [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
 - [shannonmoeller/handlebars-wax](https://github.com/shannonmoeller/handlebars-wax) - The missing Handlebars API for data, partials, helpers, and decorators.
@@ -848,7 +849,6 @@
 - [echohive42/10-000-chatbot-prompts](https://github.com/echohive42/10-000-chatbot-prompts) - A comprehensive collection of AI prompts with structured categories, subcategories, and searchable keywords. Each prompt includes detailed system messages and metadata for easy organization and discov
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [facebookresearch/blt](https://github.com/facebookresearch/blt) - Code for BLT research paper
-- [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
 - [veehaitch/macos-remap-keys](https://github.com/veehaitch/macos-remap-keys) - Remap keys with pure macOS functionality.
 - [jdagdelen/hodja](https://github.com/jdagdelen/hodja) - A framework for building language model applications.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
@@ -1067,7 +1067,7 @@
 - [probelabs/probe](https://github.com/probelabs/probe) - AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.
 - [zkonduit/ezkl](https://github.com/zkonduit/ezkl) - ezkl is an engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). Use it from Python, Javascript, or the command line.
 - [tf-encrypted/moose](https://github.com/tf-encrypted/moose) - Secure distributed dataflow framework for encrypted machine learning and data processing
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - run agents that work for you in the background based on what you do
 - [neferdata/allms](https://github.com/neferdata/allms) - allms: One Rust Library to rule them aLLMs
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1329,7 +1329,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [nataliai-picasso/effect-validation](https://github.com/nataliai-picasso/effect-validation) - playground for effect library usage
 - [leonitousconforti/the-wireguard-effect](https://github.com/leonitousconforti/the-wireguard-effect) - Cross platform wireguard api client for nodejs built on wireguard-go with effect-ts
-- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - A lightweight TypeScript library for file-based JSON database operations with querying capabilities, CRUD operations, and zero dependencies.
+- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - File-based JSON database for TypeScript, with a simple query builder.
 - [leonitousconforti/effect-schemas](https://github.com/leonitousconforti/effect-schemas) - Effect schemas used in multiple of my other projects
 - [egonSchiele/tarsec](https://github.com/egonSchiele/tarsec) - A parser combinator library in TypeScript
 - [inboundemail/inbound](https://github.com/inboundemail/inbound) - email infrastructure for agent and indie devs
@@ -1470,7 +1470,7 @@
 - [Effect-TS/effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
 - [harrysolovay/nothing-here-to-see](https://github.com/harrysolovay/nothing-here-to-see) - 
 - [macieklamberski/feedsmith](https://github.com/macieklamberski/feedsmith) - Fast, all‑in‑one JavaScript feed parser and generator for RSS, Atom, RDF, and JSON Feed, with support for popular namespaces and OPML.
-- [harrysolovay/liminal](https://github.com/harrysolovay/liminal) - An Effect AI toolkit for conversation state management.
+- [harrysolovay/liminal](https://github.com/harrysolovay/liminal) - About to be something different. Previously: An Effect AI toolkit for conversation state management.
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
 - [johnlindquist/claude-hooks](https://github.com/johnlindquist/claude-hooks) - 
@@ -1542,7 +1542,6 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [cardotrejos/effect-interactive-lab](https://github.com/cardotrejos/effect-interactive-lab) - Interactive React effects and animations
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [PaulJPhilp/buddy](https://github.com/PaulJPhilp/buddy) - The refactored buddybuilder
 - [PaulJPhilp/EffectiveAgent](https://github.com/PaulJPhilp/EffectiveAgent) - 
 - [phuctm97/modelfetch](https://github.com/phuctm97/modelfetch) - Runtime-agnostic TypeScript/JavaScript SDK for MCP Servers

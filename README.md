@@ -930,6 +930,7 @@
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [lsd-so/lsd-mcp](https://github.com/lsd-so/lsd-mcp) - LSD Model Context Protocol
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
@@ -1905,7 +1906,6 @@
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 - [mckaywrigley/o1-xml-parser](https://github.com/mckaywrigley/o1-xml-parser) - 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web

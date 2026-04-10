@@ -262,7 +262,6 @@
 
 ## HTML 
 
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 - [tc39/proposal-first-class-protocols](https://github.com/tc39/proposal-first-class-protocols) - a proposal to bring protocol-based interfaces to ECMAScript users
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [finos/legend](https://github.com/finos/legend) - The Legend project
@@ -555,6 +554,7 @@
 
 ## Others 
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
 - [emilkowalski/skill](https://github.com/emilkowalski/skill) - A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
@@ -725,7 +725,7 @@
 - [Hmbown/aleph](https://github.com/Hmbown/aleph) - Skill + MCP server to turn your agent into an RLM. Load context, iterate with search/code/think tools, converge on answers.
 - [Hmbown/peircean-abduction](https://github.com/Hmbown/peircean-abduction) - Logic architecture for abductive inference. Forces LLMs to make uncertainty visible through explicit hypothesis generation and Inference to Best Explanation.
 - [Hmbown/Toulmini](https://github.com/Hmbown/Toulmini) - Logic architecture inspired by Toulmin. Forces LLMs into structured, sequential reasoning through Toulmin's argumentation model.
-- [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [Hmbown/Hegelion](https://github.com/Hmbown/Hegelion) - Dialectical reasoning architecture for LLMs (Thesis → Antithesis → Synthesis)
 - [keugenek/multiverse](https://github.com/keugenek/multiverse) - 
 - [manutej/categorical-meta-prompting](https://github.com/manutej/categorical-meta-prompting) - Categorical foundations for AI meta-prompting with proven correctness and measurable quality improvements (100% on Game of 24)
@@ -850,7 +850,6 @@
 - [livekit-examples/outbound-caller-python](https://github.com/livekit-examples/outbound-caller-python) - An Agent that makes outbound calls using SIP and Dispatch APIs
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [echohive42/10-000-chatbot-prompts](https://github.com/echohive42/10-000-chatbot-prompts) - A comprehensive collection of AI prompts with structured categories, subcategories, and searchable keywords. Each prompt includes detailed system messages and metadata for easy organization and discov
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [facebookresearch/blt](https://github.com/facebookresearch/blt) - Code for BLT research paper
 - [veehaitch/macos-remap-keys](https://github.com/veehaitch/macos-remap-keys) - Remap keys with pure macOS functionality.
 - [jdagdelen/hodja](https://github.com/jdagdelen/hodja) - A framework for building language model applications.
@@ -1148,7 +1147,8 @@
 
 ## TypeScript 
 
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
+- [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules) - This is a collection of linting rules for Effect project
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI,
 - [mpsuesser/effect-autoagent](https://github.com/mpsuesser/effect-autoagent) - Framework for building, optimizing, and deploying AI agents as Effect services. Define an agent as a declarative blueprint. Run it against benchmarks.
 - [deathbyknowledge/gsv](https://github.com/deathbyknowledge/gsv) - Personal cloud AI computer platform
 - [fiberplane/otter](https://github.com/fiberplane/otter) - 
@@ -1158,7 +1158,7 @@
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone.
 - [mepuka/better-twitter-scraper](https://github.com/mepuka/better-twitter-scraper) - Effect-native Twitter/X scraper with session pooling, TLS fingerprinting, and endpoint auto-discovery
 - [mpsuesser/effect-oxlint](https://github.com/mpsuesser/effect-oxlint) - Write oxlint custom lint rules with Effect v4
-- [millionco/expect](https://github.com/millionco/expect) - Expect more from your agents. Test what they build in a real browser.
+- [millionco/expect](https://github.com/millionco/expect) - Expect tests your agent's code in a real browser
 - [remorses/opencode-injection-guard](https://github.com/remorses/opencode-injection-guard) - Prompt injection detection plugin for OpenCode. Works with any LLM provider. Scans tool call outputs with a judge model before they reach the agent. Alternative to OpenAI Guardrails.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [elder-plinius/G0DM0D3](https://github.com/elder-plinius/G0DM0D3) - LIBERATED AI CHAT
@@ -1465,7 +1465,7 @@
 - [esinecan/ai-debate-lord](https://github.com/esinecan/ai-debate-lord) - 
 - [esinecan/skynet-agent](https://github.com/esinecan/skynet-agent) - An Open Source, Claude Code Like Tool, With RAG + Graph RAG + MCP Integration, and Supports Most LLMs (Incomplete But Functional & Usable)Autonomous LLM agent: ChromaDB semantic RAG + Neo4j knowledge-
 - [hannesrudolph/mcp-ragdocs](https://github.com/hannesrudolph/mcp-ragdocs) - An MCP server implementation that provides tools for retrieving and processing documentation through vector search, enabling AI assistants to augment their responses with relevant documentation contex
-- [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client
+- [Kochava-Studios/witsy](https://github.com/Kochava-Studios/witsy) - Witsy: desktop AI assistant / universal MCP client
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [amantus-ai/llm-codes](https://github.com/amantus-ai/llm-codes) - Transform developer documentation to clean Markdown
 - [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) - 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
@@ -1561,6 +1561,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [cardotrejos/effect-interactive-lab](https://github.com/cardotrejos/effect-interactive-lab) - Interactive React effects and animations
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
+- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
 - [PaulJPhilp/buddy](https://github.com/PaulJPhilp/buddy) - The refactored buddybuilder
 - [PaulJPhilp/EffectiveAgent](https://github.com/PaulJPhilp/EffectiveAgent) - 
 - [phuctm97/modelfetch](https://github.com/phuctm97/modelfetch) - Runtime-agnostic TypeScript/JavaScript SDK for MCP Servers
@@ -1663,6 +1664,7 @@
 - [typeonce-dev/snippets](https://github.com/typeonce-dev/snippets) - A collection of free and reusable code that you can copy-paste in your own project. Every snippet is self-contained and can be used without additional setup 🪄
 - [spiko-tech/effect-messaging](https://github.com/spiko-tech/effect-messaging) - A message broker toolkit for Effect
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [gustavoguichard/string-ts](https://github.com/gustavoguichard/string-ts) - Strongly typed string functions
 - [seasonedcc/composable-functions](https://github.com/seasonedcc/composable-functions) - Types and functions to make composition easy and safe
 - [christoshrousis/mutasaurus](https://github.com/christoshrousis/mutasaurus) - A Deno-native mutation testing library that helps you improve your test suite quality by automatically introducing mutations into your code.

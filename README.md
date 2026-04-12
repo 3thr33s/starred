@@ -312,6 +312,9 @@
 
 ## JavaScript 
 
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
+- [kunchenguid/kunchenguid-design-system](https://github.com/kunchenguid/kunchenguid-design-system) - A consistent design system for my content
+- [kunchenguid/harness-exam](https://github.com/kunchenguid/harness-exam) - 
 - [John-Rood/claude-proxy](https://github.com/John-Rood/claude-proxy) - Lightweight proxy that routes Anthropic API billing through Claude Code subscriptions. Zero dependencies, ~150 lines.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
@@ -557,6 +560,7 @@
 
 ## Others 
 
+- [jwynia/context-networks](https://github.com/jwynia/context-networks) - Context Networks: A collaborative framework for human-AI knowledge management focused on relationships between information rather than just storage. Includes guides and templates for creating evolving
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work — reconstructed prompt patterns, agent coordination, and security classification
 - [emilkowalski/skill](https://github.com/emilkowalski/skill) - A skill file based on the articles written on my personal site. Designed for designers and engineers to help them build better user interfaces.
@@ -715,8 +719,9 @@
 
 ## Python 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [mrjcleaver/clipcannon](https://github.com/mrjcleaver/clipcannon) - Worlds First AI Video Editor and Voice Cloner
-- [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
@@ -965,6 +970,8 @@
 
 ## Rust 
 
+- [msmps/pilotty](https://github.com/msmps/pilotty) - Daemon-managed PTY sessions for AI agents to interact with terminal applications
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [buildoak/tortuise](https://github.com/buildoak/tortuise) - Gaussian splats in your terminal.
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
@@ -1149,6 +1156,13 @@
 
 ## TypeScript 
 
+- [jwynia/the-kepler-testimonies](https://github.com/jwynia/the-kepler-testimonies) - 
+- [jwynia/agent-skills](https://github.com/jwynia/agent-skills) - 
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [vincelwt/gloomberb](https://github.com/vincelwt/gloomberb) - Finance terminal, in your terminal.
+- [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
+- [kunchenguid/chrome-devtools-axi](https://github.com/kunchenguid/chrome-devtools-axi) - The most agent-ergonomic browser automation
+- [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
 - [cevr/effect-encore](https://github.com/cevr/effect-encore) - Erlang gen_server semantics over @effect/cluster
 - [atomicmemory/llm-wiki-compiler](https://github.com/atomicmemory/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.

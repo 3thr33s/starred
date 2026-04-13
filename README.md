@@ -263,6 +263,7 @@
 
 ## HTML 
 
+- [pbakaus/radiant](https://github.com/pbakaus/radiant) - A curated collection of generative shader art
 - [tc39/proposal-first-class-protocols](https://github.com/tc39/proposal-first-class-protocols) - a proposal to bring protocol-based interfaces to ECMAScript users
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [finos/legend](https://github.com/finos/legend) - The Legend project
@@ -719,6 +720,7 @@
 
 ## Python 
 
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [mrjcleaver/clipcannon](https://github.com/mrjcleaver/clipcannon) - Worlds First AI Video Editor and Voice Cloner
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -1092,6 +1094,7 @@
 
 ## Shell 
 
+- [zenobi-us/bun-module](https://github.com/zenobi-us/bun-module) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [attogram/bash-screensavers](https://github.com/attogram/bash-screensavers) - Turn your idle shell into a visual playground with this collection of Bash screensav­ers
 - [zhangyanxs/repo2skill](https://github.com/zhangyanxs/repo2skill) - Repository to Skill Converter
@@ -1156,6 +1159,15 @@
 
 ## TypeScript 
 
+- [mugnavo/tanstarter-plus](https://github.com/mugnavo/tanstarter-plus) - Vite+ monorepo template with 🏝️ TanStack Start, Better Auth, Drizzle ORM, shadcn/ui
+- [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
+- [zenobi-us/pi-extension-config](https://github.com/zenobi-us/pi-extension-config) - 
+- [cv/pi-ssh-remote](https://github.com/cv/pi-ssh-remote) - Pi extension that redirects all file operations and commands to a remote host via SSH
+- [ben-vargas/pi-packages](https://github.com/ben-vargas/pi-packages) - Packages for Pi - extensions, skills, prompt templates, and themes.
+- [ogulcancelik/pi-extensions](https://github.com/ogulcancelik/pi-extensions) - Extensions for pi, the terminal-based coding agent
+- [aliou/pi-harness](https://github.com/aliou/pi-harness) - 
+- [tmustier/pi-extensions](https://github.com/tmustier/pi-extensions) - A set of delightful extensions for Pi
+- [zenobi-us/dotfiles](https://github.com/zenobi-us/dotfiles) - my workstation setup for linux, windows and mac
 - [jwynia/the-kepler-testimonies](https://github.com/jwynia/the-kepler-testimonies) - 
 - [jwynia/agent-skills](https://github.com/jwynia/agent-skills) - 
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -1164,11 +1176,11 @@
 - [kunchenguid/chrome-devtools-axi](https://github.com/kunchenguid/chrome-devtools-axi) - The most agent-ergonomic browser automation
 - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app.
 - [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view
-- [cevr/effect-encore](https://github.com/cevr/effect-encore) - Erlang gen_server semantics over @effect/cluster
+- [cevr/effect-encore](https://github.com/cevr/effect-encore) - Declarative actors and durable workflows for @effect/cluster
 - [atomicmemory/llm-wiki-compiler](https://github.com/atomicmemory/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
 - [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules) - This is a collection of linting rules for Effect project
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI,
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Graphs that teach &gt; graphs that impress. Works with Claud
 - [mpsuesser/effect-autoagent](https://github.com/mpsuesser/effect-autoagent) - Framework for building, optimizing, and deploying AI agents as Effect services. Define an agent as a declarative blueprint. Run it against benchmarks.
 - [deathbyknowledge/gsv](https://github.com/deathbyknowledge/gsv) - Personal cloud AI computer platform
 - [fiberplane/otter](https://github.com/fiberplane/otter) - 

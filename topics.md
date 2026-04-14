@@ -321,6 +321,7 @@
 
 ## ai 
 
+- [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [jwynia/context-networks](https://github.com/jwynia/context-networks) - Context Networks: A collaborative framework for human-AI knowledge management focused on relationships between information rather than just storage. Includes guides and templates for creating evolving
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -975,7 +976,7 @@
 ## claude-code 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Graphs that teach &gt; graphs that impress. Works with Claud
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claud
 - [DannyMac180/openclaw-operator](https://github.com/DannyMac180/openclaw-operator) - OpenClaw Operator gives coding agents like Codex and Claude Code the context and playbooks needed to set up, validate, and troubleshoot a local OpenClaw installation.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -1920,7 +1921,7 @@
 - [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples, fancy and practical diagrams and unit tests ✅
+- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples in TypeScript, practical diagrams and unit tests ✅
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - The conversational control layer for customer-facing AI agents - Parlant is an agentic harness optimized for controlling customer interactions.
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth) - The Declarative Data Generator
@@ -2098,7 +2099,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
-- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples, fancy and practical diagrams and unit tests ✅
+- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples in TypeScript, practical diagrams and unit tests ✅
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [reliverse/rempts](https://github.com/reliverse/rempts) - 🐦‍🔥 @reliverse/rempts is a modern, type-safe toolkit for building delightful cli experiences. it's fast, flexible, and made for developer happiness. file-based commands keep things simple—no clutter, 
@@ -2316,6 +2317,7 @@
 
 ## llm 
 
+- [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [atomicmemory/llm-wiki-compiler](https://github.com/atomicmemory/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -2578,6 +2580,7 @@
 
 ## mcp 
 
+- [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 100+ tool MCP server for real-time global intelligence — markets, FX, bonds, earnings, SEC filings, conflict, military, cyber, climate, news, company enrichment, and 30+ domains. Live Leaflet dashboar
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
@@ -2854,7 +2857,7 @@
 - [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - File-based JSON database for TypeScript, with a simple query builder.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [Level/abstract-level](https://github.com/Level/abstract-level) - Abstract class for a lexicographically sorted key-value database.
-- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples, fancy and practical diagrams and unit tests ✅
+- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples in TypeScript, practical diagrams and unit tests ✅
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -3056,6 +3059,15 @@
 
 ## others 
 
+- [ondrej-svec/heart-of-gold-toolkit](https://github.com/ondrej-svec/heart-of-gold-toolkit) - Heart of Gold toolkit — distributable Claude Code plugin marketplace
+- [0xKobold/pi-gateway](https://github.com/0xKobold/pi-gateway) - 
+- [lllyasviel/VCC](https://github.com/lllyasviel/VCC) - Compile agent conversations!
+- [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc) - Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-preserving summaries using pure extraction and formatting.
+- [hjanuschka/pi-multi-pass](https://github.com/hjanuschka/pi-multi-pass) - Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)
+- [getcompanion-ai/feynman](https://github.com/getcompanion-ai/feynman) - 
+- [nicobailon/pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell) - Pi coding agent extension that allows Pi to autonomously control interactive CLIs in an observable overlay. Full PTY emulation, no  tmux, token efficient. User can take over anytime.
+- [burggraf/pi-teams](https://github.com/burggraf/pi-teams) - 
+- [marcfargas/pi-test-harness](https://github.com/marcfargas/pi-test-harness) - Test harness for pi extensions — playbook-based model mocking, session testing, sandbox install verification
 - [mugnavo/tanstarter-plus](https://github.com/mugnavo/tanstarter-plus) - Vite+ monorepo template with 🏝️ TanStack Start, Better Auth, Drizzle ORM, shadcn/ui
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [zenobi-us/pi-extension-config](https://github.com/zenobi-us/pi-extension-config) - 
@@ -3317,7 +3329,7 @@
 - [nielsvoss/lean-pitfalls](https://github.com/nielsvoss/lean-pitfalls) - Documenting common pitfalls and footguns in Lean
 - [shicks/chartty](https://github.com/shicks/chartty) - Pure JS library for making scatter plots in the terminal with braille dots
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
-- [identellica/termplot](https://github.com/identellica/termplot) - Beautiful plots in your terminal.
+- [astrohackercode/termplot](https://github.com/astrohackercode/termplot) - Beautiful plots in your terminal.
 - [jpb06/effect-octokit-layer](https://github.com/jpb06/effect-octokit-layer) - Github Octokit layer for effect
 - [marcellopz/Effect-learning](https://github.com/marcellopz/Effect-learning) - Effect library exercises
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -4690,7 +4702,7 @@
 - [nemmtor/ts-databuilders](https://github.com/nemmtor/ts-databuilders) - Generator for TypeScript DataBuilders
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
 - [mikavilpas/tui-sandbox](https://github.com/mikavilpas/tui-sandbox) - 🧪 A terminal test environment and development playground 🛝
-- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples, fancy and practical diagrams and unit tests ✅
+- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples in TypeScript, practical diagrams and unit tests ✅
 - [antiwork/shortest](https://github.com/antiwork/shortest) - QA via natural language AI tests
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync) - Open Source Data Security Platform for Developers to Monitor and Detect PII, Anonymize Production Data and Sync it across environments.
@@ -4749,6 +4761,7 @@
 
 ## typescript 
 
+- [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app.
 - [mpsuesser/effect-autoagent](https://github.com/mpsuesser/effect-autoagent) - Framework for building, optimizing, and deploying AI agents as Effect services. Define an agent as a declarative blueprint. Run it against benchmarks.
 - [mpsuesser/effect-oxlint](https://github.com/mpsuesser/effect-oxlint) - Write oxlint custom lint rules with Effect v4
@@ -4811,7 +4824,7 @@
 - [loganzartman/zecs](https://github.com/loganzartman/zecs) - strongly-typed, functional, unopinionated, fast-enough entity-component-system system for hobby use
 - [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
 - [BetrixDev/standard-rule-engine](https://github.com/BetrixDev/standard-rule-engine) - A type-safe rule engine using the Standard Schema for fact validation
-- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples, fancy and practical diagrams and unit tests ✅
+- [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples in TypeScript, practical diagrams and unit tests ✅
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - AI-Native Open-Source Next.js commerce. Powered by Stripe. Ultra fast with typesafe Commerce SDK. Built for AI development (Claude, Codex,   Cursor).
 - [zaiste/wren](https://github.com/zaiste/wren) - A small, but powerful HTTP library for Deno & Deno Deploy, built for convenience and simplicity
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.

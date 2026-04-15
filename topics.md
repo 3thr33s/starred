@@ -3059,6 +3059,7 @@
 
 ## others 
 
+- [mattpocock/sandcastle](https://github.com/mattpocock/sandcastle) - Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()
 - [ondrej-svec/heart-of-gold-toolkit](https://github.com/ondrej-svec/heart-of-gold-toolkit) - Heart of Gold toolkit — distributable Claude Code plugin marketplace
 - [0xKobold/pi-gateway](https://github.com/0xKobold/pi-gateway) - 
 - [lllyasviel/VCC](https://github.com/lllyasviel/VCC) - Compile agent conversations!
@@ -4308,6 +4309,7 @@
 
 ## rust 
 
+- [gustavonline/pi-desktop](https://github.com/gustavonline/pi-desktop) - Native desktop shell for Pi Coding Agent (Tauri + Lit), extension-first and multi-session aware
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
@@ -4761,6 +4763,7 @@
 
 ## typescript 
 
+- [gustavonline/pi-desktop](https://github.com/gustavonline/pi-desktop) - Native desktop shell for Pi Coding Agent (Tauri + Lit), extension-first and multi-session aware
 - [nicobailon/pi-web-access](https://github.com/nicobailon/pi-web-access) - Web search and content extraction extension for Pi coding agent
 - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Code-first products, handles Stripe, webhooks, and usage state, runs in your app.
 - [mpsuesser/effect-autoagent](https://github.com/mpsuesser/effect-autoagent) - Framework for building, optimizing, and deploying AI agents as Effect services. Define an agent as a declarative blueprint. Run it against benchmarks.

@@ -323,6 +323,7 @@
 
 ## ai 
 
+- [cortexkit/aft](https://github.com/cortexkit/aft) - Tree-sitter powered code analysis tools for AI coding agents
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
 - [jwynia/context-networks](https://github.com/jwynia/context-networks) - Context Networks: A collaborative framework for human-AI knowledge management focused on relationships between information rather than just storage. Includes guides and templates for creating evolving
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -500,6 +501,7 @@
 
 ## ai-agents 
 
+- [cortexkit/aft](https://github.com/cortexkit/aft) - Tree-sitter powered code analysis tools for AI coding agents
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [DannyMac180/openclaw-operator](https://github.com/DannyMac180/openclaw-operator) - OpenClaw Operator gives coding agents like Codex and Claude Code the context and playbooks needed to set up, validate, and troubleshoot a local OpenClaw installation.
 - [Hawksight-AI/semantica](https://github.com/Hawksight-AI/semantica) - Semantica 🧠 — A framework for building semantic layers, context graphs, and decision intelligence systems with explainability and provenance.
@@ -3075,6 +3077,7 @@
 
 ## others 
 
+- [Leonxlnx/faight](https://github.com/Leonxlnx/faight) - 2.5D top-down tower defense built with Phaser and AI icon towers.
 - [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
@@ -3351,7 +3354,7 @@
 - [nielsvoss/lean-pitfalls](https://github.com/nielsvoss/lean-pitfalls) - Documenting common pitfalls and footguns in Lean
 - [shicks/chartty](https://github.com/shicks/chartty) - Pure JS library for making scatter plots in the terminal with braille dots
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
-- [astrohackercode/termplot](https://github.com/astrohackercode/termplot) - Beautiful plots in your terminal.
+- [astrohackerlabs/termplot](https://github.com/astrohackerlabs/termplot) - Beautiful plots in your terminal.
 - [jpb06/effect-octokit-layer](https://github.com/jpb06/effect-octokit-layer) - Github Octokit layer for effect
 - [marcellopz/Effect-learning](https://github.com/marcellopz/Effect-learning) - Effect library exercises
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -5173,6 +5176,7 @@
 
 ## webapp 
 
+- [JTruax/resonance-sound-frequencies](https://github.com/JTruax/resonance-sound-frequencies) - Resonance is an open source project with two main parts. 1: Free-to-use web app for sound therapy. 2: A knowledge base markdown file compiled on 29 academic resource documents on sound frequencies and
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## webpack 

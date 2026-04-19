@@ -269,6 +269,7 @@
 
 ## HTML 
 
+- [JTruax/resonance-sound-frequencies](https://github.com/JTruax/resonance-sound-frequencies) - Resonance is an open source project with two main parts. 1: Free-to-use web app for sound therapy. 2: A knowledge base markdown file compiled on 29 academic resource documents on sound frequencies and
 - [pbakaus/radiant](https://github.com/pbakaus/radiant) - A curated collection of generative shader art
 - [tc39/proposal-first-class-protocols](https://github.com/tc39/proposal-first-class-protocols) - a proposal to bring protocol-based interfaces to ECMAScript users
 - [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
@@ -982,6 +983,7 @@
 
 ## Rust 
 
+- [cortexkit/aft](https://github.com/cortexkit/aft) - Tree-sitter powered code analysis tools for AI coding agents
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
 - [msmps/pilotty](https://github.com/msmps/pilotty) - Daemon-managed PTY sessions for AI agents to interact with terminal applications
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -1171,6 +1173,7 @@
 
 ## TypeScript 
 
+- [Leonxlnx/faight](https://github.com/Leonxlnx/faight) - 2.5D top-down tower defense built with Phaser and AI icon towers.
 - [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki) - Handwriting animation for the web. Supports any font or text.
@@ -1451,7 +1454,7 @@
 - [shicks/chartty](https://github.com/shicks/chartty) - Pure JS library for making scatter plots in the terminal with braille dots
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 - [antvis/G2](https://github.com/antvis/G2) - 📊 The concise and progressive visualization grammar.
-- [astrohackercode/termplot](https://github.com/astrohackercode/termplot) - Beautiful plots in your terminal.
+- [astrohackerlabs/termplot](https://github.com/astrohackerlabs/termplot) - Beautiful plots in your terminal.
 - [jpb06/effect-octokit-layer](https://github.com/jpb06/effect-octokit-layer) - Github Octokit layer for effect
 - [marcellopz/Effect-learning](https://github.com/marcellopz/Effect-learning) - Effect library exercises
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor

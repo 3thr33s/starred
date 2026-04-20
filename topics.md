@@ -659,6 +659,7 @@
 ## automation 
 
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Claude engineer that captures traffic, writes documentation and automatically generates API clients. Reverse engineer APIs!
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node
 - [lucasvtiradentes/chrome-cmd](https://github.com/lucasvtiradentes/chrome-cmd) - 🌐 interact your Chrome browser from the command line
 - [RageAgainstThePixel/unity-cli](https://github.com/RageAgainstThePixel/unity-cli) - A command line utility for the Unity Game Engine
@@ -3101,7 +3102,7 @@
 - [cv/pi-ssh-remote](https://github.com/cv/pi-ssh-remote) - Pi extension that redirects all file operations and commands to a remote host via SSH
 - [ben-vargas/pi-packages](https://github.com/ben-vargas/pi-packages) - Packages for Pi - extensions, skills, prompt templates, and themes.
 - [ogulcancelik/pi-extensions](https://github.com/ogulcancelik/pi-extensions) - Extensions for pi, the terminal-based coding agent
-- [aliou/pi-harness](https://github.com/aliou/pi-harness) - 
+- [aliou/pi-harness](https://github.com/aliou/pi-harness) - My pi setup: tools and prompts for multi model agentic coding
 - [zenobi-us/bun-module](https://github.com/zenobi-us/bun-module) - 
 - [zenobi-us/dotfiles](https://github.com/zenobi-us/dotfiles) - my workstation setup for linux, windows and mac
 - [pbakaus/radiant](https://github.com/pbakaus/radiant) - A curated collection of generative shader art
@@ -4324,6 +4325,7 @@
 
 ## reverse-engineering 
 
+- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - Claude engineer that captures traffic, writes documentation and automatically generates API clients. Reverse engineer APIs!
 - [sim642/whatpulse](https://github.com/sim642/whatpulse) - WhatPulse reverse engineered
 
 ## robotics 

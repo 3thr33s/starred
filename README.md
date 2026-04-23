@@ -90,7 +90,6 @@
 - [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB) - A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).
 - [williamcotton/webpipe-c](https://github.com/williamcotton/webpipe-c) - An experimental web server runtime that processes HTTP requests through declarative pipeline configurations. Built in C with libmicrohttpd and JSON data flow between pipeline steps.
 - [kamel-usp/dpasp](https://github.com/kamel-usp/dpasp) - Differentiable probabilistic answer set programming
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -321,7 +320,7 @@
 
 ## JavaScript 
 
-- [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+- [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [kunchenguid/kunchenguid-design-system](https://github.com/kunchenguid/kunchenguid-design-system) - A consistent design system for my content
 - [kunchenguid/harness-exam](https://github.com/kunchenguid/harness-exam) - 
@@ -571,6 +570,8 @@
 
 ## Others 
 
+- [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
+- [danielrosehill/Monitoring-The-Situation](https://github.com/danielrosehill/Monitoring-The-Situation) - Curated index of open-source projects for situational awareness, geopolitical monitoring, and information-fusion dashboards (news grids, video walls, ops-center COPs).
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
 - [jwynia/context-networks](https://github.com/jwynia/context-networks) - Context Networks: A collaborative framework for human-AI knowledge management focused on relationships between information rather than just storage. Includes guides and templates for creating evolving
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -730,6 +731,8 @@
 
 ## Python 
 
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness that enables LLMs to complete any task.
+- [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Reference code for the Meta-Harness paper.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [ondrej-svec/heart-of-gold-toolkit](https://github.com/ondrej-svec/heart-of-gold-toolkit) - Heart of Gold toolkit — distributable Claude Code plugin marketplace
 - [lllyasviel/VCC](https://github.com/lllyasviel/VCC) - Compile agent conversations!
@@ -985,6 +988,9 @@
 
 ## Rust 
 
+- [tobi/s](https://github.com/tobi/s) - 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [Epistates/pmetal](https://github.com/Epistates/pmetal) - Powdered Metal — High performance LLM fine-tuning framework for Apple Silicon
 - [cortexkit/aft](https://github.com/cortexkit/aft) - Tree-sitter powered code analysis tools for AI coding agents
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
 - [msmps/pilotty](https://github.com/msmps/pilotty) - Daemon-managed PTY sessions for AI agents to interact with terminal applications
@@ -1174,6 +1180,8 @@
 
 ## TypeScript 
 
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
+- [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 - [davidorex/pi-project-workflows](https://github.com/davidorex/pi-project-workflows) - A set of pi extensions that allow users and llm's to craft customized project and workflow management setups that conform to their particular needs and desires. Goal: users don't need to submit issues
 - [Leonxlnx/faight](https://github.com/Leonxlnx/faight) - 2.5D top-down tower defense built with Phaser and AI icon towers.
 - [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform
@@ -1247,7 +1255,7 @@
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [wevm/incur](https://github.com/wevm/incur) - CLI framework for agents and humans
-- [IliasHad/edit-mind](https://github.com/IliasHad/edit-mind) - Local-first AI video intelligence platform. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready.
+- [IliasHad/edit-mind](https://github.com/IliasHad/edit-mind) - Local-first Video Knowledge Base. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready.
 - [alchemy-run/distilled](https://github.com/alchemy-run/distilled) - Effect-native SDKs for cloud providers
 - [tim-smart/dfx](https://github.com/tim-smart/dfx) - A Discord library for effect-ts
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
@@ -1812,7 +1820,6 @@
 - [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
 - [VapiAI/mcp-server](https://github.com/VapiAI/mcp-server) - Vapi MCP Server
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
-- [cmgriffing/giffium](https://github.com/cmgriffing/giffium) - Create and share beautiful gifs of your source code diffs.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
@@ -2035,6 +2042,7 @@
 - [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF reader for terminal emulators using the Kitty image protocol
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 ## hoon 
 

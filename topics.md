@@ -323,6 +323,7 @@
 
 ## ai 
 
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - Powdered Metal — High performance LLM fine-tuning framework for Apple Silicon
 - [cortexkit/aft](https://github.com/cortexkit/aft) - Tree-sitter powered code analysis tools for AI coding agents
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
@@ -1346,7 +1347,7 @@
 
 - [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
-- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - File-based JSON database for TypeScript, with a simple query builder.
+- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - Zero-dependency embedded database storing JSON to files with query builder featuring filters, updates, and nested path support.
 - [Level/abstract-level](https://github.com/Level/abstract-level) - Abstract class for a lexicographically sorted key-value database.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
@@ -1955,7 +1956,6 @@
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [MrKai77/DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) - Seamlessly adapt your macOS app to the notch era.
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [zumerlab/orbit](https://github.com/zumerlab/orbit) - 💫 Orbit is a framework designed for building any kind of radial UI.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -2241,7 +2241,7 @@
 
 - [pickier/pickier](https://github.com/pickier/pickier) - Fast linting and formatting. Minimal defaults. Extensible. Built for speed.
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
-- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - File-based JSON database for TypeScript, with a simple query builder.
+- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - Zero-dependency embedded database storing JSON to files with query builder featuring filters, updates, and nested path support.
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [akmjenkins/json-schema-rules-engine](https://github.com/akmjenkins/json-schema-rules-engine) - A highly configurable and dynamic rules engine based on JSON Schema
 - [mithunsatheesh/node-rules](https://github.com/mithunsatheesh/node-rules) - Node-rules is a light weight forward chaining rule engine that can be used in JavaScript and TypeScript based projects.
@@ -2643,7 +2643,7 @@
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
-- [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
+- [punkpeye/vitemcp](https://github.com/punkpeye/vitemcp) - A TypeScript framework for building MCP servers.
 - [jem-computer/capacities-mcp](https://github.com/jem-computer/capacities-mcp) - Capacities×MCP
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [boltmcp/boltmcp](https://github.com/boltmcp/boltmcp) - 
@@ -2880,7 +2880,7 @@
 - [marcj/deepkit](https://github.com/marcj/deepkit) - modular high-performance TypeScript framework
 - [NeaByteLab/Merkle-Tree](https://github.com/NeaByteLab/Merkle-Tree) - A TypeScript checkpoint management system using Merkle trees for file integrity verification and project state restoration capabilities.
 - [NeaByteLab/Ollama-Native](https://github.com/NeaByteLab/Ollama-Native) - TypeScript client library for Ollama API with retry logic, timeout management, error handling, and validation.
-- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - File-based JSON database for TypeScript, with a simple query builder.
+- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - Zero-dependency embedded database storing JSON to files with query builder featuring filters, updates, and nested path support.
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [Level/abstract-level](https://github.com/Level/abstract-level) - Abstract class for a lexicographically sorted key-value database.
 - [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples in TypeScript, practical diagrams and unit tests ✅
@@ -3087,6 +3087,7 @@
 
 ## others 
 
+- [jamiepine/keytap](https://github.com/jamiepine/keytap) - Cross-platform, observe-only global keyboard taps with left/right modifier fidelity and clean shutdown. macOS, Windows, and Linux (evdev, works on Wayland).
 - [tobi/s](https://github.com/tobi/s) - 
 - [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
@@ -4858,7 +4859,7 @@
 - [jessekelly881/effect-schema-compilers](https://github.com/jessekelly881/effect-schema-compilers) - Compilers for @effect/schema
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [leonitousconforti/the-wireguard-effect](https://github.com/leonitousconforti/the-wireguard-effect) - Cross platform wireguard api client for nodejs built on wireguard-go with effect-ts
-- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - File-based JSON database for TypeScript, with a simple query builder.
+- [NeaByteLab/Jsonary](https://github.com/NeaByteLab/Jsonary) - Zero-dependency embedded database storing JSON to files with query builder featuring filters, updates, and nested path support.
 - [leonitousconforti/effect-schemas](https://github.com/leonitousconforti/effect-schemas) - Effect schemas used in multiple of my other projects
 - [devx-op/effectify](https://github.com/devx-op/effectify) - Monorepo of utilities for integrating Effect with different frameworks and libraries.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript

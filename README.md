@@ -990,6 +990,8 @@
 
 ## Rust 
 
+- [prime-radiant-inc/books-for-bots](https://github.com/prime-radiant-inc/books-for-bots) - Rust CLI that converts EPUBs to YAML-headed markdown with byte/line offsets per chapter, for token-efficient agent reading
+- [terminaltrove/moltbook-tui](https://github.com/terminaltrove/moltbook-tui) - A TUI client for Moltbook, the social network for AI Agents.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [YuniqueUnic/schemaui](https://github.com/YuniqueUnic/schemaui) - schemaui turns JSON Schema documents into fully interactive terminal UIs powered by ratatui, crossterm, and jsonschema.  The library parses rich schemas (nested sections, $ref, arrays, key/value maps,
 - [jamiepine/keytap](https://github.com/jamiepine/keytap) - Cross-platform, observe-only global keyboard taps with left/right modifier fidelity and clean shutdown. macOS, Windows, and Linux (evdev, works on Wayland).
@@ -1187,7 +1189,10 @@
 
 ## TypeScript 
 
-- [mpsuesser/pi-effect-harness](https://github.com/mpsuesser/pi-effect-harness) - Pi and Effect v4
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
+- [cloudflare/templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
+- [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
+- [kitlangton/oc-plugin-goblin-mode](https://github.com/kitlangton/oc-plugin-goblin-mode) - 
 - [benjamin-kraatz/effect-cursor-sdk](https://github.com/benjamin-kraatz/effect-cursor-sdk) - Effect wrapper around the Cursor SDK
 - [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) - pierre’s open source code
 - [openai/realtime-voice-component](https://github.com/openai/realtime-voice-component) - 
@@ -1878,7 +1883,7 @@
 - [Subwaytime/vite-aliases](https://github.com/Subwaytime/vite-aliases) - Alias auto generation for Vite
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse) - A lightweight, unstyled, and composable emoji picker for React.
-- [bpevs/bext](https://github.com/bpevs/bext) - Tools for Deno-Powered Web Extensions
+- [bpevs/bext](https://github.com/bpevs/bext) - Moved to https://tangled.org/bpev.me/bext
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)

@@ -322,6 +322,7 @@
 
 ## JavaScript 
 
+- [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [kunchenguid/kunchenguid-design-system](https://github.com/kunchenguid/kunchenguid-design-system) - A consistent design system for my content
@@ -572,6 +573,8 @@
 
 ## Others 
 
+- [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
+- [cameronapak/jstack](https://github.com/cameronapak/jstack) - What if your tech stack and software approach was infused with the teachings and values of Jesus?
 - [blader/humanizer](https://github.com/blader/humanizer) - Claude Code skill that removes signs of AI-generated writing from text
 - [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
 - [danielrosehill/Monitoring-The-Situation](https://github.com/danielrosehill/Monitoring-The-Situation) - Curated index of open-source projects for situational awareness, geopolitical monitoring, and information-fusion dashboards (news grids, video walls, ops-center COPs).
@@ -664,7 +667,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
@@ -733,6 +736,7 @@
 
 ## Python 
 
+- [hyun06000/AIL](https://github.com/hyun06000/AIL) - A programming language designed for AI as the primary author of code
 - [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Reference code for the Meta-Harness paper.
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
@@ -1007,7 +1011,7 @@
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [ll-nick/leadr](https://github.com/ll-nick/leadr) - Shell aliases on steroids
@@ -1189,6 +1193,12 @@
 
 ## TypeScript 
 
+- [kitlangton/ghui](https://github.com/kitlangton/ghui) - A GitHub TUI
+- [mw10013/tanstack-cloudflare-effect-shopify-app](https://github.com/mw10013/tanstack-cloudflare-effect-shopify-app) - Port of the Shopify App Template to TanStack Start + Cloudflare Workers + Effect v4.
+- [cevr/gent](https://github.com/cevr/gent) - A gentle giant for agentic work. Minimal harness, maximal leverage.
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
+- [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - The universal interface between AI agents and the world's software. CLI-native discovery, execution, verification, and self-repair across web, desktop, local tools, and external CLIs.
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [cloudflare/templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
@@ -1376,9 +1386,8 @@
 - [mixedbread-ai/mgrep](https://github.com/mixedbread-ai/mgrep) - A calm, CLI-native way to semantically grep everything, like code, images, pdfs and more.
 - [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind) - AI for Screeps, a multiplayer programming strategy game
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
-- [lucasvtiradentes/chrome-cmd](https://github.com/lucasvtiradentes/chrome-cmd) - 🌐 interact your Chrome browser from the command line
 - [loderunner/typelit](https://github.com/loderunner/typelit) - A type-safe string templating library for TypeScript
-- [RageAgainstThePixel/unity-cli](https://github.com/RageAgainstThePixel/unity-cli) - A command line utility for the Unity Game Engine
+- [RageAgainstThePixel/unity-cli](https://github.com/RageAgainstThePixel/unity-cli) - An all-in-one command line utility for the Unity Game Engine
 - [nemmtor/ts-databuilders](https://github.com/nemmtor/ts-databuilders) - Generator for TypeScript DataBuilders
 - [thalysguimaraes/ghostty-layouts-raycast](https://github.com/thalysguimaraes/ghostty-layouts-raycast) - A Raycast extension that brings terminal layout management to Ghostty. Create, manage, and launch complex terminal layouts easily
 - [nivalis-studio/lazyvercel](https://github.com/nivalis-studio/lazyvercel) - A beautiful Terminal User Interface (TUI) for managing Vercel deployments, built with Bun and OpenTUI.
@@ -1723,7 +1732,7 @@
 - [AltriusRS/Shumai](https://github.com/AltriusRS/Shumai) - A delicious new outlook on command line argument handling.
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework, powered by React + Vite.
+- [wevm/vocs](https://github.com/wevm/vocs) - Minimal Documentation Framework
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.

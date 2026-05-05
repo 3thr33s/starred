@@ -24,7 +24,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -274,7 +273,7 @@
 - [JTruax/resonance-sound-frequencies](https://github.com/JTruax/resonance-sound-frequencies) - Resonance is an open source project with two main parts. 1: Free-to-use web app for sound therapy. 2: A knowledge base markdown file compiled on 29 academic resource documents on sound frequencies and
 - [pbakaus/radiant](https://github.com/pbakaus/radiant) - A curated collection of generative shader art
 - [tc39/proposal-first-class-protocols](https://github.com/tc39/proposal-first-class-protocols) - a proposal to bring protocol-based interfaces to ECMAScript users
-- [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
+- [remorses/playwriter](https://github.com/remorses/playwriter) - Chrome extension & CLI to let agents control your browser. Runs Playwright snippets in a stateful sandbox. Available as CLI or MCP
 - [finos/legend](https://github.com/finos/legend) - The Legend project
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [KroneCorylus/ghostty-shader-playground](https://github.com/KroneCorylus/ghostty-shader-playground) - Personal space for learn and develop shaders
@@ -305,10 +304,6 @@
 
 - [tidalcycles/Tidal](https://github.com/tidalcycles/Tidal) - Pattern language
 - [jwiegley/notes](https://github.com/jwiegley/notes) - 
-
-## JSON 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Java 
 
@@ -543,6 +538,7 @@
 
 ## Markdown 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -798,7 +794,7 @@
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [ccmdi/osintbench](https://github.com/ccmdi/osintbench) - OSINT benchmark for language models
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent, and predictable customer interactions with LLMs.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [cased/kit](https://github.com/cased/kit) - The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.
 - [shobrook/saplings](https://github.com/shobrook/saplings) - Plug-and-play tree search for agents
 - [shobrook/promptimal](https://github.com/shobrook/promptimal) - A very fast, very minimal prompt optimizer
@@ -833,7 +829,7 @@
 - [microsoft/LoRA](https://github.com/microsoft/LoRA) - Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz biomolecular interaction models
 - [ptarau/recursors](https://github.com/ptarau/recursors) - Full Automation of Goal-driven LLM Dialog Threads with And-Or Recursors and Refiner Oracles
-- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
+- [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - A generative world for general-purpose robotics & embodied AI learning.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Web UI for training and running open models like Gemma 4, Qwen3.6, DeepSeek, gpt-oss locally.
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
@@ -841,7 +837,7 @@
 - [gornskew/lisply-mcp](https://github.com/gornskew/lisply-mcp) - Model Context Protocol (MCP) server to manage and talk to compliant "Lisply" lisp-speaking backend services
 - [daviddebot/CMR](https://github.com/daviddebot/CMR) - Code for Interpretable Concept-Based Memory Reasoning (NeurIPS 2024)
 - [geru-scotland/echoes-of-gaia](https://github.com/geru-scotland/echoes-of-gaia) - An intelligent, multi-agent framework for artificial biome simulation.
-- [ExtensityAI/ontology-hydra](https://github.com/ExtensityAI/ontology-hydra) - MCP server for building and exploring OWL 2 ontologies with AI agents.
+- [ExtensityAI/ontoloom](https://github.com/ExtensityAI/ontoloom) - MCP server for building and exploring OWL 2 ontologies with AI agents.
 - [Heimerd1nger/awesome-constraint-learning](https://github.com/Heimerd1nger/awesome-constraint-learning) - A list of awesome resources related to constraint learning
 - [alexafirssoff/openhelos](https://github.com/alexafirssoff/openhelos) - An experimental codebase developed to empirically investigate several phenomena predicted by the theoretical framework proposed in the associated research paper, grounded in the Free Energy Principle
 - [HectorMozo3110/meta_cognitive_self_model_agents](https://github.com/HectorMozo3110/meta_cognitive_self_model_agents) - Modular framework for building self-modeling artificial agents with explicit internal state representation and meta-cognitive capabilities. Includes RL, hybrid, and dummy policies with integrated Self
@@ -1193,12 +1189,13 @@
 
 ## TypeScript 
 
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [kitlangton/ghui](https://github.com/kitlangton/ghui) - A GitHub TUI
 - [mw10013/tanstack-cloudflare-effect-shopify-app](https://github.com/mw10013/tanstack-cloudflare-effect-shopify-app) - Port of the Shopify App Template to TanStack Start + Cloudflare Workers + Effect v4.
 - [cevr/gent](https://github.com/cevr/gent) - A gentle giant for agentic work. Minimal harness, maximal leverage.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering official style beginner tutorial, from 0 to 1
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
-- [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - The universal interface between AI agents and the world's software. CLI-native discovery, execution, verification, and self-repair across web, desktop, local tools, and external CLIs.
+- [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Command-grade software access for AI agents. 235+ websites, desktop apps, MCP servers, and external CLIs as one searchable, self-repairing CLI catalog. YAML adapters, structured error envelopes, ~80 t
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [cloudflare/templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
 - [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
@@ -1529,7 +1526,7 @@
 - [BetrixDev/standard-rule-engine](https://github.com/BetrixDev/standard-rule-engine) - A type-safe rule engine using the Standard Schema for fact validation
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
 - [vahidvdn/realworld-design-patterns](https://github.com/vahidvdn/realworld-design-patterns) - Design Patterns with real world examples in TypeScript, practical diagrams and unit tests ✅
-- [remvze-org/lowfi](https://github.com/remvze-org/lowfi) - 🎻 Play lofi music through your terminal.
+- [remvze/lowfi](https://github.com/remvze/lowfi) - 🎻 A SomaFM client for your terminal.
 - [ChrisRoyse/CodeGraph](https://github.com/ChrisRoyse/CodeGraph) - 
 - [gannonh/memento-mcp](https://github.com/gannonh/memento-mcp) - Memento MCP: A Knowledge Graph Memory System for LLMs
 - [stakwork/stakgraph](https://github.com/stakwork/stakgraph) - A source code parser using treesitter, LSP, and neo4j, powering software knowledge graphs for AI agents.
@@ -1709,7 +1706,7 @@
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi) - Hono middleware to generate OpenAPI Swagger documentation
-- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, calculations, and dev tools in one local-first app
+- [massCodeIO/massCode](https://github.com/massCodeIO/massCode) - A free, open-source developer workspace. Snippets, notes, HTTP requests, calculations, and dev tools in one local-first app.
 - [SawyerHood/tlbrowse](https://github.com/SawyerHood/tlbrowse) - Generate imagined websites on an infinite canvas
 - [DannyMac180/meta-agent](https://github.com/DannyMac180/meta-agent) - An agent that uses OpenAI's Agents SDK to generate new agents
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
@@ -1785,7 +1782,6 @@
 - [jersou/clite-parser](https://github.com/jersou/clite-parser) - CliteParser generates CLI from classes (or objects) : each method generates a "command", each field generates an "option"
 - [dbos-inc/dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) - Database-Backed Durable TypeScript Workflows
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
-- [cotyhamilton/deno-lints](https://github.com/cotyhamilton/deno-lints) - deno lint plugin
 - [mizchi/deno-lint-plugin-do-try](https://github.com/mizchi/deno-lint-plugin-do-try) - 
 - [themeselection/flyonui](https://github.com/themeselection/flyonui) - 🚀 The easiest, free and open-source Tailwind CSS component library with semantic classes.
 - [baconjs/bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript

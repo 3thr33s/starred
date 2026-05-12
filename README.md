@@ -322,7 +322,7 @@
 ## JavaScript 
 
 - [kunchenguid/autopreso](https://github.com/kunchenguid/autopreso) - Realtime speech to presentation. Let the whiteboard whiteboard itself.
-- [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - Supercharge Codex Goals
+- [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - Give your /goal a best friend
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
@@ -1129,7 +1129,7 @@
 
 ## Shell 
 
-- [asimovinc/asimov-v1](https://github.com/asimovinc/asimov-v1) - v1 of Asimov, an open-source humanoid robot
+- [asimovinc/asimov-1](https://github.com/asimovinc/asimov-1) - v1 of Asimov, an open-source humanoid robot
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [zenobi-us/bun-module](https://github.com/zenobi-us/bun-module) - 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -1282,7 +1282,7 @@
 - [joshpuckett/pasito](https://github.com/joshpuckett/pasito) - A tiny, themeable, dependency-free fluid stepper component.
 - [joshpuckett/bloom](https://github.com/joshpuckett/bloom) - A morphing pull-down button component for react.
 - [savvy-web/github-action-effects](https://github.com/savvy-web/github-action-effects) - Library of helper functions for building bulletproof Node.js 24 GitHub Actions with Effect
-- [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - I'm going to build my own OpenClaw, with blackjack... and bun!
+- [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
 - [aidenybai/element-source](https://github.com/aidenybai/element-source) - Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid, Preact
@@ -1301,7 +1301,7 @@
 - [tim-smart/dfx](https://github.com/tim-smart/dfx) - A Discord library for effect-ts
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework
 - [withastro/flue](https://github.com/withastro/flue) - The sandbox agent framework.
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 - [artimath/effect-skills](https://github.com/artimath/effect-skills) - Effect-TS skills for AI coding agents
 - [veithly/rss-mcp](https://github.com/veithly/rss-mcp) - This is a Model Context Protocol (MCP) server built with TypeScript. It provides a versatile tool to fetch and parse any standard RSS/Atom feed, and also includes special support for RSSHub feeds.

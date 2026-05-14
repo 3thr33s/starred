@@ -326,6 +326,7 @@
 
 ## agents 
 
+- [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 - [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 - [remorses/gitchamber](https://github.com/remorses/gitchamber) - Download GitHub repos locally. opensrc alternative that does not edit your AGENTS.md
@@ -810,14 +811,14 @@
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [bilalonur/awesome-llm-os](https://github.com/bilalonur/awesome-llm-os) - A curated list of awesome resources, tools, research papers, and projects related to the concept of Large Language Model Operating Systems (LLM-OS).
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source) - Track Awesome List Source Code, build with Deno.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
 
@@ -876,7 +877,7 @@
 - [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [bilalonur/awesome-llm-os](https://github.com/bilalonur/awesome-llm-os) - A curated list of awesome resources, tools, research papers, and projects related to the concept of Large Language Model Operating Systems (LLM-OS).
@@ -931,7 +932,7 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 - [bbugyi200/funky](https://github.com/bbugyi200/funky) - Funky takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells
@@ -1629,7 +1630,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [dmayboroda/minima](https://github.com/dmayboroda/minima) - On-premises conversational RAG with configurable containers
 
@@ -1965,6 +1966,7 @@
 
 ## google 
 
+- [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk) - A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
@@ -2037,7 +2039,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) - Clojure & ClojureScript Language Server (LSP) implementation
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [MrKai77/DynamicNotchKit](https://github.com/MrKai77/DynamicNotchKit) - Seamlessly adapt your macOS app to the notch era.
 - [zumerlab/orbit](https://github.com/zumerlab/orbit) - 💫 Orbit is a framework designed for building any kind of radial UI.
@@ -2695,6 +2697,7 @@
 
 ## mcp 
 
+- [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - A highly opinionated, zero-configuration linter and formatter.
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Command-grade software access for AI agents. 235+ websites, desktop apps, MCP servers, and external CLIs as one searchable, self-repairing CLI catalog. YAML adapters, structured error envelopes, ~80 t
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [XimilalaXiang/DeLive](https://github.com/XimilalaXiang/DeLive) - System audio capture + multi-provider ASR + local-first AI review workspace. Floating live captions, 12 ASR backends, 60+ languages, AI summary/chat/mindmap, Open API, MCP server, and Agent Skill.
@@ -3032,7 +3035,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bugthesystem/scientist.js](https://github.com/bugthesystem/scientist.js) - :microscope:  A JavaScript interpretation of the Ruby library Scientist, a library for carefully refactoring critical paths.
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 
@@ -3185,7 +3188,7 @@
 - [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 100+ tool MCP server for real-time global intelligence — markets, FX, bonds, earnings, SEC filings, conflict, military, cyber, climate, news, company enrichment, and 30+ domains. Live Leaflet dashboar
 - [ccmdi/osintbench](https://github.com/ccmdi/osintbench) - OSINT benchmark for language models
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
 ## others 
 
@@ -3382,7 +3385,6 @@
 - [wHoooHw/easyHousing](https://github.com/wHoooHw/easyHousing) - 
 - [front-depiction/Effect-FuzzyCache](https://github.com/front-depiction/Effect-FuzzyCache) - Bucket-based fuzzy cache extending Effect's Cache
 - [front-depiction/Effect-CRDTs](https://github.com/front-depiction/Effect-CRDTs) - 
-- [front-depiction/claude-setup](https://github.com/front-depiction/claude-setup) - Reusable Claude Code configuration for Effect TypeScript projects with specialized agents and skills
 - [dmmulroy/effect-cloudflare](https://github.com/dmmulroy/effect-cloudflare) - 
 - [brandonbryant12/effect-template](https://github.com/brandonbryant12/effect-template) - 
 - [effect-native/effect-native](https://github.com/effect-native/effect-native) - 
@@ -4030,13 +4032,13 @@
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) - Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.
 - [tf-encrypted/moose](https://github.com/tf-encrypted/moose) - Secure distributed dataflow framework for encrypted machine learning and data processing
@@ -4059,7 +4061,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## programming 
 
@@ -4119,7 +4121,7 @@
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## python 
 
@@ -4567,13 +4569,13 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord
 - [wisent-ai/wisent](https://github.com/wisent-ai/wisent) - This is an open-source version of the representation engineering framework for stopping harmful outputs or hallucinations on the level of activations. 100% free, self-hosted and open-source.
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) - Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
@@ -4582,7 +4584,7 @@
 
 - [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
 ## self-hosted 
 
@@ -4613,13 +4615,13 @@
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 
@@ -4667,7 +4669,7 @@
 
 ## software 
 
-- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
+- [lissy93/awesome-privacy](https://github.com/lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## solidity 
@@ -5287,7 +5289,7 @@
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [eclipsesource/jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - Smooth scroll at it should be
 
 ## vuejs 
@@ -5403,6 +5405,7 @@
 ## zsh 
 
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash/Ksh/Zsh
 - [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell
 - [bbugyi200/funky](https://github.com/bbugyi200/funky) - Funky takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
 - [shellspec/shellspec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells

@@ -1220,7 +1220,7 @@
 ## code-review 
 
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
-- [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 
 ## coding 
 
@@ -2427,6 +2427,7 @@
 ## llm 
 
 - [hyun06000/AIL](https://github.com/hyun06000/AIL) - A programming language designed for AI as the primary author of code
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration.
 - [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
 - [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) - Token-efficient MCP adapter for Pi coding agent
@@ -3221,7 +3222,6 @@
 - [jamiepine/keytap](https://github.com/jamiepine/keytap) - Cross-platform, observe-only global keyboard taps with left/right modifier fidelity and clean shutdown. macOS, Windows, and Linux (evdev, works on Wayland).
 - [tobi/s](https://github.com/tobi/s) - 
 - [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
-- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness) - Reference code for the Meta-Harness paper.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
@@ -4485,7 +4485,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [YuniqueUnic/schemaui](https://github.com/YuniqueUnic/schemaui) - schemaui turns JSON Schema documents into fully interactive terminal UIs powered by ratatui, crossterm, and jsonschema.  The library parses rich schemas (nested sections, $ref, arrays, key/value maps,
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [gustavonline/pi-desktop](https://github.com/gustavonline/pi-desktop) - Native desktop shell for Pi Coding Agent (Tauri + Lit), extension-first and multi-session aware
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [rivet-dev/rivet](https://github.com/rivet-dev/rivet) - Rivet Actors are the primitive for stateful workloads. Built for AI agents, collaborative apps, and durable execution.
@@ -4912,7 +4912,7 @@
 - [terminaltrove/moltbook-tui](https://github.com/terminaltrove/moltbook-tui) - A TUI client for Moltbook, the social network for AI Agents.
 - [YuniqueUnic/schemaui](https://github.com/YuniqueUnic/schemaui) - schemaui turns JSON Schema documents into fully interactive terminal UIs powered by ratatui, crossterm, and jsonschema.  The library parses rich schemas (nested sections, $ref, arrays, key/value maps,
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration.
-- [agavra/tuicr](https://github.com/agavra/tuicr) - a terminal UI for local code review
+- [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -4975,7 +4975,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
 - [samuelho-dev/monorepo-library-generator](https://github.com/samuelho-dev/monorepo-library-generator) - Generate well architected monorepo libraries based on Effect and Nx monorepos. Based on design architectures like Repository, Infrastructure Domain Driven Design, Contract, Adapter, and Feature librar
 - [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript) - Clean Code concepts adapted for TypeScript
@@ -5388,7 +5388,7 @@
 
 ## youtube 
 
-- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [Siriusmart/youtube-tui](https://github.com/Siriusmart/youtube-tui) - An aesthetically pleasing YouTube TUI written in Rust
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.

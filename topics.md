@@ -99,6 +99,7 @@
 - [flutter](#flutter)
 - [font](#font)
 - [framework](#framework)
+- [frameworks](#frameworks)
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
@@ -370,7 +371,7 @@
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [cyanheads/atlas-mcp-server](https://github.com/cyanheads/atlas-mcp-server) - A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing a three-tier architecture (Projects, Tasks, Knowledge) to manage complex workflows
@@ -545,7 +546,7 @@
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [zkonduit/ezkl](https://github.com/zkonduit/ezkl) - ezkl is an engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). Use it from Python, Javascript, or the command line.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -758,6 +759,7 @@
 
 ## awesome 
 
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [woop/awesome-quantified-self](https://github.com/woop/awesome-quantified-self) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
 - [slevithan/awesome-regex](https://github.com/slevithan/awesome-regex) - 🦉 A curated collection of regex tools, tutorials, libraries, etc.
@@ -824,6 +826,7 @@
 
 ## awesome-list 
 
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
 - [jslee02/awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) - :sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources
@@ -1290,7 +1293,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
 - [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) - Real-Time High-Resolution Background Matting
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 ## config 
 
@@ -1519,6 +1522,7 @@
 
 ## design 
 
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [Shpigford/studio](https://github.com/Shpigford/studio) - A suite of random, mostly weird, generative art tools!
 - [vercel-labs/web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines) - Guidelines for building interfaces on the Web.
@@ -1790,6 +1794,10 @@
 - [QuantGeekDev/mcp-framework](https://github.com/QuantGeekDev/mcp-framework) - The Typescript MCP Framework
 - [vortezwohl/Autono](https://github.com/vortezwohl/Autono) - A ReAct-Based Highly Robust Autonomous Agent (Harness) Framework.
 
+## frameworks 
+
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+
 ## frontend 
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -1812,6 +1820,7 @@
 
 ## game-development 
 
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 - [munificent/game-programming-patterns](https://github.com/munificent/game-programming-patterns) - Source repo for the book
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
@@ -1822,6 +1831,7 @@
 
 ## game-engine 
 
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 - [jslee02/awesome-entity-component-system](https://github.com/jslee02/awesome-entity-component-system) - :sunglasses: A curated list of Entity-Component-System (ECS) libraries and resources
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
@@ -1831,11 +1841,13 @@
 
 ## gamedev 
 
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [nikkorn/mistreevous](https://github.com/nikkorn/mistreevous) - A tool to build and execute behaviour trees in JavaScript and TypeScript
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 
 ## games 
 
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [home-lang/home](https://github.com/home-lang/home) - There is no language like Home.
 - [AlbericoD/overwolf-modern-react-boilerplate](https://github.com/AlbericoD/overwolf-modern-react-boilerplate) - OMRB is a free and open source opinionated boilerplate based on React that helps developers create fast, modular and modern overwolf app.
 - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
@@ -2015,6 +2027,7 @@
 
 ## hacktoberfest 
 
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
@@ -2533,7 +2546,7 @@
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
@@ -2605,7 +2618,7 @@
 - [rllm-org/rllm](https://github.com/rllm-org/rllm) - Democratizing Reinforcement Learning for LLMs
 - [lorepieri8/ai-techniques](https://github.com/lorepieri8/ai-techniques) - AI Techniques for the Modern Problem Solver
 - [tf-encrypted/moose](https://github.com/tf-encrypted/moose) - Secure distributed dataflow framework for encrypted machine learning and data processing
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models) - A curated list of awesome embedding models tutorials, projects and communities.
@@ -3192,6 +3205,7 @@
 
 ## others 
 
+- [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster) - An image-to-world skillset for Claude.
 - [wierdbytes/pi-wierd-stuff](https://github.com/wierdbytes/pi-wierd-stuff) - pi coding agent extensions
 - [kevinmichaelchen/effect-coffee-shop](https://github.com/kevinmichaelchen/effect-coffee-shop) - ☕ Effect-powered coffee ordering app exploring Onion Architecture with TypeScript, Bun, Cloudflare, MCP, and AI assistant tooling
 - [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library) - Official library of CLIs generated by the CLI Printing Press. Endorsed, tested, and community-contributed.
@@ -4043,7 +4057,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) - Awesome-Jailbreak-on-LLMs is a collection of state-of-the-art, novel, exciting jailbreak methods on LLMs. It contains papers, codes, datasets, evaluations, and analyses.
 - [tf-encrypted/moose](https://github.com/tf-encrypted/moose) - Secure distributed dataflow framework for encrypted machine learning and data processing
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 
 ## productivity 
 

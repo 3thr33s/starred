@@ -439,6 +439,7 @@
 - [styled-components/styled-theming](https://github.com/styled-components/styled-theming) - Create themes for your app using styled-components
 - [markodenic/web-development-resources](https://github.com/markodenic/web-development-resources) - Awesome Web Development Resources.
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
+- [udecode/dotai](https://github.com/udecode/dotai) - Context manager for all agents
 - [TodePond/CellPond](https://github.com/TodePond/CellPond) - surreal cellular automata
 - [TodePond/ScreenPond](https://github.com/TodePond/ScreenPond) - screens in screens in screens
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -1012,7 +1013,7 @@
 - [tobi/s](https://github.com/tobi/s) - 
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [Epistates/pmetal](https://github.com/Epistates/pmetal) - PMetal: high-performance Apple Silicon framework for local LLM inference, LoRA/QLoRA fine-tuning, serving, quantization, and MLX/Metal acceleration.
-- [cortexkit/aft](https://github.com/cortexkit/aft) - Motor/Sensor cortex of your agent. Efficient file manipulation and code diagnostics, semantic search, url/bash compression, background bash, PTY, fast grep/glob
+- [cortexkit/aft](https://github.com/cortexkit/aft) - Give your agent a proper IDE and OS. The sensorimotor cortex for coding agents (OpenCode + Pi), part of CortexKit: symbol-aware edits, semantic search, code health, fast grep/glob, bash compression, b
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [msmps/pilotty](https://github.com/msmps/pilotty) - Daemon-managed PTY sessions for AI agents to interact with terminal applications
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -1121,7 +1122,7 @@
 - [probelabs/probe](https://github.com/probelabs/probe) - AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.
 - [zkonduit/ezkl](https://github.com/zkonduit/ezkl) - ezkl is an engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). Use it from Python, Javascript, or the command line.
 - [tf-encrypted/moose](https://github.com/tf-encrypted/moose) - Secure distributed dataflow framework for encrypted machine learning and data processing
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | AI that knows what you've seen, said, or heard. Records everything you do, say, hear 24/7, local, private, secure
 - [neferdata/allms](https://github.com/neferdata/allms) - allms: One Rust Library to rule them aLLMs
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1162,7 +1163,6 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
 - [OpenSlides/OpenSlides](https://github.com/OpenSlides/OpenSlides) - The digital motion and assembly system
-- [udecode/dotai](https://github.com/udecode/dotai) - Context manager for all agents
 - [MicrosoftDocs/architecture-center](https://github.com/MicrosoftDocs/architecture-center) - Open source documentation for the Azure Architecture Center on Microsoft Learn.
 - [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs.
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -1204,6 +1204,7 @@
 
 ## TypeScript 
 
+- [codexstar69/pi-lcm](https://github.com/codexstar69/pi-lcm) - Lossless Context Management for Pi. DAG-based summarization with full history recovery.
 - [Michaelliv/poster](https://github.com/Michaelliv/poster) - 🎨 Single-file distributable React posters — one .tsx file, every format you'll ever need. Works as a CLI and as a library.
 - [stripe/link-cli](https://github.com/stripe/link-cli) - Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.
 - [kitlangton/rune](https://github.com/kitlangton/rune) - A confined TypeScript-shaped code mode runtime for Effect-native tools
@@ -1307,7 +1308,7 @@
 - [stolinski/opencode-sentry-monitor](https://github.com/stolinski/opencode-sentry-monitor) - Use Sentry Agent Monitoring to add observability to your Opencode
 - [joshpuckett/pasito](https://github.com/joshpuckett/pasito) - A tiny, themeable, dependency-free fluid stepper component.
 - [joshpuckett/bloom](https://github.com/joshpuckett/bloom) - A morphing pull-down button component for react.
-- [savvy-web/github-action-effects](https://github.com/savvy-web/github-action-effects) - Library of helper functions for building bulletproof Node.js 24 GitHub Actions with Effect
+- [savvy-web/github-action-effects](https://github.com/savvy-web/github-action-effects) - Package development moved to savvy-web/systems repo
 - [rcarmo/piclaw](https://github.com/rcarmo/piclaw) - pi coding agent in a technicolor web trenchcoat
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.

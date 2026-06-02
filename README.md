@@ -1204,6 +1204,7 @@
 
 ## TypeScript 
 
+- [bjacobso/schema-logic](https://github.com/bjacobso/schema-logic) - 
 - [codexstar69/pi-lcm](https://github.com/codexstar69/pi-lcm) - Lossless Context Management for Pi. DAG-based summarization with full history recovery.
 - [Michaelliv/poster](https://github.com/Michaelliv/poster) - 🎨 Single-file distributable React posters — one .tsx file, every format you'll ever need. Works as a CLI and as a library.
 - [stripe/link-cli](https://github.com/stripe/link-cli) - Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.
@@ -1396,7 +1397,7 @@
 - [joaoeira/mnemonist](https://github.com/joaoeira/mnemonist) - 
 - [nick-vi/type-inject](https://github.com/nick-vi/type-inject) - TypeScript type context for AI coding assistants. Auto-injects type signatures on reads, reports type errors on writes, and provides type lookup tools.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [supermemoryai/code-chunk](https://github.com/supermemoryai/code-chunk) - AST-aware chunking of code for contextual retrieval
 - [bluwy/npm-userscript](https://github.com/bluwy/npm-userscript) - Various improvements and fixes for npmjs.com
@@ -1516,8 +1517,6 @@
 - [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [pmndrs/xr](https://github.com/pmndrs/xr) - 🤳 VR/AR for react-three-fiber
 - [Malvolio/printify-effect](https://github.com/Malvolio/printify-effect) - A modern TypeScript library that wraps the Printify REST API using Effect-ts patterns. This library provides a type-safe, functional interface for interacting with Printify's print-on-demand services.
-- [lino-levan/raylib-deno](https://github.com/lino-levan/raylib-deno) - Deno FFI bindings for Raylib
-- [lino-levan/astral](https://github.com/lino-levan/astral) - A high-level puppeteer/playwright-like library for Deno
 - [oetzilabs/better-opentui](https://github.com/oetzilabs/better-opentui) - reimplementation of sst/opentui with Effect-TS
 - [infely/react-curse](https://github.com/infely/react-curse) - Fastest terminal UI for react (TUI, CLI, curses-like)
 - [skmtc/skmtc](https://github.com/skmtc/skmtc) - Skmtc is a declarative code generation framework for TypeScript
@@ -1698,7 +1697,7 @@
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [primate-run/primate](https://github.com/primate-run/primate) - The universal web framework
 - [seek-oss/braid-design-system](https://github.com/seek-oss/braid-design-system) - Themeable design system for the SEEK Group
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [cardotrejos/effect-interactive-lab](https://github.com/cardotrejos/effect-interactive-lab) - Interactive React effects and animations
 - [ferrislucas/iterm-mcp](https://github.com/ferrislucas/iterm-mcp) - A Model Context Protocol server that executes commands in the current iTerm session - useful for REPL and CLI assistance
 - [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) - A TypeScript framework for building MCP servers.
@@ -2028,7 +2027,7 @@
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application

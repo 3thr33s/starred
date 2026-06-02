@@ -347,7 +347,7 @@
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [DollhouseMCP/mcp-server](https://github.com/DollhouseMCP/mcp-server) - A Free, Open Source MCP server for dynamic custom persona management with public a GitHub collection of personas, skills, templates, and other elements for AI models.
 - [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
@@ -365,7 +365,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [bosun-ai/kwaak](https://github.com/bosun-ai/kwaak) - Burn through tech debt with AI agents!
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
@@ -410,7 +410,7 @@
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [manutej/categorical-meta-prompting](https://github.com/manutej/categorical-meta-prompting) - Categorical foundations for AI meta-prompting with proven correctness and measurable quality improvements (100% on Game of 24)
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [nikkorn/mistreevous](https://github.com/nikkorn/mistreevous) - A tool to build and execute behaviour trees in JavaScript and TypeScript
 - [bencbartlett/Overmind](https://github.com/bencbartlett/Overmind) - AI for Screeps, a multiplayer programming strategy game
@@ -582,7 +582,7 @@
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [r-muresan/screen.vision](https://github.com/r-muresan/screen.vision) - Get a guided tour for anything, right on your screen.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
@@ -596,7 +596,7 @@
 - [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.
 - [bgauryy/octocode](https://github.com/bgauryy/octocode) - MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codeb
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [liveblocks/liveblocks-mcp-server](https://github.com/liveblocks/liveblocks-mcp-server) - MCP server for Liveblocks.
 - [giselles-ai/giselle](https://github.com/giselles-ai/giselle) - Giselle: AI App Builder. Open Source.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -1013,7 +1013,7 @@
 ## chatgpt 
 
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [ccmdi/osintbench](https://github.com/ccmdi/osintbench) - OSINT benchmark for language models
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
@@ -1072,16 +1072,16 @@
 - [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs!
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [nizos/tdd-guard](https://github.com/nizos/tdd-guard) - Automated TDD enforcement for Claude Code
 - [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) - Customize Claude Code's system prompts, create custom toolsets, input pattern highlighters, themes/thinking verbs/spinners, customize input box & user message styling, support AGENTS.md, unlock privat
+- [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [phughesmcr/deno-mcp-template](https://github.com/phughesmcr/deno-mcp-template) - A template repo for writing and publishing local, remote, DXT, and binary MCP servers using Deno.
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
@@ -1485,7 +1485,6 @@
 
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [NeaByteLab/Myers-Diff](https://github.com/NeaByteLab/Myers-Diff) - Implementation of the Myers diff algorithm with O(ND) complexity, multiple output formats, and benchmarking suite.
-- [lino-levan/astral](https://github.com/lino-levan/astral) - A high-level puppeteer/playwright-like library for Deno
 - [zaiste/wren](https://github.com/zaiste/wren) - A small, but powerful HTTP library for Deno & Deno Deploy, built for convenience and simplicity
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Unobtrusive logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
@@ -3058,7 +3057,7 @@
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [soketi/soketi](https://github.com/soketi/soketi) - Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣
 - [matmen/ImageScript](https://github.com/matmen/ImageScript) - zero-dependency JavaScript image manipulation
@@ -3082,7 +3081,7 @@
 - [remvze/lowfi](https://github.com/remvze/lowfi) - 🎻 A SomaFM client for your terminal.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [lerna/lerna](https://github.com/lerna/lerna) - Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -3149,7 +3148,7 @@
 - [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [Hmbown/Hegelion](https://github.com/Hmbown/Hegelion) - Dialectical reasoning architecture for LLMs (Thesis → Antithesis → Synthesis)
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [Kiln-AI/Kiln](https://github.com/Kiln-AI/Kiln) - Build, Evaluate, and Optimize AI Systems. Includes evals, RAG, agents, fine-tuning, synthetic data generation, dataset management, MCP, and more.
 - [jambudipa/dynamic-flow](https://github.com/jambudipa/dynamic-flow) - Generate complete LLM execution graphs at runtime
 - [milisp/awesome-gpt-oss](https://github.com/milisp/awesome-gpt-oss) - A curated list of awesome GPT-OSS resources, tools, tutorials, and projects
@@ -3222,6 +3221,7 @@
 
 ## others 
 
+- [bjacobso/schema-logic](https://github.com/bjacobso/schema-logic) - 
 - [Michaelliv/poster](https://github.com/Michaelliv/poster) - 🎨 Single-file distributable React posters — one .tsx file, every format you'll ever need. Works as a CLI and as a library.
 - [stripe/link-cli](https://github.com/stripe/link-cli) - Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.
 - [kitlangton/rune](https://github.com/kitlangton/rune) - A confined TypeScript-shaped code mode runtime for Effect-native tools
@@ -3536,7 +3536,6 @@
 - [Malvolio/printify-effect](https://github.com/Malvolio/printify-effect) - A modern TypeScript library that wraps the Printify REST API using Effect-ts patterns. This library provides a type-safe, functional interface for interacting with Printify's print-on-demand services.
 - [0xhckr/ghostty-shaders](https://github.com/0xhckr/ghostty-shaders) - A repository containing many free shaders to use with ghostty (the terminal)
 - [functional-architecture/functional-architecture.github.io](https://github.com/functional-architecture/functional-architecture.github.io) - www.functional-architecture.org website
-- [lino-levan/raylib-deno](https://github.com/lino-levan/raylib-deno) - Deno FFI bindings for Raylib
 - [ungive/media-control](https://github.com/ungive/media-control) - Control and observe media playback from the command line
 - [infely/react-curse](https://github.com/infely/react-curse) - Fastest terminal UI for react (TUI, CLI, curses-like)
 - [mridang/openapi-generator-plus](https://github.com/mridang/openapi-generator-plus) - An opinionated OpenAPI normalizer and code generator for creating clean, minimal, and modern client SDKs.
@@ -4439,7 +4438,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [jameskerr/react-arborist](https://github.com/jameskerr/react-arborist) - The complete tree view component for React
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
@@ -4493,7 +4492,7 @@
 - [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - A performant, lightweight React slider/carousel for media and content transitions, featuring 60fps animations, modular styling, optional HOCs, and fullpage navigation utilities. 🖥️📱
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [AlbericoD/overwolf-modern-react-boilerplate](https://github.com/AlbericoD/overwolf-modern-react-boilerplate) - OMRB is a free and open source opinionated boilerplate based on React that helps developers create fast, modular and modern overwolf app.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [tldraw/signia](https://github.com/tldraw/signia) - Reactive signals that scale, by tldraw.
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 
@@ -4966,7 +4965,7 @@
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [DanielFGray/effect-devtui](https://github.com/DanielFGray/effect-devtui) - A TUI to view traces, spans, metrics, and inspect your Effect applications
 - [hanebox/ekphos](https://github.com/hanebox/ekphos) - A lightweight, fast, terminal-based markdown research tool inspired by Obsidian
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer + ANSI Font Library with Gradients, Shadows, and Multi-Format Export
 - [meli/meli](https://github.com/meli/meli) - terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [oetzilabs/better-opentui](https://github.com/oetzilabs/better-opentui) - reimplementation of sst/opentui with Effect-TS
@@ -5026,7 +5025,7 @@
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [xsalazar/emoji-kitchen](https://github.com/xsalazar/emoji-kitchen) - 🧑‍🍳 This repository contains the source code for the website https://emojikitchen.dev and allows for quick and easy browsing of the over 100,000 supported emoji mashups as part of Google's Emoji Kitch
 - [samuelho-dev/monorepo-library-generator](https://github.com/samuelho-dev/monorepo-library-generator) - Generate well architected monorepo libraries based on Effect and Nx monorepos. Based on design architectures like Repository, Infrastructure Domain Driven Design, Contract, Adapter, and Feature librar
@@ -5109,7 +5108,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [geldata/gel-examples](https://github.com/geldata/gel-examples) - Gel example projects for different stacks
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [DollhouseMCP/mcp-server](https://github.com/DollhouseMCP/mcp-server) - A Free, Open Source MCP server for dynamic custom persona management with public a GitHub collection of personas, skills, templates, and other elements for AI models.
 - [paiml/paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit) - Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
@@ -5214,7 +5213,7 @@
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 - [sondr3/radiant](https://github.com/sondr3/radiant) - Blaze your way through HTML using the type-safety of TypeScript
 - [mjrlowe/terminal_images](https://github.com/mjrlowe/terminal_images) - A Deno module and CLI tool for printing images to the console. 🖼️
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL

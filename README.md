@@ -333,7 +333,6 @@
 - [brunosimon/folio-2025](https://github.com/brunosimon/folio-2025) - 
 - [zhaono1/agent-playbook](https://github.com/zhaono1/agent-playbook) - 
 - [HazAT/glimpse](https://github.com/HazAT/glimpse) - Native macOS micro-UI for scripts and agents — sub-50ms WKWebView windows with bidirectional JSON communication
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [vibeforge1111/vibeship-spawner-skills](https://github.com/vibeforge1111/vibeship-spawner-skills) - a skill directory for world-class specialized agents, in your terminal / IDE. more sophisticated than skills with just md files. and they're free.
 - [angrysky56/advanced-reasoning-mcp](https://github.com/angrysky56/advanced-reasoning-mcp) - Allows AI to perform advanced reasoning, store the reasoning automatically, and can create system prompts or domain knowledge as libraries.
 - [lokus-ai/lokus](https://github.com/lokus-ai/lokus) - Lokus - A modern, intuitive note-taking application with powerful editing capabilities
@@ -1179,6 +1178,7 @@
 
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
 - [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [openclaw/Peekaboo](https://github.com/openclaw/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [cmsj/Hammerspoon2](https://github.com/cmsj/Hammerspoon2) - 
@@ -1822,7 +1822,7 @@
 - [nberlette/decorators](https://github.com/nberlette/decorators) - Monorepo for packages published under the @decorators scope on JSR.
 - [Decodetalkers/tauri_preact_template_deno](https://github.com/Decodetalkers/tauri_preact_template_deno) - tauri deno template
 - [Decodetalkers/styled-components-deno](https://github.com/Decodetalkers/styled-components-deno) - styled component for deno preact
-- [jersou/clinfer](https://github.com/jersou/clinfer) - clinfer (short for CLI inference) automatically generates CLIs from classes or ES modules. Each method generates a "command", and each field an "option". The help is produced automatically.
+- [jersou/clinfer](https://github.com/jersou/clinfer) - clinfer (short for CLI inference) automatically generates CLIs from standard JS objects, classes or ES modules. Each method generates a "command", and each field an "option". The help is produced auto
 - [dbos-inc/dbos-transact-ts](https://github.com/dbos-inc/dbos-transact-ts) - Database-Backed Durable TypeScript Workflows
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [mizchi/deno-lint-plugin-do-try](https://github.com/mizchi/deno-lint-plugin-do-try) - 

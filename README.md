@@ -122,6 +122,7 @@
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [KhronosGroup/Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) - One stop solution for all Vulkan samples
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
+- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 
 ## CSS 
 
@@ -1004,7 +1005,7 @@
 
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. Private, Simple and extremely powerful.
-- [prime-radiant-inc/books-for-bots](https://github.com/prime-radiant-inc/books-for-bots) - Rust CLI that converts EPUBs to YAML-headed markdown with byte/line offsets per chapter, for token-efficient agent reading
+- [prime-radiant-inc/books-for-bots](https://github.com/prime-radiant-inc/books-for-bots) - Rust CLI that converts EPUBs into a single YAML-headed Markdown file with per-chapter byte and line offsets, giving LLM agents a navigation API for token-efficient reading.
 - [terminaltrove/moltbook-tui](https://github.com/terminaltrove/moltbook-tui) - A TUI client for Moltbook, the social network for AI Agents.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [YuniqueUnic/schemaui](https://github.com/YuniqueUnic/schemaui) - schemaui turns JSON Schema documents into fully interactive terminal UIs powered by ratatui, crossterm, and jsonschema.  The library parses rich schemas (nested sections, $ref, arrays, key/value maps,
@@ -1126,7 +1127,6 @@
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [perspective-dev/perspective](https://github.com/perspective-dev/perspective) - A data visualization and analytics component, especially well-suited for large and/or streaming datasets.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [Tritwies/omega](https://github.com/Tritwies/omega) - vibe trade like Jesus w/ 𝛀: xenomodern collaborative worlding kit & structure-aware agentic environment for the end of time ˢᵘᶜᶜᵉˢˢᵒʳ ᵒᶠ ᶻᵉᵈ
 
@@ -1474,7 +1474,6 @@
 - [lxsmnsyc/seroval](https://github.com/lxsmnsyc/seroval) - Stringify JS values
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [only-cliches/iron-enum](https://github.com/only-cliches/iron-enum) - Ergonomic Rust like enums in Typescript
-- [ngneat/elf](https://github.com/ngneat/elf) - 🧙‍♀️ A Reactive Store with Magical Powers
 - [jambudipa/spider](https://github.com/jambudipa/spider) - A comprehensive web scraping library with resumable operations, middleware support, and built-in rate limiting
 - [NeaByteLab/Merkle-Tree](https://github.com/NeaByteLab/Merkle-Tree) - A TypeScript checkpoint management system using Merkle trees for file integrity verification and project state restoration capabilities.
 - [NeaByteLab/Ollama-Native](https://github.com/NeaByteLab/Ollama-Native) - TypeScript client library for Ollama API with retry logic, timeout management, error handling, and validation.

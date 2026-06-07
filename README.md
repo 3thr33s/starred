@@ -577,7 +577,7 @@
 
 ## Others 
 
-- [SubThought/Sentience](https://github.com/SubThought/Sentience) - Building Sentient Beings
+- [oscabriel/skills](https://github.com/oscabriel/skills) - 
 - [kingbootoshi/directional-prompting](https://github.com/kingbootoshi/directional-prompting) - Outcome-first plus directional language. A two-layer skill for writing prompts, agent directives, and skill descriptions. Works in Claude Code and Codex CLI.
 - [mattpocock/agent-rules-books](https://github.com/mattpocock/agent-rules-books) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.
 - [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
@@ -745,6 +745,7 @@
 
 ## Python 
 
+- [SubThought/Sentience](https://github.com/SubThought/Sentience) - Building Sentient Beings
 - [art8engine/viralman](https://github.com/art8engine/viralman) - Viralman is a tool that will make you a star.
 - [hyun06000/AIL](https://github.com/hyun06000/AIL) - A programming language designed for AI as the primary author of code
 - [asimovinc/asimov-1](https://github.com/asimovinc/asimov-1) - v1 of Asimov, an open-source humanoid robot
@@ -875,7 +876,7 @@
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [strands-agents/agent-builder](https://github.com/strands-agents/agent-builder) - An example agent demonstrating streaming, tool use, and interactivity from your terminal. This agent builder can help you to build your own agents and tools.
 - [strands-agents/mcp-server](https://github.com/strands-agents/mcp-server) - This MCP server provides documentation about Strands Agents to your GenAI tools, so you can use your favorite AI coding assistant to vibe-code Strands Agents.
-- [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) - ATLAS: Software Engineer AI Agent. Living memory persists. Learning compounds.   Every commit evolves it. Professional focus. KISS/YAGNI/DRY and Depend on Context. No overengineering. Clean code and C
+- [syahiidkamil/Software-Engineer-AI-Agent-Atlas](https://github.com/syahiidkamil/Software-Engineer-AI-Agent-Atlas) - ATLAS: a senior-engineer layer for Claude Code. Explore with wireframes & prototypes, clarify the essentials, capture it in living HTML then let Claude Code's native plan/goal/workflow loop build. Few
 - [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 - [dimikot/git-grok](https://github.com/dimikot/git-grok) - Stacked PRs (stacked commits, stacked diffs) for GitHub
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
@@ -1399,7 +1400,7 @@
 - [joaoeira/mnemonist](https://github.com/joaoeira/mnemonist) - 
 - [nick-vi/type-inject](https://github.com/nick-vi/type-inject) - TypeScript type context for AI coding assistants. Auto-injects type signatures on reads, reports type errors on writes, and provides type lookup tools.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [supermemoryai/code-chunk](https://github.com/supermemoryai/code-chunk) - AST-aware chunking of code for contextual retrieval
 - [bluwy/npm-userscript](https://github.com/bluwy/npm-userscript) - Various improvements and fixes for npmjs.com
@@ -1443,7 +1444,6 @@
 - [pickier/pickier](https://github.com/pickier/pickier) - Fast linting and formatting. Minimal defaults. Extensible. Built for speed.
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab) - Copy any UI element for your agent
 - [transitive-bullshit/kindle-ai-export](https://github.com/transitive-bullshit/kindle-ai-export) - Export any Kindle book you own as text, PDF, EPUB, or as a custom, AI-narrated audiobook. 🔥
-- [inokawa/rich-textarea](https://github.com/inokawa/rich-textarea) - A small customizable textarea for React to colorize, highlight, decorate texts, offer autocomplete and much more.
 - [danilowoz/spatial-keyboard-navigation](https://github.com/danilowoz/spatial-keyboard-navigation) - A visual hierarchy approach to navigate through selectable elements on a page.
 - [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 - [alexcorvi/tydb](https://github.com/alexcorvi/tydb) - Strongly-typed, NoSQL, fast, light-weight, embedded, Mongo-like database with built-in ODM.
@@ -1452,7 +1452,6 @@
 - [sdorra/content-collections](https://github.com/sdorra/content-collections) - Transform your content into type-safe data collections
 - [kriegcloud/beep-effect](https://github.com/kriegcloud/beep-effect) - 
 - [mbilokonsky/rhizomedb](https://github.com/mbilokonsky/rhizomedb) - Once more with feeling: a rhizomatic database using immutable delta-crdts as hyperedges in a deleuzean hypergraph that treats state as a side-effect assembled at query-time.
-- [shigma/cosmokit](https://github.com/shigma/cosmokit) - A collection of common utilities
 - [Glup3/trendingrepos](https://github.com/Glup3/trendingrepos) - Explore the most popular repositories on GitHub, ranked by star difference over selectable time periods.
 - [seanwessmith/bun-mcp](https://github.com/seanwessmith/bun-mcp) - 
 - [obra/episodic-memory](https://github.com/obra/episodic-memory) - 
@@ -2079,7 +2078,6 @@
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [audioling/audioling](https://github.com/audioling/audioling) - Audio player with a focus on self-hosted music server support
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
-- [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [devflowinc/firecrawl-simple](https://github.com/devflowinc/firecrawl-simple) - ➖ Stripped down, stable version of firecrawl optimized for self-hosting and ease of contribution. Billing logic and AI features are completely removed. Crawl and convert any website into LLM-ready mar
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [dominictobias/react-image-crop](https://github.com/dominictobias/react-image-crop) - A responsive image cropping tool for React

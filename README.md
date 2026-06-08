@@ -106,6 +106,7 @@
 
 ## C++ 
 
+- [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [skypjack/entt](https://github.com/skypjack/entt) - Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -578,6 +579,7 @@
 ## Others 
 
 - [oscabriel/skills](https://github.com/oscabriel/skills) - 
+- [SubThought/Sentience](https://github.com/SubThought/Sentience) - Building Sentient Beings
 - [kingbootoshi/directional-prompting](https://github.com/kingbootoshi/directional-prompting) - Outcome-first plus directional language. A two-layer skill for writing prompts, agent directives, and skill descriptions. Works in Claude Code and Codex CLI.
 - [mattpocock/agent-rules-books](https://github.com/mattpocock/agent-rules-books) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.
 - [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
@@ -745,7 +747,7 @@
 
 ## Python 
 
-- [SubThought/Sentience](https://github.com/SubThought/Sentience) - Building Sentient Beings
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [art8engine/viralman](https://github.com/art8engine/viralman) - Viralman is a tool that will make you a star.
 - [hyun06000/AIL](https://github.com/hyun06000/AIL) - A programming language designed for AI as the primary author of code
 - [asimovinc/asimov-1](https://github.com/asimovinc/asimov-1) - v1 of Asimov, an open-source humanoid robot
@@ -1205,6 +1207,10 @@
 
 ## TypeScript 
 
+- [kentcdodds/kody](https://github.com/kentcdodds/kody) - An experimental personal assistant platform built on Cloudflare Workers and MCP
+- [kapishdima/remocn](https://github.com/kapishdima/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo bui
+- [CezarProX/designclaw](https://github.com/CezarProX/designclaw) - 
+- [kitlangton/effect-delta](https://github.com/kitlangton/effect-delta) - Schema-derived, compositional patches for Effect
 - [cgoinglove/better-chatbot](https://github.com/cgoinglove/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
 - [bjacobso/schema-logic](https://github.com/bjacobso/schema-logic) - 
 - [codexstar69/pi-lcm](https://github.com/codexstar69/pi-lcm) - Lossless Context Management for Pi. DAG-based summarization with full history recovery.

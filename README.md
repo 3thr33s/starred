@@ -310,6 +310,7 @@
 
 ## Java 
 
+- [Angais/minedit](https://github.com/Angais/minedit) - AI building and editing for Minecraft
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [tombaeyens/pwe](https://github.com/tombaeyens/pwe) - Principles of Workflow Engines
 - [Generative-Program-Analysis/GenSym](https://github.com/Generative-Program-Analysis/GenSym) - A high-performance, parallel, compilation-based symbolic execution engine
@@ -362,7 +363,6 @@
 - [remorses/AGENTS.md](https://github.com/remorses/AGENTS.md) - My agents instruction files, grouped by tech
 - [obra/superpowers-developing-for-claude-code](https://github.com/obra/superpowers-developing-for-claude-code) - 
 - [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) - Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies
-- [maml-dev/maml.dev](https://github.com/maml-dev/maml.dev) - Minimal configuration language
 - [Ripple-TS/ripple](https://github.com/Ripple-TS/ripple) - the elegant TypeScript UI framework
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
@@ -578,6 +578,7 @@
 
 ## Others 
 
+- [joelhooks/skills](https://github.com/joelhooks/skills) - Public-safe, generally useful agent skills
 - [oscabriel/skills](https://github.com/oscabriel/skills) - 
 - [SubThought/Sentience](https://github.com/SubThought/Sentience) - Building Sentient Beings
 - [kingbootoshi/directional-prompting](https://github.com/kingbootoshi/directional-prompting) - Outcome-first plus directional language. A two-layer skill for writing prompts, agent directives, and skill descriptions. Works in Claude Code and Codex CLI.
@@ -747,6 +748,7 @@
 
 ## Python 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [art8engine/viralman](https://github.com/art8engine/viralman) - Viralman is a tool that will make you a star.
 - [hyun06000/AIL](https://github.com/hyun06000/AIL) - A programming language designed for AI as the primary author of code
@@ -1100,7 +1102,7 @@
 - [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an open-source graph-vector database built from scratch in Rust.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust.
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -1207,6 +1209,7 @@
 
 ## TypeScript 
 
+- [Jobflow-io/effect-playwright](https://github.com/Jobflow-io/effect-playwright) - A Playwright library wrapper for effect-ts.
 - [kentcdodds/kody](https://github.com/kentcdodds/kody) - An experimental personal assistant platform built on Cloudflare Workers and MCP
 - [kapishdima/remocn](https://github.com/kapishdima/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion. A shadcn registry that lets you `npx shadcn add` polished video components into any Remotion project. Built for solo bui
 - [CezarProX/designclaw](https://github.com/CezarProX/designclaw) - 
@@ -1300,7 +1303,7 @@
 - [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
 - [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules) - This is a collection of opinionated linting rules (in Biomejs) for Effect-ts projects
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [mpsuesser/effect-autoagent](https://github.com/mpsuesser/effect-autoagent) - Framework for building, optimizing, and deploying AI agents as Effect services. Define an agent as a declarative blueprint. Run it against benchmarks.
 - [deathbyknowledge/gsv](https://github.com/deathbyknowledge/gsv) - Personal cloud AI computer platform
 - [fiberplane/otter](https://github.com/fiberplane/otter) - 
@@ -1406,7 +1409,7 @@
 - [joaoeira/mnemonist](https://github.com/joaoeira/mnemonist) - 
 - [nick-vi/type-inject](https://github.com/nick-vi/type-inject) - TypeScript type context for AI coding assistants. Auto-injects type signatures on reads, reports type errors on writes, and provides type lookup tools.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [supermemoryai/code-chunk](https://github.com/supermemoryai/code-chunk) - AST-aware chunking of code for contextual retrieval
 - [bluwy/npm-userscript](https://github.com/bluwy/npm-userscript) - Various improvements and fixes for npmjs.com
@@ -1906,7 +1909,7 @@
 - [jetify-com/typeid-js](https://github.com/jetify-com/typeid-js) - TypeScript implementation of TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [singleportrait/a-pattern-language](https://github.com/singleportrait/a-pattern-language) - A directory and network for all patterns in A Pattern Language
-- [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Agents. Cut Costs up to 70% 🦚
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [redabacha/react-router-deno-template](https://github.com/redabacha/react-router-deno-template) - React Router v7 + Deno v2
 - [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥
 - [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants) - 🦄 Tailwindcss first-class variant API
@@ -2100,6 +2103,7 @@
 
 ## Vue 
 
+- [maml-dev/maml.dev](https://github.com/maml-dev/maml.dev) - Minimal configuration language
 - [lumetrium/espanso-dynamic-forms](https://github.com/lumetrium/espanso-dynamic-forms) - Advanced forms for Espanso with validation, file uploads, tabs, and Liquid templating
 - [disler/agentic-coding-tool-eval](https://github.com/disler/agentic-coding-tool-eval) - Simple ideas to compare Agentic Coding Tools
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify

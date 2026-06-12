@@ -284,7 +284,7 @@
 
 ## agent 
 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) - ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
 - [cevr/gent](https://github.com/cevr/gent) - A gentle giant for agentic work. Minimal harness, maximal leverage.
@@ -381,7 +381,7 @@
 
 ## ai 
 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [llblab/pi-actors](https://github.com/llblab/pi-actors) - Local Actor Kernel for Pi
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [cevr/gent](https://github.com/cevr/gent) - A gentle giant for agentic work. Minimal harness, maximal leverage.
@@ -740,7 +740,7 @@
 
 ## automation 
 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.
 - [24601/opencode-zellij-namer](https://github.com/24601/opencode-zellij-namer) - AI-powered dynamic Zellij session naming plugin for OpenCode
@@ -1008,7 +1008,7 @@
 
 ## chatbot 
 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
@@ -2593,7 +2593,7 @@
 
 ## low-code 
 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [rulego/rulego](https://github.com/rulego/rulego) - ⛓️RuleGo is a lightweight, high-performance, embedded, next-generation component orchestration rule engine framework for Go.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
@@ -2744,7 +2744,7 @@
 
 ## mcp 
 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [callstack/agent-device](https://github.com/callstack/agent-device) - CLI to control iOS and Android devices for AI agents
 - [brandhaug/b2b-saas-starter](https://github.com/brandhaug/b2b-saas-starter) - Cloudflare-first B2B SaaS monorepo starter. TanStack Start, Effect v4, Drizzle on D1, Better Auth, Alchemy v2, REST + MCP, React Email, Storybook, Vitest, Playwright, oxlint, oxfmt, Turbo, Bun.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -2930,7 +2930,7 @@
 
 ## nextjs 
 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [AnswerOverflow/AnswerOverflow](https://github.com/AnswerOverflow/AnswerOverflow) - Powering Discord content discovery by making web pages from threads for some of the largest servers, including Valorant, Cloudflare, C#, and Nuxt.
 - [vercel-labs/web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines) - Guidelines for building interfaces on the Web.
@@ -3172,7 +3172,7 @@
 
 ## openai 
 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.
 - [steipete/oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
@@ -5272,7 +5272,7 @@
 
 ## ui 
 
-- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Just a Better Chatbot. Powered by Agent & MCP & Workflows.
+- [keinsaasforever/better-chatbot](https://github.com/keinsaasforever/better-chatbot) - Formerly Better Chatbot. Navigator is an open-source AI workspace for agents, MCP and workflow automation.
 - [antithesishq/bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web UIs, autonomously exploring and validating correctness properties, finding harder bugs earlier
 - [vercel-labs/web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines) - Guidelines for building interfaces on the Web.
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js) - Native UI testing / controlling with node

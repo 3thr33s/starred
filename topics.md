@@ -528,7 +528,7 @@
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [goat-sdk/goat](https://github.com/goat-sdk/goat) - The leading agentic finance toolkit for AI agents
@@ -2006,7 +2006,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -2659,7 +2659,7 @@
 - [aai-institute/pyDVL](https://github.com/aai-institute/pyDVL) - pyDVL is a library of stable implementations of algorithms for data valuation and influence function computation
 - [mintlify/writer](https://github.com/mintlify/writer) - ✍️ AI powered documentation writer
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - 50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -3272,6 +3272,7 @@
 
 ## others 
 
+- [dmmulroy/skills](https://github.com/dmmulroy/skills) - 
 - [OpenAgentsInc/three-effect](https://github.com/OpenAgentsInc/three-effect) - Three.js in Effect
 - [Michaelliv/pi-dynamic-workflows](https://github.com/Michaelliv/pi-dynamic-workflows) - 
 - [angrysky56/advanced-writer](https://github.com/angrysky56/advanced-writer) - A modular narrative engineering system that uses neurochemical pacing, Jungian depth psychology, structural paradigm selection, and automated pathology diagnostics to produce fiction that resists the 
@@ -3389,7 +3390,7 @@
 - [mrjcleaver/clipcannon](https://github.com/mrjcleaver/clipcannon) - Worlds First AI Video Editor and Voice Cloner
 - [kunchenguid/axi](https://github.com/kunchenguid/axi) - Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI.
 - [OperationalFallacy/biome-effect-linting-rules](https://github.com/OperationalFallacy/biome-effect-linting-rules) - This is a collection of opinionated linting rules (in Biomejs) for Effect-ts projects
-- [deathbyknowledge/gsv](https://github.com/deathbyknowledge/gsv) - Personal cloud AI computer platform
+- [deathbyknowledge/gsv](https://github.com/deathbyknowledge/gsv) - Personal AI computer / distributed OS across all your devices.
 - [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
 - [fiberplane/drift](https://github.com/fiberplane/drift) - Bind specs to code and check for drift.
 - [fiberplane/otter](https://github.com/fiberplane/otter) - 
@@ -4729,7 +4730,7 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -4947,7 +4948,7 @@
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 
 ## terminal 
 

@@ -757,7 +757,7 @@
 
 - [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG) - The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/
 - [angrysky56/creativity-steer](https://github.com/angrysky56/creativity-steer) - 
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [art8engine/viralman](https://github.com/art8engine/viralman) - Viralman is a tool that will make you a star.
 - [hyun06000/AIL](https://github.com/hyun06000/AIL) - A programming language designed for AI as the primary author of code
@@ -1276,7 +1276,7 @@
 - [mw10013/tanstack-cloudflare-effect-shopify-app](https://github.com/mw10013/tanstack-cloudflare-effect-shopify-app) - Port of the Shopify App Template to TanStack Start + Cloudflare Workers + Effect v4.
 - [cevr/gent](https://github.com/cevr/gent) - A gentle giant for agentic work. Minimal harness, maximal leverage.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [cloudflare/templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
@@ -1308,7 +1308,7 @@
 - [nicobailon/pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell) - Pi coding agent extension that allows Pi to autonomously control interactive CLIs in an observable overlay. Full PTY emulation, no  tmux, token efficient. User can take over anytime.
 - [burggraf/pi-teams](https://github.com/burggraf/pi-teams) - 
 - [marcfargas/pi-test-harness](https://github.com/marcfargas/pi-test-harness) - Test harness for pi extensions — playbook-based model mocking, session testing, sandbox install verification
-- [mugnavo/tanstarter-plus](https://github.com/mugnavo/tanstarter-plus) - Vite+ monorepo template with 🏝️ TanStack Start, Better Auth, Drizzle ORM, shadcn/ui
+- [mugnavo/tanstarter-monorepo](https://github.com/mugnavo/tanstarter-monorepo) - Vite+ monorepo template with 🏝️ TanStack Start, Better Auth, Drizzle ORM, shadcn/ui
 - [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff) - These are commands I use with agents, mostly Claude
 - [zenobi-us/pi-extension-config](https://github.com/zenobi-us/pi-extension-config) - 
 - [cv/pi-ssh-remote](https://github.com/cv/pi-ssh-remote) - Pi extension that redirects all file operations and commands to a remote host via SSH
@@ -1360,7 +1360,7 @@
 - [hydro13/tandem-browser](https://github.com/hydro13/tandem-browser) - AI-Human symbiotic browser — browse the web as one entity
 - [spoons-and-mirrors/subtask2](https://github.com/spoons-and-mirrors/subtask2) - A stronger opencode /command handler
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
-- [RhysSullivan/executor](https://github.com/RhysSullivan/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
+- [UsefulSoftwareCo/executor](https://github.com/UsefulSoftwareCo/executor) - The missing integration layer for AI agents. Let them call any OpenAPI / MCP / GraphQL / custom js functions in secure environment.
 - [wevm/incur](https://github.com/wevm/incur) - CLI framework for agents and humans
 - [IliasHad/edit-mind](https://github.com/IliasHad/edit-mind) - Local-first Video Knowledge Base. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready.
 - [alchemy-run/distilled](https://github.com/alchemy-run/distilled) - Effect-native SDKs for cloud providers

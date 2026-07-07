@@ -396,7 +396,6 @@
 - [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
 - [hexdocom/lemonai](https://github.com/hexdocom/lemonai) - Lemon AI is the first Full-stack Open-source Self-Evolving General AI Agent, offering a fully local alternative to Agentic platforms like Manus & Genspark AI.🔔 Official updates   X(twitter) @LemonAI_c
 - [jem-computer/capacities-mcp](https://github.com/jem-computer/capacities-mcp) - Capacities×MCP
-- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync.
 - [aquarius-wing/actor-critic-thinking-mcp](https://github.com/aquarius-wing/actor-critic-thinking-mcp) - A dual-perspective thinking analysis server based on Model Context Protocol (MCP), providing comprehensive performance evaluation through Actor-Critic methodology.
 - [zumerlab/orbit](https://github.com/zumerlab/orbit) - 💫 Orbit is a framework designed for building any kind of radial UI.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -775,7 +774,7 @@
 - [fatihak/InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
 - [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) - Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.
 - [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 100+ tool MCP server for real-time global intelligence — markets, FX, bonds, earnings, SEC filings, conflict, military, cyber, climate, news, company enrichment, and 30+ domains. Live Leaflet dashboar
-- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Semantica 🧠 • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.
+- [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Semantica  • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.
 - [IgorWarzocha/Opencode-Workflows](https://github.com/IgorWarzocha/Opencode-Workflows) - An ever evolving repository of Opencode workflow examples that might enhance your experience with it. I only left the stuff that actually works. YMMV.
 - [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs!
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -833,7 +832,7 @@
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [rileylemm/graphrag-hybrid](https://github.com/rileylemm/graphrag-hybrid) - Hybrid Neo4j/Qdrant retrieval system for structured Markdown documentation with YAML frontmatter. Combines graph relationships and vector search for enhanced document retrieval, with built-in MCP inte
 - [BjornMelin/qdrant-neo4j-crawl4ai-mcp](https://github.com/BjornMelin/qdrant-neo4j-crawl4ai-mcp) - MCP server combining Qdrant vector search, Neo4j knowledge graphs, and Crawl4AI web intelligence with agentic RAG capabilities. FastMCP 2.0 architecture with enterprise security, monitoring, and Kuber
-- [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - 
+- [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
 - [docxology/cognitive](https://github.com/docxology/cognitive) - Cognitive science research workspace — Active Inference, Bayesian modeling, ant behavior, and computational neuroscience
 - [ActiveInferenceInstitute/cognitive](https://github.com/ActiveInferenceInstitute/cognitive) - 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
@@ -1233,7 +1232,7 @@
 - [BYK/loreai](https://github.com/BYK/loreai) - Your AI never starts over. Lore keeps sessions coherent for days and millions of tokens — no lossy summary that wipes your file paths and decisions — and turns every session into compounding memory ac
 - [zeke/login-with-cloudflare](https://github.com/zeke/login-with-cloudflare) - Demo and reference implementation for Cloudflare self-managed OAuth clients
 - [xikhar/beyond-fable](https://github.com/xikhar/beyond-fable) - A world beyond the story...
-- [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - Pi extension for desktop & browser automation on MacOS
+- [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [takltc/pi-better-compact](https://github.com/takltc/pi-better-compact) - 
 - [Jobflow-io/effect-playwright](https://github.com/Jobflow-io/effect-playwright) - A Playwright library wrapper for effect-ts.
@@ -1277,7 +1276,7 @@
 - [mw10013/tanstack-cloudflare-effect-shopify-app](https://github.com/mw10013/tanstack-cloudflare-effect-shopify-app) - Port of the Shopify App Template to TanStack Start + Cloudflare Workers + Effect v4.
 - [cevr/gent](https://github.com/cevr/gent) - A gentle giant for agentic work. Minimal harness, maximal leverage.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - Operations substrate for AI agents that use real software: 311 sites/tools, logged-in browsers, desktop apps, local tools, MCP, policy, evidence, AgentEnvelope v2, and self-repair.
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [cloudflare/templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
@@ -1743,6 +1742,7 @@
 - [waldzellai/mcp-agent-ts](https://github.com/waldzellai/mcp-agent-ts) - TypeScript port of the original MCP Agent framework by lastmile-ai
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent) - AI Browser Automation
+- [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync.
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [blurrah/mcp-graphql](https://github.com/blurrah/mcp-graphql) - Model Context Protocol server for GraphQL
 - [DollhouseMCP/mcp-server](https://github.com/DollhouseMCP/mcp-server) - A Free, Open Source MCP server for dynamic custom persona management with public a GitHub collection of personas, skills, templates, and other elements for AI models.

@@ -47,6 +47,7 @@
 - [Rocq Prover](#rocq-prover)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [Scheme](#scheme)
 - [Shell](#shell)
 - [Svelte](#svelte)
@@ -301,7 +302,6 @@
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-- [dh-tech/awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities) - Software for humanities scholars using quantitative or computational methods.
 - [agnt-gg/slop](https://github.com/agnt-gg/slop) - The place for SLOP
 - [comfyanonymous/ComfyUI_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -387,7 +387,7 @@
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [aaronjmars/claude-explorer](https://github.com/aaronjmars/claude-explorer) - Explore and search your Claude AI conversation history with automatic AI-powered categorization.
-- [aaronjmars/opendia](https://github.com/aaronjmars/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
+- [aeonfun/opendia](https://github.com/aeonfun/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.
 - [MikeyBeez/mcp-reasoning-tools](https://github.com/MikeyBeez/mcp-reasoning-tools) - 🧠 Tool-Augmented Reasoning MCP Server - Computational verification tools that achieved 58.3% on BIG-Bench Hard evaluation (+29.7pp improvement)
@@ -849,6 +849,7 @@
 - [PlanExeOrg/PlanExe](https://github.com/PlanExeOrg/PlanExe) - Create a plan from a description in minutes
 - [liugangcode/deepevolve](https://github.com/liugangcode/deepevolve) - DeepEvolve is a research and coding agent for new algorithm discovery in different science domains with Deep Research and AlphaEvolve.
 - [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [OpenPipe/ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!
@@ -1143,6 +1144,10 @@
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [Tritwies/omega](https://github.com/Tritwies/omega) - vibe trade like Jesus w/ 𝛀: xenomodern collaborative worlding kit & structure-aware agentic environment for the end of time ˢᵘᶜᶜᵉˢˢᵒʳ ᵒᶠ ᶻᵉᵈ
 
+## SCSS 
+
+- [dh-tech/awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities) - Software for humanities scholars using quantitative or computational methods.
+
 ## Scheme 
 
 - [cosmos72/schemesh](https://github.com/cosmos72/schemesh) - A Unix shell and Lisp REPL, fused together
@@ -1150,6 +1155,7 @@
 ## Shell 
 
 - [dmmulroy/skills](https://github.com/dmmulroy/skills) - 
+- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [zenobi-us/bun-module](https://github.com/zenobi-us/bun-module) - 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -1268,7 +1274,6 @@
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [siebix-studio/effect-reusables](https://github.com/siebix-studio/effect-reusables) - Reusable effect stuff
 - [nicobailon/pi-interview-tool](https://github.com/nicobailon/pi-interview-tool) - Interactive form tool for pi-agent to gather user responses with keyboard navigation, themes, and image attachments
-- [cloudflare/skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [voffie/better-music](https://github.com/voffie/better-music) - 
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
@@ -1592,7 +1597,7 @@
 - [saiashirwad/typenet](https://github.com/saiashirwad/typenet) - *chants* type safe tensor shapes
 - [saiashirwad/algorithm-w-types](https://github.com/saiashirwad/algorithm-w-types) - algorithm w for hindley-milner type inference in typescript's type system
 - [saiashirwad/pog](https://github.com/saiashirwad/pog) - a lisp-y, signal-y literate programing language/environment/thing
-- [lershi-devlabs/lershi-minimal-app](https://github.com/lershi-devlabs/lershi-minimal-app) - A CLI tool to scaffold minimal project structures
+- [Montekkundan/lershi-minimal-app](https://github.com/Montekkundan/lershi-minimal-app) - A CLI tool to scaffold minimal project structures
 - [ui-layouts/cursify](https://github.com/ui-layouts/cursify) - Cursor Animation Library for React & Next.js
 - [loganzartman/zecs](https://github.com/loganzartman/zecs) - strongly-typed, functional, unopinionated, fast-enough entity-component-system system for hobby use
 - [deluksic/apollonian-circles](https://github.com/deluksic/apollonian-circles) - 
@@ -1699,7 +1704,6 @@
 - [G4brym/workers-research](https://github.com/G4brym/workers-research) - A serverless, AI-powered deep research agent built with Cloudflare Workers and Google Gemini 2.5
 - [zhiwei5576/excel-mcp-server](https://github.com/zhiwei5576/excel-mcp-server) - Excel数据处理微服务
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain. Output to AST, React, React Native, SolidJS, Vue, HTML, and more!
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [linkwarden/browser-extension](https://github.com/linkwarden/browser-extension) - The official Browser Extension for Linkwarden.

@@ -326,6 +326,7 @@
 ## JavaScript 
 
 - [voodootikigod/adlc](https://github.com/voodootikigod/adlc) - Agentic Development Lifecycle
+- [KyleAMathews/field-lab](https://github.com/KyleAMathews/field-lab) - A field lab for thinking with AI
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [llblab/skills](https://github.com/llblab/skills) - Dream Skills
 - [kunchenguid/autopreso](https://github.com/kunchenguid/autopreso) - Realtime speech to presentation. Let the whiteboard whiteboard itself.
@@ -385,7 +386,6 @@
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
-- [aaronjmars/claude-explorer](https://github.com/aaronjmars/claude-explorer) - Explore and search your Claude AI conversation history with automatic AI-powered categorization.
 - [aeonfun/opendia](https://github.com/aeonfun/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
 - [satellitecomponent/Neurite](https://github.com/satellitecomponent/Neurite) - Fractal Graph-of-Thought. Rhizomatic Mind-Mapping for Ai-Agents, Web-Links, Notes, and Code.
 - [brightdata/brightdata-mcp](https://github.com/brightdata/brightdata-mcp) - A powerful Model Context Protocol (MCP) server that provides an all-in-one solution for public web access.
@@ -587,7 +587,6 @@
 - [kitlangton/skills](https://github.com/kitlangton/skills) - Here are some skills I use. Maybe you'll find them useful. Maybe not. Goodbye.
 - [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.
 - [Stunspot/stunspots-guide-to-ai-systems](https://github.com/Stunspot/stunspots-guide-to-ai-systems) - Operational doctrine for practical AI systems design.
-- [KyleAMathews/field-lab](https://github.com/KyleAMathews/field-lab) - A field lab for thinking with AI
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [joelhooks/skills](https://github.com/joelhooks/skills) - Public-safe, generally useful agent skills
 - [oscabriel/skills](https://github.com/oscabriel/skills) - npx skills add -g oscabriel/skills
@@ -606,7 +605,6 @@
 - [mnielsen/notes-on-writing](https://github.com/mnielsen/notes-on-writing) - Notes on writing
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
 - [vladzima/vesper-theme](https://github.com/vladzima/vesper-theme) - Vesper (peppermint & orange) theme for IDEs and terminals
-- [Cryakl/Ransomware-Database](https://github.com/Cryakl/Ransomware-Database) - For educational purposes only, samples of ransomware/wiper trojans including screenshots/ransom-notes.
 - [jarulraj/periodic-table](https://github.com/jarulraj/periodic-table) - A Periodic Table of System Design Principles
 - [raunofreiberg/vesper](https://github.com/raunofreiberg/vesper) - Peppermint and orange flavored dark theme for VSCode.
 - [ChrisRoyse/UsefulPrompts](https://github.com/ChrisRoyse/UsefulPrompts) - 
@@ -693,7 +691,6 @@
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [Trustworthy-AI-Group/Adversarial_Examples_Papers](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers) - A list of recent papers about adversarial learning
 - [dagger/agents](https://github.com/dagger/agents) - 
-- [Cryakl/Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, exhaustive samples of 500+ classic/modern trojan builders including screenshots.
 - [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).
 - [lvwzhen/tools](https://github.com/lvwzhen/tools) - Tools Online
 - [theimpossibleastronaut/awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) - A curated list of anything remotely related to linguistics
@@ -1210,6 +1207,7 @@
 - [KrishKrosh/TrackWeight](https://github.com/KrishKrosh/TrackWeight) - Use your Mac trackpad as a weighing scale
 - [mrkai77/DynamicNotchKit](https://github.com/mrkai77/DynamicNotchKit) - Seamlessly adapt your macOS app to the notch era.
 - [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
+- [arach/blink](https://github.com/arach/blink) - A beautiful transparent notes application built with Tauri, React, and native macOS window controls
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
@@ -1227,6 +1225,7 @@
 
 ## TypeScript 
 
+- [boozedog/foldstylex](https://github.com/boozedog/foldstylex) - shadcn-inspired styling for Foldkit, powered by StyleX
 - [humanlayer/fold](https://github.com/humanlayer/fold) - 
 - [agent-ecosystem/afdocs](https://github.com/agent-ecosystem/afdocs) - Test your docs against the Agent-Friendly Documentation Spec
 - [marinedotsh/better-auth-referral](https://github.com/marinedotsh/better-auth-referral) - A Better Auth plugin for adding user referrals to your app.
@@ -1766,7 +1765,6 @@
 - [arach/peal](https://github.com/arach/peal) - Craft your signature sound
 - [mckaywrigley/mckays-app-template](https://github.com/mckaywrigley/mckays-app-template) - This is the template I use to start new full-stack projects.
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
-- [arach/blink](https://github.com/arach/blink) - A beautiful transparent notes application built with Tauri, React, and native macOS window controls
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
 - [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Making the web better.

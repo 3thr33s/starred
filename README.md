@@ -279,7 +279,6 @@
 
 ## HTML 
 
-- [plannotator/effective-html](https://github.com/plannotator/effective-html) - Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.
 - [JTruax/resonance-sound-frequencies](https://github.com/JTruax/resonance-sound-frequencies) - Resonance is an open source project with two main parts. 1: Free-to-use web app for sound therapy. 2: A knowledge base markdown file compiled on 29 academic resource documents on sound frequencies and
 - [pbakaus/radiant](https://github.com/pbakaus/radiant) - A curated collection of generative shader art
 - [tc39/proposal-first-class-protocols](https://github.com/tc39/proposal-first-class-protocols) - a proposal to bring protocol-based interfaces to ECMAScript users
@@ -407,7 +406,6 @@
 - [dmonad/lib0](https://github.com/dmonad/lib0) - Monorepo of isomorphic utility functions
 - [davidmerfield/blot](https://github.com/davidmerfield/blot) - Turns a folder into a website
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
-- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [PhialsBasement/Chain-of-Recursive-Thoughts](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts) - I made my AI think harder by making it argue with itself repeatedly. It works stupidly well.
 - [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) - OSINT Framework
@@ -589,6 +587,7 @@
 - [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help with various parts of building a great interface. From animation and UI polish to accessibility and product writing.
 - [Stunspot/stunspots-guide-to-ai-systems](https://github.com/Stunspot/stunspots-guide-to-ai-systems) - Operational doctrine for practical AI systems design.
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
+- [plannotator/effective-html](https://github.com/plannotator/effective-html) - Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.
 - [joelhooks/skills](https://github.com/joelhooks/skills) - Public-safe, generally useful agent skills
 - [oscabriel/skills](https://github.com/oscabriel/skills) - npx skills add -g oscabriel/skills
 - [SubThought/Sentience](https://github.com/SubThought/Sentience) - Building Sentient Beings
@@ -1244,7 +1243,7 @@
 - [angrysky56/advanced-writer](https://github.com/angrysky56/advanced-writer) - A modular narrative engineering system that uses neurochemical pacing, Jungian depth psychology, structural paradigm selection, and automated pathology diagnostics to produce fiction that resists the 
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [charlieclark/thiings-grid](https://github.com/charlieclark/thiings-grid) - A high-performance, infinite scrolling grid component for React that provides smooth touch/mouse interactions with momentum-based scrolling.
-- [cloudflare/workspace](https://github.com/cloudflare/workspace) - @cloudflare/workspace, give your agent a computer 💻
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a @cloudflare/computer 👾
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [kriegcloud/effect-lexical-chat](https://github.com/kriegcloud/effect-lexical-chat) - 
 - [BYK/loreai](https://github.com/BYK/loreai) - Your AI never starts over. Lore keeps sessions coherent for days and millions of tokens — no lossy summary that wipes your file paths and decisions — and turns every session into compounding memory ac
@@ -1840,6 +1839,7 @@
 - [iduspara/shadcn-builder](https://github.com/iduspara/shadcn-builder) - 
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [kepano/defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
@@ -1907,7 +1907,7 @@
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Im-Beast/monero-tui](https://github.com/Im-Beast/monero-tui) - TUI Wallet for Monero – the secure, private, untraceable cryptocurrency
 - [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui) - 🦕 Deno module for creating Terminal User Interfaces
-- [dsherret/ts-ast-viewer](https://github.com/dsherret/ts-ast-viewer) - TypeScript AST viewer.
+- [dsherret/ts-ast-viewer](https://github.com/dsherret/ts-ast-viewer) - TypeScript AST viewer
 - [sukovanej/effect-http](https://github.com/sukovanej/effect-http) - Declarative HTTP API library for effect-ts
 - [pigoz/effect-crashcourse](https://github.com/pigoz/effect-crashcourse) - The practical guide I wish existed while learning @effect-ts
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic

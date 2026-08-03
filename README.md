@@ -598,7 +598,7 @@
 - [jwynia/context-networks](https://github.com/jwynia/context-networks) - Context Networks: A collaborative framework for human-AI knowledge management focused on relationships between information rather than just storage. Includes guides and templates for creating evolving
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [Leonxlnx/agentic-ai-prompt-research](https://github.com/Leonxlnx/agentic-ai-prompt-research) - Research into how agentic AI coding assistants work. Reconstructed prompt patterns, agent coordination, and security classification
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [DannyMac180/openclaw-operator](https://github.com/DannyMac180/openclaw-operator) - OpenClaw Operator gives coding agents like Codex and Claude Code the context and playbooks needed to set up, validate, and troubleshoot a local OpenClaw installation.
 - [mnielsen/notes-on-writing](https://github.com/mnielsen/notes-on-writing) - Notes on writing
 - [google-labs-code/jules-awesome-list](https://github.com/google-labs-code/jules-awesome-list) - Some awesome prompts for Jules Agent
@@ -1771,7 +1771,7 @@
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
-- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Making the web better.
+- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Type-safe, framework-agnostic and composable TypeScript libraries for the web.
 - [Insik-Han/han-stack-archive](https://github.com/Insik-Han/han-stack-archive) - Modern Saas fullstack framework template using Tanstack Start, orpc
 - [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI Dataset Generator – Create realistic datasets for demos, learning, and dashboards

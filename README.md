@@ -99,7 +99,7 @@
 - [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 - [bencoveney/Items](https://github.com/bencoveney/Items) - Library for use in the construction and utilization of domain specific models
 - [inkle/ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 21, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - .NET 10, Angular 22, Clean Architecture, Clean Code, SOLID, KISS, DRY, Mediator Pattern, Folder-by-Feature Structure
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with you
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 
@@ -331,7 +331,7 @@
 - [tolibear/goalbuddy](https://github.com/tolibear/goalbuddy) - A better /goal for Codex and Claude Code
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
-- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.
+- [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) - Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [kunchenguid/kunchenguid-design-system](https://github.com/kunchenguid/kunchenguid-design-system) - A consistent design system for my content
@@ -581,6 +581,7 @@
 
 ## Others 
 
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [remorses/skills](https://github.com/remorses/skills) - Agent skills for design engineering, marketing and more
 - [kitlangton/skills](https://github.com/kitlangton/skills) - Here are some skills I use. Maybe you'll find them useful. Maybe not. Goodbye.
 - [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help with various parts of building a great interface. From animation and UI polish to accessibility and product writing.
@@ -777,7 +778,7 @@
 - [marc-shade/world-intel-mcp](https://github.com/marc-shade/world-intel-mcp) - 100+ tool MCP server for real-time global intelligence — markets, FX, bonds, earnings, SEC filings, conflict, military, cyber, climate, news, company enrichment, and 30+ domains. Live Leaflet dashboar
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) - Graph-Native Infrastructure for Context and Accountable AI Systems
 - [IgorWarzocha/Opencode-Workflows](https://github.com/IgorWarzocha/Opencode-Workflows) - An ever evolving repository of Opencode workflow examples that might enhance your experience with it. I only left the stuff that actually works. YMMV.
-- [kalil0321/reverse-api-engineer](https://github.com/kalil0321/reverse-api-engineer) - The agent that turns websites into APIs!
+- [nottelabs/reverse-api-engineer](https://github.com/nottelabs/reverse-api-engineer) - The agent that turns websites into APIs!
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [Hmbown/aleph](https://github.com/Hmbown/aleph) - Skill + MCP server to turn your agent into an RLM. Load context, iterate with search/code/think tools, converge on answers.
@@ -881,6 +882,7 @@
 - [openvpi/DiffSinger](https://github.com/openvpi/DiffSinger) - An advanced singing voice synthesis system with high fidelity, expressiveness, controllability and flexibility based on DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism
 - [simedw/spegel](https://github.com/simedw/spegel) - Spegel - Reflect the web through AI
 - [Ragha02/Deep_rsrch_Gemini](https://github.com/Ragha02/Deep_rsrch_Gemini) - Multi Agent MCP - GEMINI Llm Setiup Deep Research Model
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [haris-musa/excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
 - [ruvnet/yyz-agentics-june](https://github.com/ruvnet/yyz-agentics-june) - AI-Powered Neural Network Libraries built with Claude-Flow Swarm Orchestration. Live demo from Agentics   Foundation meetup in Toronto - showcasing how 10 specialized AI agents built production-ready 
 - [bbugyi200/funky](https://github.com/bbugyi200/funky) - Funky takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
@@ -1196,6 +1198,7 @@
 
 ## Swift 
 
+- [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use) - 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [kitlangton/Hex](https://github.com/kitlangton/Hex) - VOICE → WORDS
 - [arach/vox](https://github.com/arach/vox) - Local-first macOS transcription runtime with Swift services, a Bun CLI, and a TypeScript SDK.
@@ -1338,7 +1341,7 @@
 - [jwynia/the-kepler-testimonies](https://github.com/jwynia/the-kepler-testimonies) - 
 - [jwynia/agent-skills](https://github.com/jwynia/agent-skills) - 
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [vincelwt/gloomberb](https://github.com/vincelwt/gloomberb) - Finance terminal, in your terminal.
+- [gloom-sh/gloomberb](https://github.com/gloom-sh/gloomberb) - Finance terminal, in your terminal.
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [kunchenguid/chrome-devtools-axi](https://github.com/kunchenguid/chrome-devtools-axi) - The most agent-ergonomic browser automation
 - [getpaykit/paykit](https://github.com/getpaykit/paykit) - The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app.
@@ -1749,7 +1752,6 @@
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [bigcodegen/mcp-neovim-server](https://github.com/bigcodegen/mcp-neovim-server) - Control Neovim using Model Context Protocol (MCP) and the official neovim/node-client JavaScript library
 - [primate-run/primate](https://github.com/primate-run/primate) - The universal web framework
-- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [seek-oss/braid-design-system](https://github.com/seek-oss/braid-design-system) - Themeable design system for the SEEK Group
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [cardotrejos/effect-interactive-lab](https://github.com/cardotrejos/effect-interactive-lab) - Interactive React effects and animations
@@ -1833,7 +1835,6 @@
 - [Litlyx/litlyx](https://github.com/Litlyx/litlyx) - Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible,
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [shadcnblocks/kibo](https://github.com/shadcnblocks/kibo) - A custom registry of composable, accessible and extensible components designed for use with shadcn/ui. Free and open source, forever.
-- [haydenbleasel/alchemy](https://github.com/haydenbleasel/alchemy) - A visual journey of The Alchemist, powered by OpenAI and Midjourney.
 - [hey-api/hey-api](https://github.com/hey-api/hey-api) - 👨‍🚀 Turn API specifications into production-ready SDKs, validators, mocks, and more. 20+ plugins. Millions of weekly npm downloads. Used by Vercel, OpenCode, PayPal, AWS, Autodesk, and many more.
 - [solst-ice/chirp](https://github.com/solst-ice/chirp) - Send data with sound
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
@@ -1923,7 +1924,7 @@
 - [gcanti/docs-ts](https://github.com/gcanti/docs-ts) - A zero-config documentation tool for my TypeScript projects
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
-- [mathuo/dockview](https://github.com/mathuo/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
+- [dockview/dockview](https://github.com/dockview/dockview) - Zero dependency docking layout manager supporting tabs, groups, grids and splitviews. Supports React, Vue, Angular, and vanilla TypeScript.
 - [duplojs/zod-accelerator](https://github.com/duplojs/zod-accelerator) - 
 - [arkemis-labs/shadcn-zod-form](https://github.com/arkemis-labs/shadcn-zod-form) - CLI tool to convert Zod schemas into shadcn/ui forms.
 - [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts) - Official Anytype client for MacOS, Linux, and Windows

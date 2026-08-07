@@ -1259,7 +1259,7 @@
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [takltc/pi-better-compact](https://github.com/takltc/pi-better-compact) - 
 - [Jobflow-io/effect-playwright](https://github.com/Jobflow-io/effect-playwright) - A Playwright library wrapper for effect-ts.
-- [kentcdodds/kody](https://github.com/kentcdodds/kody) - Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.
+- [kentcdodds/kody](https://github.com/kentcdodds/kody) - 🐨 Your assistant's home — the memory, keys, code, and automations your AI agent keeps, portable across every MCP host. Built on Cloudflare Workers.
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [CezarProX/designclaw](https://github.com/CezarProX/designclaw) - 
 - [kitlangton/effect-delta](https://github.com/kitlangton/effect-delta) - Schema-derived, compositional patches for Effect

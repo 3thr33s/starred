@@ -1017,6 +1017,7 @@
 
 ## Rust 
 
+- [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
 - [tsz-org/tsz](https://github.com/tsz-org/tsz) - A performance-first TypeScript checker

@@ -3381,7 +3381,7 @@
 - [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem) - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 - [remorses/skills](https://github.com/remorses/skills) - Agent skills for design engineering, marketing and more
 - [boozedog/foldstylex](https://github.com/boozedog/foldstylex) - shadcn-inspired styling for Foldkit, powered by StyleX
-- [humanlayer/fold](https://github.com/humanlayer/fold) - 
+- [humanlayer/fold](https://github.com/humanlayer/fold) - Fold is an Effect-native, provider-agnostic, isomorphic agent core with an optional opinionated coding agent, CLI, and TUI. It supports multiple model providers (including openai/anthropic-compatible 
 - [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 - [kousun12/semantic-algos](https://github.com/kousun12/semantic-algos) - aka "Why Combinators"
 - [agent-ecosystem/afdocs](https://github.com/agent-ecosystem/afdocs) - Test your docs against the Agent-Friendly Documentation Spec
@@ -3789,7 +3789,7 @@
 - [AmmarAbouZor/tech_notes](https://github.com/AmmarAbouZor/tech_notes) - My Tech notes with obsidian
 - [esrlabs/chipmunk](https://github.com/esrlabs/chipmunk) - log analysis tool
 - [ai-that-works/ai-that-works](https://github.com/ai-that-works/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
-- [orxfun/orx-parallel](https://github.com/orxfun/orx-parallel) - A performant and configurable parallel computing library for computations defined as compositions of iterator methods.
+- [orxfun/orx-parallel](https://github.com/orxfun/orx-parallel) - High-performance, expressive, configurable parallel computations with an iterator-style API.
 - [arach/reflow](https://github.com/arach/reflow) - Generative identity - brand as code
 - [arach/pomo](https://github.com/arach/pomo) - Minimalist Pomodoro timer for macOS — menu-bar HUD, watchfaces, CLI, and companion apps.
 - [SKaplanOfficial/macOS-URL-Schemes-for-macOS-Applications](https://github.com/SKaplanOfficial/macOS-URL-Schemes-for-macOS-Applications) - URL schemes for macOS applications
@@ -5201,6 +5201,7 @@
 
 ## typescript 
 
+- [mac-monet/effect-domain](https://github.com/mac-monet/effect-domain) - Effect-native single source of truth for your API
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first.
 - [tarkaworks/foldocs](https://github.com/tarkaworks/foldocs) - The beautiful & flexible Foldkit docs framework.
 - [marinedotsh/better-auth-referral](https://github.com/marinedotsh/better-auth-referral) - A Better Auth plugin for adding user referrals to your app.

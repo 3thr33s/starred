@@ -785,7 +785,7 @@
 - [Hmbown/aleph](https://github.com/Hmbown/aleph) - Skill + MCP server to turn your agent into an RLM. Load context, iterate with search/code/think tools, converge on answers.
 - [Hmbown/peircean-abduction](https://github.com/Hmbown/peircean-abduction) - Logic architecture for abductive inference. Forces LLMs to make uncertainty visible through explicit hypothesis generation and Inference to Best Explanation.
 - [Hmbown/Toulmini](https://github.com/Hmbown/Toulmini) - Logic architecture inspired by Toulmin. Forces LLMs into structured, sequential reasoning through Toulmin's argumentation model.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemist
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [Hmbown/Hegelion](https://github.com/Hmbown/Hegelion) - Dialectical reasoning architecture for LLMs (Thesis → Antithesis → Synthesis)
 - [keugenek/multiverse](https://github.com/keugenek/multiverse) - 
 - [manutej/categorical-meta-prompting](https://github.com/manutej/categorical-meta-prompting) - Categorical foundations for AI meta-prompting with proven correctness and measurable quality improvements (100% on Game of 24)
@@ -1021,7 +1021,7 @@
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
-- [tsz-org/tsz](https://github.com/tsz-org/tsz) - A performance-first TypeScript checker
+- [tsz-org/tsz](https://github.com/tsz-org/tsz) - An experiment in fully hand-off software engineering: A performance-first TypeScript checker
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [prime-radiant-inc/books-for-bots](https://github.com/prime-radiant-inc/books-for-bots) - Rust CLI that converts EPUBs into a single YAML-headed Markdown file with per-chapter byte and line offsets, giving LLM agents a navigation API for token-efficient reading.
@@ -1414,7 +1414,7 @@
 - [angrysky56/deep-research-reports](https://github.com/angrysky56/deep-research-reports) - A place to store AI deep research reports
 - [nikelborm/effect-garden](https://github.com/nikelborm/effect-garden) - A place where I carefully grow species of my favorite flower bindweed. In programmer terms -- all my pet-projects, most of which will somehow be related to effect.
 - [john-royal/funcho](https://github.com/john-royal/funcho) - Contract-first HTTP router for Effect 4
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Run 100+ coding agents in parallel. Claude Code, Codex, or any CLI agent, each in its own isolated workspace. Bring your own subscriptions.
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [arach/spectator](https://github.com/arach/spectator) - 
 - [arach/og](https://github.com/arach/og) - 
 - [r-muresan/screen.vision](https://github.com/r-muresan/screen.vision) - Get a guided tour for anything, right on your screen.
@@ -1706,7 +1706,7 @@
 - [justinlietz93/Apex-CodeGenesis](https://github.com/justinlietz93/Apex-CodeGenesis) - Apex: An advanced autonomous coding agent for VS Code featuring total autonomy modes, recursive chain-of-thought reasoning, council-of-critics self-critique, persistent memory, dynamic personas, and e
 - [jalpp/recursearch](https://github.com/jalpp/recursearch) - An AI agent that searches the web and creates research reports
 - [anomalyco/opencode-sdk-js](https://github.com/anomalyco/opencode-sdk-js) - 
-- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI)
 - [smikhalevski/doubter](https://github.com/smikhalevski/doubter) - 🤔 Runtime validation and transformation library.
 - [saiashirwad/parserator](https://github.com/saiashirwad/parserator) - An elegant parser combinators library for Typescript (WIP!)
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
@@ -1783,7 +1783,7 @@
 - [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [vega/ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources
-- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Type-safe, framework-agnostic and composable TypeScript libraries for the web.
+- [zap-studio/monorepo](https://github.com/zap-studio/monorepo) - Type-safe, framework-agnostic, composable, and tree-shakeable TypeScript libraries for the web.
 - [Insik-Han/han-stack-archive](https://github.com/Insik-Han/han-stack-archive) - Modern Saas fullstack framework template using Tanstack Start, orpc
 - [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [metabase/dataset-generator](https://github.com/metabase/dataset-generator) - AI Dataset Generator – Create realistic datasets for demos, learning, and dashboards

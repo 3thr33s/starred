@@ -785,7 +785,7 @@
 - [Hmbown/aleph](https://github.com/Hmbown/aleph) - Skill + MCP server to turn your agent into an RLM. Load context, iterate with search/code/think tools, converge on answers.
 - [Hmbown/peircean-abduction](https://github.com/Hmbown/peircean-abduction) - Logic architecture for abductive inference. Forces LLMs to make uncertainty visible through explicit hypothesis generation and Inference to Best Explanation.
 - [Hmbown/Toulmini](https://github.com/Hmbown/Toulmini) - Logic architecture inspired by Toulmin. Forces LLMs into structured, sequential reasoning through Toulmin's argumentation model.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biolog
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biolog
 - [Hmbown/Hegelion](https://github.com/Hmbown/Hegelion) - Dialectical reasoning architecture for LLMs (Thesis → Antithesis → Synthesis)
 - [keugenek/multiverse](https://github.com/keugenek/multiverse) - 
 - [manutej/categorical-meta-prompting](https://github.com/manutej/categorical-meta-prompting) - Categorical foundations for AI meta-prompting with proven correctness and measurable quality improvements (100% on Game of 24)
@@ -1018,6 +1018,8 @@
 
 ## Rust 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [anomalyco/terminal-control](https://github.com/anomalyco/terminal-control) - 
 - [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer + git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages
 - [thanhdat77/herdr-navigator](https://github.com/thanhdat77/herdr-navigator) - Jump to any Herdr workspace, agent, project, session, remote, directory, or action from one fuzzy navigator.
 - [ragamo/herdr-flock](https://github.com/ragamo/herdr-flock) - A herdr plugin that visualizes your AI coding agents as pixel-art sheep living on a top-down farm.
@@ -1144,7 +1146,7 @@
 - [probelabs/probe](https://github.com/probelabs/probe) - AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.
 - [zkonduit/ezkl](https://github.com/zkonduit/ezkl) - ezkl is an engine for doing inference for deep learning models and other computational graphs in a zk-snark (ZKML). Use it from Python, Javascript, or the command line.
 - [tf-encrypted/moose](https://github.com/tf-encrypted/moose) - Secure distributed dataflow framework for encrypted machine learning and data processing
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
 - [neferdata/allms](https://github.com/neferdata/allms) - allms: One Rust Library to rule them aLLMs
 - [rustformers/llm](https://github.com/rustformers/llm) - [Unmaintained, see README] An ecosystem of Rust libraries for working with large language models
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1236,6 +1238,7 @@
 
 ## TypeScript 
 
+- [kitlangton/mail-control](https://github.com/kitlangton/mail-control) - Fast, config-driven CLI for Gmail and iCloud, built on Effect. Multi-account list/search/read/send/reply/forward/archive/unsubscribe from the terminal.
 - [plannotator/herdr-plannotator](https://github.com/plannotator/herdr-plannotator) - Open Plannotator reviews inside Herdr Browser panes.
 - [ogulcancelik/herdr-browser](https://github.com/ogulcancelik/herdr-browser) - Render a real Chromium view inside a Herdr pane and drive it over CDP.
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks

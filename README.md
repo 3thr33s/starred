@@ -592,7 +592,6 @@
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [joelhooks/skills](https://github.com/joelhooks/skills) - Public-safe, generally useful agent skills
 - [oscabriel/skills](https://github.com/oscabriel/skills) - npx skills add -g oscabriel/skills
-- [SubThought/Sentience](https://github.com/SubThought/Sentience) - Building Sentient Beings
 - [kingbootoshi/directional-prompting](https://github.com/kingbootoshi/directional-prompting) - Outcome-first plus directional language. A two-layer skill for writing prompts, agent directives, and skill descriptions. Works in Claude Code and Codex CLI.
 - [mattpocock/agent-rules-books](https://github.com/mattpocock/agent-rules-books) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.
 - [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
@@ -763,6 +762,7 @@
 - [angrysky56/creativity-steer](https://github.com/angrysky56/creativity-steer) - 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [SubThought/Sentience](https://github.com/SubThought/Sentience) - Building Sentient Beings
 - [art8engine/viralman](https://github.com/art8engine/viralman) - Viralman is a tool that will make you a star.
 - [hyun06000/AIL-old](https://github.com/hyun06000/AIL-old) - A programming language designed for AI as the primary author of code
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
@@ -837,7 +837,7 @@
 - [rileylemm/graphrag-hybrid](https://github.com/rileylemm/graphrag-hybrid) - Hybrid Neo4j/Qdrant retrieval system for structured Markdown documentation with YAML frontmatter. Combines graph relationships and vector search for enhanced document retrieval, with built-in MCP inte
 - [BjornMelin/qdrant-neo4j-crawl4ai-mcp](https://github.com/BjornMelin/qdrant-neo4j-crawl4ai-mcp) - MCP server combining Qdrant vector search, Neo4j knowledge graphs, and Crawl4AI web intelligence with agentic RAG capabilities. FastMCP 2.0 architecture with enterprise security, monitoring, and Kuber
 - [ActiveInferenceInstitute/GeneralizedNotationNotation](https://github.com/ActiveInferenceInstitute/GeneralizedNotationNotation) - Methods for specifying, checking, typing, rendering, executing, analyzing, and visualizing state space models, for Active Inference and Beyond.
-- [docxology/cognitive](https://github.com/docxology/cognitive) - Cognitive science research workspace — Active Inference, Bayesian modeling, ant behavior, and computational neuroscience
+- [docxology/cognitive](https://github.com/docxology/cognitive) - Cognitive ecosystem framework pairing Active Inference agent models with an Obsidian-compatible markdown knowledge graph — generates executable Python from markdown specs, runs multi-agent simulations
 - [ActiveInferenceInstitute/cognitive](https://github.com/ActiveInferenceInstitute/cognitive) - Knowledge base and Python package for discrete and continuous Active Inference: generative models, expected free energy, POMDP simulation, and an executable manuscript with reproducible validation com
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI

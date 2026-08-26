@@ -120,6 +120,7 @@
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [NikolaDucak/caps-log](https://github.com/NikolaDucak/caps-log) - A small TUI journaling tool. 📖
 - [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [KhronosGroup/Vulkan-Samples](https://github.com/KhronosGroup/Vulkan-Samples) - One stop solution for all Vulkan samples
@@ -409,7 +410,6 @@
 - [marionebl/share-cli](https://github.com/marionebl/share-cli) - 🌍  Quickly share files from your command line
 - [shannonmoeller/handlebars-wax](https://github.com/shannonmoeller/handlebars-wax) - The missing Handlebars API for data, partials, helpers, and decorators.
 - [elder-plinius/P4RS3LT0NGV3](https://github.com/elder-plinius/P4RS3LT0NGV3) - universal text transformation, translation, mutation, encoding/decoding, and promptcrafting
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism) - 🎉 Generate CSS for your Neumorphism designs
@@ -1526,7 +1526,7 @@
 - [beep-effect/beep-effect](https://github.com/beep-effect/beep-effect) - 
 - [mbilokonsky/rhizomedb](https://github.com/mbilokonsky/rhizomedb) - Once more with feeling: a rhizomatic database using immutable delta-crdts as hyperedges in a deleuzean hypergraph that treats state as a side-effect assembled at query-time.
 - [Glup3/trendingrepos](https://github.com/Glup3/trendingrepos) - Explore the most popular repositories on GitHub, ranked by star difference over selectable time periods.
-- [seanwessmith/bun-mcp](https://github.com/seanwessmith/bun-mcp) - 
+- [seanwessmith/bun-mcp](https://github.com/seanwessmith/bun-mcp) - MCP server for searching and reading official Bun documentation, built with Effect and published as bun-mcp2.
 - [obra/episodic-memory](https://github.com/obra/episodic-memory) - 
 - [SamuelZ12/longcut](https://github.com/SamuelZ12/longcut) - The best way to learn from long videos
 - [remorses/termcast](https://github.com/remorses/termcast) - Turn any Raycast extension into a terminal user interface (TUI). Powered by opentui & react
@@ -2034,7 +2034,7 @@
 - [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist) - ☂️ ESLint plugin for sorting various data such as objects, imports, types, enums, JSX props, etc.
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
-- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A language designed for the web that integrates with TypeScript
+- [aeria-org/aeria](https://github.com/aeria-org/aeria) - A framework/language to prototype webapps fast so you can touch grass
 - [bgub/eta](https://github.com/bgub/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web

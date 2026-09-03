@@ -594,7 +594,6 @@
 - [SubThought/Sentience](https://github.com/SubThought/Sentience) - Building Sentient Beings
 - [kingbootoshi/directional-prompting](https://github.com/kingbootoshi/directional-prompting) - Outcome-first plus directional language. A two-layer skill for writing prompts, agent directives, and skill descriptions. Works in Claude Code and Codex CLI.
 - [mattpocock/agent-rules-books](https://github.com/mattpocock/agent-rules-books) - AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - 🛠️ Awesome tools & guides for harness engineering.
 - [cameronapak/jstack](https://github.com/cameronapak/jstack) - What if your tech stack and software approach was infused with the teachings and values of Jesus?
 - [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM's Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory
@@ -686,12 +685,10 @@
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
-- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [palash25/best-practices-checklist](https://github.com/palash25/best-practices-checklist) - A list of awesome idiomatic code resources. Rust:crab:, Go, Ruby:gem:, Pony :horse:, Ocaml :camel:, Erlang and more
 - [Sairyss/backend-best-practices](https://github.com/Sairyss/backend-best-practices) - Best practices, tools and guidelines for backend development. Code examples in TypeScript + NodeJS
 - [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [Trustworthy-AI-Group/Adversarial_Examples_Papers](https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers) - A list of recent papers about adversarial learning
 - [dagger/agents](https://github.com/dagger/agents) - 
 - [jim-schwoebel/voice_datasets](https://github.com/jim-schwoebel/voice_datasets) - 🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).
@@ -867,7 +864,7 @@
 - [ptarau/recursors](https://github.com/ptarau/recursors) - Full Automation of Goal-driven LLM Dialog Threads with And-Or Recursors and Refiner Oracles
 - [Genesis-Embodied-AI/genesis-world](https://github.com/Genesis-Embodied-AI/genesis-world) - Simulation platform for general-purpose robotics & embodied AI learning.
 - [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) - LangChain 🔌 MCP
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
 - [Mirascope/mirascope](https://github.com/Mirascope/mirascope) - The LLM Anti-Framework
 - [namin/holey](https://github.com/namin/holey) - Python library for program synthesis and symbolic execution combining constraint solving and LLMs
 - [daviddebot/CMR](https://github.com/daviddebot/CMR) - Code for Interpretable Concept-Based Memory Reasoning (NeurIPS 2024)
@@ -966,7 +963,7 @@
 - [grapeot/devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textu
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -977,7 +974,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Community plugin to control Blender 3D with any LLM of your choice
@@ -1022,6 +1019,7 @@
 
 ## Rust 
 
+- [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate) - Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight back to the agent.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [anomalyco/terminal-control](https://github.com/anomalyco/terminal-control) - 
 - [alexarthurs/herdr-sidebar](https://github.com/alexarthurs/herdr-sidebar) - VS Code-style sidebar for the herdr: file explorer + git source control in one pane — syntax-highlighted previews, VS Code-style diffs, GitLens-style drawers, AI commit messages
@@ -1124,7 +1122,7 @@
 - [chaosprint/asak](https://github.com/chaosprint/asak) - A cross-platform audio recording/playback CLI tool with TUI, written in Rust.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
-- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph-vector database built in Rust on Object Storage.
+- [HelixDB/helix-db](https://github.com/HelixDB/helix-db) - HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.
 - [mohsen1/yek](https://github.com/mohsen1/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [flox/flox](https://github.com/flox/flox) - The Deterministic Foundation for your SDLC
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -1242,7 +1240,7 @@
 
 ## TypeScript 
 
-- [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate) - Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight back to the agent.
+- [dmmulroy/herdr-ts-sdk](https://github.com/dmmulroy/herdr-ts-sdk) - Effect-native TypeScript SDK for Herdr's local protocol-21 socket API
 - [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building modular agents around an immutable event log.
 - [kitlangton/mail-control](https://github.com/kitlangton/mail-control) - Fast, config-driven CLI for Gmail and iCloud, built on Effect. Multi-account list/search/read/send/reply/forward/archive/unsubscribe from the terminal.
 - [plannotator/herdr-plannotator](https://github.com/plannotator/herdr-plannotator) - Open Plannotator reviews inside Herdr Browser panes.
@@ -1297,7 +1295,7 @@
 - [llblab/pi-actors](https://github.com/llblab/pi-actors) - Local Actor Kernel for Pi
 - [cgxeiji/pi-emote](https://github.com/cgxeiji/pi-emote) - 
 - [callstack/agent-device](https://github.com/callstack/agent-device) - Mobile app automation and verification for AI coding agents. CLI, MCP server, and typed Node.js API for iOS, Android, HarmonyOS, TV, web, macOS, and Linux.
-- [brandhaug/b2b-saas-starter](https://github.com/brandhaug/b2b-saas-starter) - Cloudflare-first B2B SaaS monorepo starter. TanStack Start, Effect v4, Drizzle on D1, Better Auth, Alchemy v2, REST + MCP, React Email, Storybook, Vitest, Playwright, oxlint, oxfmt, Turbo, Bun.
+- [brandhaug/b2b-saas-starter](https://github.com/brandhaug/b2b-saas-starter) - Cloudflare-first B2B SaaS monorepo starter. TanStack Start, Effect v4, Drizzle on D1, Better Auth, Alchemy v2, REST + MCP, React Email, Storybook, Vitest, Playwright, oxlint, oxfmt, Vite+, pnpm.
 - [deevus/pi-wayfinder](https://github.com/deevus/pi-wayfinder) - Structure-aware code navigation and anchor-stable editing tools for pi agents
 - [thesysdev/openclaw-os](https://github.com/thesysdev/openclaw-os) - The default workspace for OpenClaw
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -1319,6 +1317,7 @@
 - [mw10013/tanstack-cloudflare-effect-shopify-app](https://github.com/mw10013/tanstack-cloudflare-effect-shopify-app) - Port of the Shopify App Template to TanStack Start + Cloudflare Workers + Effect v4.
 - [cevr/gent](https://github.com/cevr/gent) - A gentle giant for agentic work. Minimal harness, maximal leverage.
 - [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering) - Harness engineering beginner tutorial, from 0 to 1
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [olo-dot-io/Uni-CLI](https://github.com/olo-dot-io/Uni-CLI) - One command for every interface—search, run, and inspect real software across APIs, browsers, desktops, local tools, and MCP.
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [cloudflare/templates](https://github.com/cloudflare/templates) - Templates for Cloudflare Workers
@@ -1913,7 +1912,7 @@
 - [Elastic-Networth-Visualizer/env-event-stream](https://github.com/Elastic-Networth-Visualizer/env-event-stream) - A high-performance, feature-rich event stream library powered by Deno, the backbone for event-driven architectures
 - [skymethod/denoflare](https://github.com/skymethod/denoflare) - Develop, test, and deploy Cloudflare Workers with Deno.
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
-- [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS
+- [TylorS/typed](https://github.com/TylorS/typed) - Web Applications with Effect-TS v3 :: See https://github.com/TylorS/typed-smol for v4
 - [mikehw/deno-langchain-demo](https://github.com/mikehw/deno-langchain-demo) - Demo Deno as a tool for arbitrary JavaScript code execution in langchain
 - [fynnfluegge/rocketnotes](https://github.com/fynnfluegge/rocketnotes) - ✨ AI-powered markdown editor - leverage LLMs with your documents - 100% local or in the cloud
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys) - A tiny (~650 B) & modern library for keybindings.
@@ -2051,6 +2050,7 @@
 - [dmno-dev/dmno](https://github.com/dmno-dev/dmno) - The missing middleware for your configuration and secrets.
 - [kevingorski/denodevs.com](https://github.com/kevingorski/denodevs.com) - Deno developer reverse job board
 - [rvion/CushyStudio](https://github.com/rvion/CushyStudio) - 🛋 The AI and Generative Art platform for everyone
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum) - A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.
 - [impulse-oss/impulse](https://github.com/impulse-oss/impulse) - Impossible Dev Tools for React and Tailwind
 - [fwouts/previewjs](https://github.com/fwouts/previewjs) - Preview UI components in your IDE instantly
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -2092,6 +2092,7 @@
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium) - Next-gen language engineering / DSL framework
 - [sondr3/radiant](https://github.com/sondr3/radiant) - Blaze your way through HTML using the type-safety of TypeScript
 - [Hexagon/pup](https://github.com/Hexagon/pup) - Universal process manager built in Deno
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [chibisafe/chibisafe](https://github.com/chibisafe/chibisafe) - Blazing fast file vault written in TypeScript! 🚀
 - [neplexlabs/canvacord](https://github.com/neplexlabs/canvacord) - Easily generate images using react-like components in nodejs. Canvacord is suitable for creating dynamic images such as social media posts, greetings cards, memes, etc. It is also possible to create y
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system

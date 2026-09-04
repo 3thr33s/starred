@@ -1240,6 +1240,7 @@
 
 ## TypeScript 
 
+- [danieljvdm/effect-agent](https://github.com/danieljvdm/effect-agent) - 
 - [dmmulroy/herdr-ts-sdk](https://github.com/dmmulroy/herdr-ts-sdk) - Effect-native TypeScript SDK for Herdr's local protocol-21 socket API
 - [clavia-labs/tardigrade](https://github.com/clavia-labs/tardigrade) - The TypeScript framework for building modular agents around an immutable event log.
 - [kitlangton/mail-control](https://github.com/kitlangton/mail-control) - Fast, config-driven CLI for Gmail and iCloud, built on Effect. Multi-account list/search/read/send/reply/forward/archive/unsubscribe from the terminal.
@@ -1443,7 +1444,7 @@
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [steipete/macos-automator-mcp](https://github.com/steipete/macos-automator-mcp) - An MCP server to run AppleScript and JXA (JavaScript for Automation) to macOS.
 - [coder/ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [remorses/gitchamber](https://github.com/remorses/gitchamber) - Download GitHub repos locally. opensrc alternative that does not edit your AGENTS.md
 - [tangshuang/webcut](https://github.com/tangshuang/webcut) - A powerful Web video editing UI framework, designed to help Web applications quickly integrate professional-grade video editing features.
 - [lazuee/bun-plugin-import-glob](https://github.com/lazuee/bun-plugin-import-glob) - A Bun plugin that support import.meta.glob imports.

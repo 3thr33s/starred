@@ -839,7 +839,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
@@ -906,7 +906,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - Google SEO Research and Web Traffic Monetization
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -2441,7 +2441,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 300 powerful ESLint rules
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [cross-org/kv](https://github.com/cross-org/kv) - A fast, lightweight, powerful and cross-platform key-value database for Node.js, Deno, and Bun.
@@ -3171,7 +3171,7 @@
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [cross-org/kv](https://github.com/cross-org/kv) - A fast, lightweight, powerful and cross-platform key-value database for Node.js, Deno, and Bun.
 - [aeria-org/aeria](https://github.com/aeria-org/aeria) - A framework/language to prototype webapps fast so you can touch grass
 - [Hexagon/pup](https://github.com/Hexagon/pup) - Universal process manager built in Deno
@@ -3227,7 +3227,7 @@
 - [sindresorhus/promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 300 powerful ESLint rules
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL JULY]
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED TEMPORARILY]
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [bgub/eta](https://github.com/bgub/eta) - Embedded JS template engine for Node, Deno, and the browser. Lighweight, fast, and pluggable. Written in TypeScript
 - [mtcute/mtcute](https://github.com/mtcute/mtcute) - modern typescript library for mtproto. supports browsers, node/bun, deno and more!
@@ -3404,6 +3404,7 @@
 
 ## others 
 
+- [bjacobso/triplex](https://github.com/bjacobso/triplex) - An Effect-native fact database for applications that have to explain themselves.
 - [danieljvdm/effect-agent](https://github.com/danieljvdm/effect-agent) - 
 - [dmmulroy/herdr-ts-sdk](https://github.com/dmmulroy/herdr-ts-sdk) - Effect-native TypeScript SDK for Herdr's local protocol-21 socket API
 - [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate) - Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight back to the agent.
@@ -3513,7 +3514,7 @@
 - [lllyasviel/VCC](https://github.com/lllyasviel/VCC) - Compile agent conversations!
 - [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc) - Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-preserving summaries using pure extraction and formatting.
 - [hjanuschka/pi-multi-pass](https://github.com/hjanuschka/pi-multi-pass) - Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)
-- [companion-inc/feynman](https://github.com/companion-inc/feynman) - 
+- [advaitpaliwal/feynman](https://github.com/advaitpaliwal/feynman) - The open source AI research agent.
 - [nicobailon/pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell) - Pi coding agent extension that allows Pi to autonomously control interactive CLIs in an observable overlay. Full PTY emulation, no  tmux, token efficient. User can take over anytime.
 - [burggraf/pi-teams](https://github.com/burggraf/pi-teams) - 
 - [marcfargas/pi-test-harness](https://github.com/marcfargas/pi-test-harness) - Test harness for pi extensions — playbook-based model mocking, session testing, sandbox install verification
@@ -4535,6 +4536,7 @@
 
 ## react 
 
+- [kitlangton/rolling-number](https://github.com/kitlangton/rolling-number) - Interruptible, locale-aware rolling numbers for the web. TypeScript core and React adapter.
 - [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) - A framework for building agentic apps
 - [Remocn/remocn](https://github.com/Remocn/remocn) - Production-ready animations, transitions, backgrounds, and scenes for Remotion
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
@@ -5257,6 +5259,7 @@
 
 ## typescript 
 
+- [kitlangton/rolling-number](https://github.com/kitlangton/rolling-number) - Interruptible, locale-aware rolling numbers for the web. TypeScript core and React adapter.
 - [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 - [mac-monet/effect-domain](https://github.com/mac-monet/effect-domain) - Effect-native single source of truth for your API
 - [anolilab/lunora](https://github.com/anolilab/lunora) - Type-safe, real-time backend framework on your own Cloudflare account — Workers, Durable Objects, D1, R2, Queues. Convex-style DX, Vite-first.
